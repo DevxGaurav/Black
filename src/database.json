@@ -12,7 +12,7 @@
       "episodes": [{
         "name": "Joker (2019)",
         "thumbnail": "",
-        "url": "media/Media/Movies/Joker/Joker 2019 [1080p].mp4",
+        "url": "media/Movies/Joker/Joker 2019 [1080p].mp4",
         "duration": "2:01:49",
         "quality": "1080p",
         "release": "2019"
@@ -26,54 +26,54 @@
       "episodes": [{
         "name": "Harry Potter and the Philosopher's Stone",
         "thumbnail": "https://images-na.ssl-images-amazon.com/images/I/815v2OuIHXL._AC_SL1500_.jpg",
-        "url": "media/Media/Movies/Harry Potter/Harry.Potter.and.the.Sorcerers.Stone.2001.1080p.BrRip.x264.YIFY ( FIRST TRY).mp4",
+        "url": "media/Movies/Harry Potter/Harry.Potter.and.the.Sorcerers.Stone.2001.1080p.BrRip.x264.YIFY ( FIRST TRY).mp4",
         "duration": "2:32:21",
         "quality": "1080p",
         "release": "2001"
       }, {
         "name": "Harry Potter and the Chamber of Secrets",
         "thumbnail": "https://rukminim1.flixcart.com/image/400/400/jgmkwi80/movie/v/q/c/2002-dvd-warner-bros-pictures-english-harry-potter-and-the-original-imaf4sj6ggpzqywy.jpeg?q=90",
-        "url": "media/Media/Movies/Harry Potter/Harry.Potter.and.the.Chamber.of.Secrets.2002.1080p.BrRip.x264.YIFY.mp4",
+        "url": "media/Movies/Harry Potter/Harry.Potter.and.the.Chamber.of.Secrets.2002.1080p.BrRip.x264.YIFY.mp4",
         "duration": "2:40:56",
         "quality": "1080p",
         "release": "2002"
       }, {
         "name": "Harry Potter and the Prisoner of Azkaban",
         "thumbnail": "https://m.media-amazon.com/images/M/MV5BMTY4NTIwODg0N15BMl5BanBnXkFtZTcwOTc0MjEzMw@@._V1_.jpg",
-        "url": "media/Media/Movies/Harry Potter/Harry Potter and the Prisoner of Azkaban (2004) 1080p.BRrip.scOrp.sujaidr (pimprg).mkv",
+        "url": "media/Movies/Harry Potter/Harry Potter and the Prisoner of Azkaban (2004) 1080p.BRrip.scOrp.sujaidr (pimprg).mkv",
         "duration": "2:21:45",
         "quality": "1080p",
         "release": "2004"
       }, {
         "name": "Harry Potter and the Goblet of Fire",
         "thumbnail": "https://vignette.wikia.nocookie.net/harrypotter/images/2/2c/Goblet_of_Fire_Film_Poster.jpg/revision/latest?cb=20140817011104",
-        "url": "media/Media/Movies/Harry Potter/Harry.Potter.and.the.Goblet.of.Fire.2005.1080p.BrRip.x264.YIFY.mp4",
+        "url": "media/Movies/Harry Potter/Harry.Potter.and.the.Goblet.of.Fire.2005.1080p.BrRip.x264.YIFY.mp4",
         "duration": "2:37:05",
         "quality": "1080p",
         "release": "2005"
       }, {
         "name": "Harry Potter and the Order of the Phoenix",
         "thumbnail": "https://vignette.wikia.nocookie.net/harrypotter/images/7/70/Harry_Potter_and_the_Order_of_the_Phoenix.jpg/revision/latest?cb=20161002074140",
-        "url": "media/Media/Movies/Harry Potter/Harry.Potter.and.the.Order.of.the.Phoenix.2007.1080p.BrRip.x264.YIFY.mp4",
+        "url": "media/Movies/Harry Potter/Harry.Potter.and.the.Order.of.the.Phoenix.2007.1080p.BrRip.x264.YIFY.mp4",
         "duration": "2:18:14",
         "quality": "1080p",
         "release": "2007"
       }, {
         "name": "Harry Potter and the Half-Blood Prince",
         "thumbnail": "https://vignette.wikia.nocookie.net/harrypotter/images/2/23/Hp6_poster_br.jpg/revision/latest?cb=20141215114252",
-        "url": "media/Media/Movies/Harry Potter/Harry.Potter.and.the.Half.Blood.Prince.2009.1080p.BrRip.x264.YIFY.mp4",
+        "url": "media/Movies/Harry Potter/Harry.Potter.and.the.Half.Blood.Prince.2009.1080p.BrRip.x264.YIFY.mp4",
         "duration": "2:33:31",
         "quality": "1080p",
         "release": "2009"
       }, {
-        "name": "Harry Potter and the Deathly Hallows – Part 1",
+        "name": "Harry Potter and the Deathly Hallows Part 1",
         "thumbnail": "https://m.media-amazon.com/images/M/MV5BMTQ2OTE1Mjk0N15BMl5BanBnXkFtZTcwODE3MDAwNA@@._V1_.jpg",
-        "url": "media/Media/Movies/Harry Potter/Harry.Potter.and.the.Deathly.Hallows.Part.1.2010.1080p.BrRip.x264.YIFY.mp4",
+        "url": "media/Movies/Harry Potter/Harry.Potter.and.the.Deathly.Hallows.Part.1.2010.1080p.BrRip.x264.YIFY.mp4",
         "duration": "2:26:05",
         "quality": "1080p",
         "release": "2010"
       }, {
-        "name": "Harry Potter and the Deathly Hallows – Part 2",
+        "name": "Harry Potter and the Deathly Hallows Part 2",
         "thumbnail": "https://www.wired.com/wp-content/uploads/blogs/geekdad/wp-content/uploads/2011/07/ActionHarry-1Sht-660x963.jpg",
         "url": "media/Movies/Harry Potter/Harry Potter And The Deathly Hallows Part 2 2011 1080p Bluray x264 (DTS) - HarryLala.mkv",
         "duration": "2:10:26",
@@ -91,56 +91,56 @@
         "episodes": [{
           "name": "Chapter One: The Vanishing of Will Byers",
           "thumbnail": "",
-          "url": "media/Media/Shows/Stranger Things/S01/E (1).mkv",
+          "url": "media/Shows/Stranger Things/S01/E (1).mkv",
           "duration": "00:47:30",
           "quality": "1080p",
           "release": "2016"
         }, {
           "name": "Chapter Two: The Weirdo on Maple Street",
           "thumbnail": "",
-          "url": "media/Media/Shows/Stranger Things/S01/E (2).mkv",
+          "url": "media/Shows/Stranger Things/S01/E (2).mkv",
           "duration": "00:54:22",
           "quality": "1080p",
           "release": "2016"
         }, {
           "name": "Chapter Three: Holly, Jolly",
           "thumbnail": "",
-          "url": "media/Media/Shows/Stranger Things/S01/E (3).mkv",
+          "url": "media/Shows/Stranger Things/S01/E (3).mkv",
           "duration": "00:50:49",
           "quality": "1080p",
           "release": "2016"
         }, {
           "name": "Chapter Four: The Body",
           "thumbnail": "",
-          "url": "media/Media/Shows/Stranger Things/S01/E (4).mkv",
+          "url": "media/Shows/Stranger Things/S01/E (4).mkv",
           "duration": "00:49:25",
           "quality": "1080p",
           "release": "2016"
         }, {
           "name": "Chapter Five: The Flea and the Acrobat",
           "thumbnail": "",
-          "url": "media/Media/Shows/Stranger Things/S01/E (5).mkv",
+          "url": "media/Shows/Stranger Things/S01/E (5).mkv",
           "duration": "00:52:00",
           "quality": "1080p",
           "release": "2016"
         }, {
           "name": "Chapter Six: The Monster",
           "thumbnail": "",
-          "url": "media/Media/Shows/Stranger Things/S01/E (6).mkv",
+          "url": "media/Shows/Stranger Things/S01/E (6).mkv",
           "duration": "00:45:45",
           "quality": "1080p",
           "release": "2016"
         }, {
           "name": "Chapter Seven: The Bathtub",
           "thumbnail": "",
-          "url": "media/Media/Shows/Stranger Things/S01/E (7).mkv",
+          "url": "media/Shows/Stranger Things/S01/E (7).mkv",
           "duration": "00:41:03",
           "quality": "1080p",
           "release": "2016"
         }, {
           "name": "Chapter Eight: The Upside Down",
           "thumbnail": "",
-          "url": "media/Media/Shows/Stranger Things/S01/E (8).mkv",
+          "url": "media/Shows/Stranger Things/S01/E (8).mkv",
           "duration": "00:53:46",
           "quality": "1080p",
           "release": "2016"
@@ -150,63 +150,63 @@
         "episodes": [{
           "name": "Chapter One: MADMAX",
           "thumbnail": "",
-          "url": "media/Media/Shows/Stranger Things/S02/E (1).mkv",
+          "url": "media/Shows/Stranger Things/S02/E (1).mkv",
           "duration": "00:47:49",
           "quality": "1080p",
           "release": "2017"
         }, {
           "name": "Chapter Two: Trick or Treat, Freak",
           "thumbnail": "",
-          "url": "media/Media/Shows/Stranger Things/S02/E (2).mkv",
+          "url": "media/Shows/Stranger Things/S02/E (2).mkv",
           "duration": "00:55:40",
           "quality": "1080p",
           "release": "2017"
         }, {
           "name": "Chapter Three: The Pollywog",
           "thumbnail": "",
-          "url": "media/Media/Shows/Stranger Things/S02/E (3).mkv",
+          "url": "media/Shows/Stranger Things/S02/E (3).mkv",
           "duration": "00:50:37",
           "quality": "1080p",
           "release": "2017"
         }, {
           "name": "Chapter Four: Will the Wise",
           "thumbnail": "",
-          "url": "media/Media/Shows/Stranger Things/S02/E (4).mkv",
+          "url": "media/Shows/Stranger Things/S02/E (4).mkv",
           "duration": "00:45:59",
           "quality": "1080p",
           "release": "2017"
         }, {
           "name": "Chapter Five: Dig Dug",
           "thumbnail": "",
-          "url": "media/Media/Shows/Stranger Things/S02/E (5).mkv",
+          "url": "media/Shows/Stranger Things/S02/E (5).mkv",
           "duration": "00:57:44",
           "quality": "1080p",
           "release": "2017"
         }, {
           "name": "Chapter Six: The Spy",
           "thumbnail": "",
-          "url": "media/Media/Shows/Stranger Things/S02/E (6).mkv",
+          "url": "media/Shows/Stranger Things/S02/E (6).mkv",
           "duration": "00:51:29",
           "quality": "1080p",
           "release": "2017"
         }, {
           "name": "Chapter Seven: The Lost Sister",
           "thumbnail": "",
-          "url": "media/Media/Shows/Stranger Things/S02/E (7).mkv",
+          "url": "media/Shows/Stranger Things/S02/E (7).mkv",
           "duration": "00:45:17",
           "quality": "1080p",
           "release": "2017"
         }, {
           "name": "Chapter Eight: The Mind Flayer",
           "thumbnail": "",
-          "url": "media/Media/Shows/Stranger Things/S02/E (8).mkv",
+          "url": "media/Shows/Stranger Things/S02/E (8).mkv",
           "duration": "00:47:29",
           "quality": "1080p",
           "release": "2017"
         }, {
           "name": "Chapter Nine: The Gate",
           "thumbnail": "",
-          "url": "media/Media/Shows/Stranger Things/S02/E (9).mkv",
+          "url": "media/Shows/Stranger Things/S02/E (9).mkv",
           "duration": "01:01:48",
           "quality": "1080p",
           "release": "2017"
@@ -216,56 +216,56 @@
         "episodes": [{
           "name": "Chapter One: Suzie, Do You Copy?",
           "thumbnail": "",
-          "url": "media/Media/Shows/Stranger Things/S03/E (1).mkv",
+          "url": "media/Shows/Stranger Things/S03/E (1).mkv",
           "duration": "00:50:33",
           "quality": "1080p",
           "release": "2019"
         }, {
           "name": "Chapter Two: The Mall Rats",
           "thumbnail": "",
-          "url": "media/Media/Shows/Stranger Things/S03/E (2).mkv",
+          "url": "media/Shows/Stranger Things/S03/E (2).mkv",
           "duration": "00:50:09",
           "quality": "1080p",
           "release": "2019"
         }, {
           "name": "Chapter Three: The Case of the Missing Lifeguard",
           "thumbnail": "",
-          "url": "media/Media/Shows/Stranger Things/S03/E (3).mkv",
+          "url": "media/Shows/Stranger Things/S03/E (3).mkv",
           "duration": "00:49:43",
           "quality": "1080p",
           "release": "2019"
         }, {
           "name": "Chapter Four: The Sauna Test",
           "thumbnail": "",
-          "url": "media/Media/Shows/Stranger Things/S03/E (4).mkv",
+          "url": "media/Shows/Stranger Things/S03/E (4).mkv",
           "duration": "00:52:43",
           "quality": "1080p",
           "release": "2019"
         }, {
           "name": "Chapter Five: The Flayed",
           "thumbnail": "",
-          "url": "media/Media/Shows/Stranger Things/S03/E (5).mkv",
+          "url": "media/Shows/Stranger Things/S03/E (5).mkv",
           "duration": "00:52:00",
           "quality": "1080p",
           "release": "2019"
         }, {
           "name": "Chapter Six: E Pluribus Unum",
           "thumbnail": "",
-          "url": "media/Media/Shows/Stranger Things/S03/E (6).mkv",
+          "url": "media/Shows/Stranger Things/S03/E (6).mkv",
           "duration": "00:59:38",
           "quality": "1080p",
           "release": "2019"
         }, {
           "name": "Chapter Seven: The Bite",
           "thumbnail": "",
-          "url": "media/Media/Shows/Stranger Things/S03/E (7).mkv",
+          "url": "media/Shows/Stranger Things/S03/E (7).mkv",
           "duration": "00:55:06",
           "quality": "1080p",
           "release": "2019"
         }, {
           "name": "Chapter Eight: The Battle of Starcourt",
           "thumbnail": "",
-          "url": "media/Media/Shows/Stranger Things/S03/E (8).mkv",
+          "url": "media/Shows/Stranger Things/S03/E (8).mkv",
           "duration": "01:17:09",
           "quality": "1080p",
           "release": "2019"
