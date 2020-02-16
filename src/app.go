@@ -19,7 +19,7 @@ func main() {
 }
 
 func home(w http.ResponseWriter, r *http.Request) {
-	Respond(w, 200, "Please download the app to continue!", nil)
+	Respond(w, 200, "Please download the app to continue!  https://drive.google.com/open?id=1ohr1ce7CnQa_TmDCDqRkezSeKdfK40on", nil)
 }
 
 func app(w http.ResponseWriter, r *http.Request) {
