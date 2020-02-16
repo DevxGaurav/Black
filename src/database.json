@@ -8,7 +8,7 @@
       "name": "Joker",
       "poster": "https://www.joblo.com/assets/images/joblo/posters/2019/08/joker-poster-main2.jpg",
       "banner": "https://penchalk.com/wp-content/uploads/2019/11/share.jpg",
-      "type": "movie",
+      "type": "Movie",
       "episodes": [{
         "name": "Joker (2019)",
         "thumbnail": "",
@@ -22,7 +22,7 @@
       "name": "Harry Potter",
       "poster": "https://mypostercollection.com/wp-content/uploads/2018/09/Harry-Potter-Poster-2001-MyPosterCollection.com-1-683x1024.jpg",
       "banner": "https://shopwhopper.com/wp-content/uploads/2017/11/New-style-Harry-Potter-Poster-Custom-Canvas-Poster-Art-Home-Decoration-Cloth-Fabric-Wall-Poster-Print-37.jpg_640x640-37.jpg",
-      "type": "movie",
+      "type": "Movie",
       "episodes": [{
         "name": "Harry Potter and the Philosopher's Stone",
         "thumbnail": "https://images-na.ssl-images-amazon.com/images/I/815v2OuIHXL._AC_SL1500_.jpg",
@@ -85,9 +85,9 @@
       "name": "Stranger Things",
       "poster": "https://images-na.ssl-images-amazon.com/images/I/81QDU13hAAL._AC_SL1200_.jpg",
       "banner": "https://i2.wp.com/www.slaphappylarry.com/wp-content/uploads/2016/07/stranger-things-banner.jpg?fit=1383%2C736&ssl=1",
-      "type": "show",
+      "type": "Show",
       "seasons": [{
-        "name": "S01",
+        "name": "Season 1",
         "episodes": [{
           "name": "Chapter One: The Vanishing of Will Byers",
           "thumbnail": "",
@@ -146,7 +146,7 @@
           "release": "2016"
         }]
       }, {
-        "name": "S02",
+        "name": "Season 2",
         "episodes": [{
           "name": "Chapter One: MADMAX",
           "thumbnail": "",
@@ -212,7 +212,7 @@
           "release": "2017"
         }]
       }, {
-        "name": "S03",
+        "name": "Season 3",
         "episodes": [{
           "name": "Chapter One: Suzie, Do You Copy?",
           "thumbnail": "",
@@ -275,7 +275,410 @@
       "name": "The OA",
       "poster": "https://m.media-amazon.com/images/M/MV5BMTY5OTkwNDkzOF5BMl5BanBnXkFtZTgwMDEyNzI1NzM@._V1_.jpg",
       "banner": "https://4.bp.blogspot.com/-lsa-znyVmjE/WVZnYLeX09I/AAAAAAAAKkU/oKRWXTe4Nis8iaE6JO5ot1lZa9eeeUZEQCEwYBhgL/s1600/Alt%2BPoster%2Bfor%2BThe%2BOA%2Bon%2BNetflix.png",
-      "type": "show",
-      "seasons": []
+      "type": "Show",
+      "seasons": [{
+        "name": "Season 1",
+        "episodes": [{
+          "name": "Chapter 1: Homecoming",
+          "thumbnail": "",
+          "url": "media/Shows/TheOA/S01/e (1).mkv",
+          "duration": "01:11:17",
+          "quality": "1080p",
+          "release": "2016"
+        }, {
+          "name": "Chapter 2: New Colossus",
+          "thumbnail": "",
+          "url": "media/Shows/TheOA/S01/e (2).mkv",
+          "duration": "00:58:38",
+          "quality": "1080p",
+          "release": "2016"
+        }, {
+          "name": "Chapter 3: Champion",
+          "thumbnail": "",
+          "url": "media/Shows/TheOA/S01/e (3).mkv",
+          "duration": "01:00:58",
+          "quality": "1080p",
+          "release": "2016"
+        }, {
+          "name": "Chapter 4: Away",
+          "thumbnail": "",
+          "url": "media/Shows/TheOA/S01/e (4).mkv",
+          "duration": "01:04:04",
+          "quality": "1080p",
+          "release": "2016"
+        }, {
+          "name": "Chapter 5: Paradise",
+          "thumbnail": "",
+          "url": "media/Shows/TheOA/S01/e (5).mkv",
+          "duration": "01:01:08",
+          "quality": "1080p",
+          "release": "2016"
+        }, {
+          "name": "Chapter 6: Forking Paths",
+          "thumbnail": "",
+          "url": "media/Shows/TheOA/S01/e (6).mkv",
+          "duration": "00:31:24",
+          "quality": "1080p",
+          "release": "2016"
+        }, {
+          "name": "Chapter 7: Empire of Light",
+          "thumbnail": "",
+          "url": "media/Shows/TheOA/S01/e (7).mkv",
+          "duration": "00:41:41",
+          "quality": "1080p",
+          "release": "2016"
+        }, {
+          "name": "Chapter 8: Invisible Self",
+          "thumbnail": "",
+          "url": "media/Shows/TheOA/S01/e (8).mkv",
+          "duration": "00:50:01",
+          "quality": "1080p",
+          "release": "2016"
+        }]
+      }, {
+        "name": "Season 2",
+        "episodes": [{
+          "name": "Chapter 1: Angel of Death",
+          "thumbnail": "",
+          "url": "media/Shows/TheOA/S02/e (1).mkv",
+          "duration": "01:08:36",
+          "quality": "1080p",
+          "release": "2016"
+        }, {
+          "name": "Chapter 2: Treasure Island",
+          "thumbnail": "",
+          "url": "media/Shows/TheOA/S02/e (2).mkv",
+          "duration": "01:10:30",
+          "quality": "1080p",
+          "release": "2016"
+        }, {
+          "name": "Chapter 3: Magic Mirror",
+          "thumbnail": "",
+          "url": "media/Shows/TheOA/S02/e (3).mkv",
+          "duration": "00:55:17",
+          "quality": "1080p",
+          "release": "2016"
+        }, {
+          "name": "Chapter 4: SYZYGY",
+          "thumbnail": "",
+          "url": "media/Shows/TheOA/S02/e (4).mkv",
+          "duration": "01:03:14",
+          "quality": "1080p",
+          "release": "2016"
+        }, {
+          "name": "Chapter 5: The Medium & the Engineer",
+          "thumbnail": "",
+          "url": "media/Shows/TheOA/S02/e (5).mkv",
+          "duration": "00:42:53",
+          "quality": "1080p",
+          "release": "2016"
+        }, {
+          "name": "Chapter 6: Mirror Mirror",
+          "thumbnail": "",
+          "url": "media/Shows/TheOA/S02/e (6).mkv",
+          "duration": "00:47:35",
+          "quality": "1080p",
+          "release": "2016"
+        }, {
+          "name": "Chapter 7: Nina Azarova",
+          "thumbnail": "",
+          "url": "media/Shows/TheOA/S02/e (7).mkv",
+          "duration": "00:51:47",
+          "quality": "1080p",
+          "release": "2016"
+        }, {
+          "name": "Chapter 8: Overview",
+          "thumbnail": "",
+          "url": "media/Shows/TheOA/S02/e (8).mkv",
+          "duration": "00:43:03",
+          "quality": "1080p",
+          "release": "2016"
+        }]
+      }]
+    }, {
+      "name": "Uri: The Surgical Strike",
+      "poster": "https://m.media-amazon.com/images/M/MV5BMWU4ZjNlNTQtOGE2MS00NDI0LWFlYjMtMmY3ZWVkMjJkNGRmXkEyXkFqcGdeQXVyNjE1OTQ0NjA@._V1_.jpg",
+      "banner": "https://filmspell.com/wp-content/uploads/2019/01/URI-THE-SURGICAL-STRIKE-HD-Poster-1.jpg",
+      "type": "Movie",
+      "episodes": [{
+        "name": "Uri: The Surgical Strike",
+        "thumbnail": "",
+        "url": "media/Movies/Uri/uri.mp4",
+        "duration": "02:18:15",
+        "quality": "1080p",
+        "release": "2019"
+      }]
+    }, {
+      "name": "Interstellar",
+      "poster": "https://images-na.ssl-images-amazon.com/images/I/91kFYg4fX3L.jpg",
+      "banner": "https://wegeekgirls.files.wordpress.com/2014/11/interstellar_imax-banner.jpg",
+      "type": "Movie",
+      "episodes": [{
+        "name": "Interstellar",
+        "thumbnail": "",
+        "url": "media/Movies/Interstellar/interstellar.mp4",
+        "duration": "02:49:04",
+        "quality": "1080p",
+        "release": "2014"
+      }]
+    }, {
+      "name": "End of The F***ing World",
+      "poster": "https://ae01.alicdn.com/kf/HTB1oQ0hTkvoK1RjSZFNq6AxMVXa5/The-End-of-the-Fucking-World-Retro-poster-kraft-paper-poster-home-decor-painting-vintage-decorative.jpg_640x640.jpg",
+      "banner": "https://4.bp.blogspot.com/-x9FSfqrl_mA/WluiIsPcs1I/AAAAAAAANOc/F47dZTv04BEnD41y1JuA-6MTaV8OFR64wCLcBGAs/s1600/end%2Bof%2Bfucking%2Bworld%2Bquotes%2Bnetflix.jpg",
+      "type": "Show",
+      "seasons": [{
+        "name": "Season 1",
+        "episodes": [{
+          "name": "Chapter 1",
+          "thumbnail": "",
+          "url": "media/Shows/The End Of The Fucking World/S01/e (1).mkv",
+          "duration": "00:18:53",
+          "quality": "1080p",
+          "release": "2017"
+        }, {
+          "name": "Chapter 2",
+          "thumbnail": "",
+          "url": "media/Shows/The End Of The Fucking World/S01/e (2).mkv",
+          "duration": "00:22:02",
+          "quality": "1080p",
+          "release": "2017"
+        }, {
+          "name": "Chapter 3",
+          "thumbnail": "",
+          "url": "media/Shows/The End Of The Fucking World/S01/e (3).mkv",
+          "duration": "00:21:50",
+          "quality": "1080p",
+          "release": "2017"
+        }, {
+          "name": "Chapter 4",
+          "thumbnail": "",
+          "url": "media/Shows/The End Of The Fucking World/S01/e (4).mkv",
+          "duration": "00:21:28",
+          "quality": "1080p",
+          "release": "2017"
+        }, {
+          "name": "Chapter 5",
+          "thumbnail": "",
+          "url": "media/Shows/The End Of The Fucking World/S01/e (5).mkv",
+          "duration": "00:20:54",
+          "quality": "1080p",
+          "release": "2017"
+        }, {
+          "name": "Chapter 6",
+          "thumbnail": "",
+          "url": "media/Shows/The End Of The Fucking World/S01/e (6).mkv",
+          "duration": "00:22:42",
+          "quality": "1080p",
+          "release": "2017"
+        }, {
+          "name": "Chapter 7",
+          "thumbnail": "",
+          "url": "media/Shows/The End Of The Fucking World/S01/e (7).mkv",
+          "duration": "00:21:36",
+          "quality": "1080p",
+          "release": "2017"
+        }, {
+          "name": "Chapter 8",
+          "thumbnail": "",
+          "url": "media/Shows/The End Of The Fucking World/S01/e (8).mkv",
+          "duration": "00:19:48",
+          "quality": "1080p",
+          "release": "2017"
+        }]
+      }, {
+        "name": "Season 2",
+        "episodes": [{
+          "name": "Chapter 1",
+          "thumbnail": "",
+          "url": "media/Shows/The End Of The Fucking World/S02/e (1).mkv",
+          "duration": "00:19:48",
+          "quality": "1080p",
+          "release": "2019"
+        }, {
+          "name": "Chapter 2",
+          "thumbnail": "",
+          "url": "media/Shows/The End Of The Fucking World/S02/e (2).mkv",
+          "duration": "00:19:54",
+          "quality": "1080p",
+          "release": "2019"
+        }, {
+          "name": "Chapter 3",
+          "thumbnail": "",
+          "url": "media/Shows/The End Of The Fucking World/S02/e (3).mkv",
+          "duration": "00:22:28",
+          "quality": "1080p",
+          "release": "2019"
+        }, {
+          "name": "Chapter 4",
+          "thumbnail": "",
+          "url": "media/Shows/The End Of The Fucking World/S02/e (4).mkv",
+          "duration": "00:24:42",
+          "quality": "1080p",
+          "release": "2019"
+        }, {
+          "name": "Chapter 5",
+          "thumbnail": "",
+          "url": "media/Shows/The End Of The Fucking World/S02/e (5).mkv",
+          "duration": "00:22:02",
+          "quality": "1080p",
+          "release": "2019"
+        }, {
+          "name": "Chapter 6",
+          "thumbnail": "",
+          "url": "media/Shows/The End Of The Fucking World/S02/e (6).mkv",
+          "duration": "00:19:02",
+          "quality": "1080p",
+          "release": "2019"
+        }, {
+          "name": "Chapter 7",
+          "thumbnail": "",
+          "url": "media/Shows/The End Of The Fucking World/S02/e (7).mkv",
+          "duration": "00:24:38",
+          "quality": "1080p",
+          "release": "2019"
+        }, {
+          "name": "Chapter 8",
+          "thumbnail": "",
+          "url": "media/Shows/The End Of The Fucking World/S02/e (8).mkv",
+          "duration": "00:19:44",
+          "quality": "1080p",
+          "release": "2019"
+        }]
+      }]
+    }, {
+      "name": "Dark",
+      "poster": "https://m.media-amazon.com/images/M/MV5BMmIyZjA3NGUtYjlhNS00ZDlkLWI0MDgtMDc2YWNjNGMwYWZhXkEyXkFqcGdeQXVyMzY0MTE3NzU@._V1_.jpg",
+      "banner": "https://i0.wp.com/screenwars.in/wp-content/uploads/2019/06/dark2-1.jpg?fit=1920%2C1080&ssl=1",
+      "type": "Show",
+      "seasons": [{
+        "name": "Season 1",
+        "episodes": [{
+          "name": "Chapter 1: Secrets",
+          "thumbnail": "",
+          "url": "media/Shows/Dark/S01/E (1).mkv",
+          "duration": "00:51:30",
+          "quality": "1080p",
+          "release": "2017"
+        }, {
+          "name": "Chapter 2: Lies",
+          "thumbnail": "",
+          "url": "media/Shows/Dark/S01/E (2).mkv",
+          "duration": "00:44:44",
+          "quality": "1080p",
+          "release": "2017"
+        }, {
+          "name": "Chapter 3: Past and Present",
+          "thumbnail": "",
+          "url": "media/Shows/Dark/S01/E (3).mkv",
+          "duration": "00:45:30",
+          "quality": "1080p",
+          "release": "2017"
+        }, {
+          "name": "Chapter 4: Double Lives",
+          "thumbnail": "",
+          "url": "media/Shows/Dark/S01/E (4).mkv",
+          "duration": "00:47:28",
+          "quality": "1080p",
+          "release": "2017"
+        }, {
+          "name": "Chapter 5: Truths",
+          "thumbnail": "",
+          "url": "media/Shows/Dark/S01/E (5).mkv",
+          "duration": "00:45:28",
+          "quality": "1080p",
+          "release": "2017"
+        }, {
+          "name": "Chapter 6: Sic Mundus Creatus Est",
+          "thumbnail": "",
+          "url": "media/Shows/Dark/S01/E (6).mkv",
+          "duration": "00:51:00",
+          "quality": "1080p",
+          "release": "2017"
+        }, {
+          "name": "Chapter 7: Crossroads",
+          "thumbnail": "",
+          "url": "media/Shows/Dark/S01/E (7).mkv",
+          "duration": "00:51:32",
+          "quality": "1080p",
+          "release": "2017"
+        }, {
+          "name": "Chapter 8: As You Sow, so You Shall Reap",
+          "thumbnail": "",
+          "url": "media/Shows/Dark/S01/E (8).mkv",
+          "duration": "00:50:22",
+          "quality": "1080p",
+          "release": "2017"
+        }, {
+          "name": "Chapter 9: Everything Is Now",
+          "thumbnail": "",
+          "url": "media/Shows/Dark/S01/E (9).mkv",
+          "duration": "00:55:18",
+          "quality": "1080p",
+          "release": "2017"
+        }, {
+          "name": "Chapter 10: Alpha and Omega",
+          "thumbnail": "",
+          "url": "media/Shows/Dark/S01/E (10).mkv",
+          "duration": "00:56:58",
+          "quality": "1080p",
+          "release": "2017"
+        }]
+      }, {
+        "name": "Chapter 1: Beginnings and Endings",
+        "thumbnail": "",
+        "url": "media/Shows/Dark/S02/E (1).mkv",
+        "duration": "00:53:56",
+        "quality": "1080p",
+        "release": "2019"
+      }, {
+        "name": "Chapter 2: Dark Matter",
+        "thumbnail": "",
+        "url": "media/Shows/Dark/S02/E (2).mkv",
+        "duration": "00:54:58",
+        "quality": "1080p",
+        "release": "2019"
+      }, {
+        "name": "Chapter 3: Ghosts",
+        "thumbnail": "",
+        "url": "media/Shows/Dark/S02/E (3).mkv",
+        "duration": "00:56:16",
+        "quality": "1080p",
+        "release": "2019"
+      }, {
+        "name": "Chapter 4: The Travellers",
+        "thumbnail": "",
+        "url": "media/Shows/Dark/S02/E (4).mkv",
+        "duration": "01:00:48",
+        "quality": "1080p",
+        "release": "2019"
+      }, {
+        "name": "Chapter 5: Lost and Found",
+        "thumbnail": "",
+        "url": "media/Shows/Dark/S02/E (5).mkv",
+        "duration": "00:56:24",
+        "quality": "1080p",
+        "release": "2019"
+      }, {
+        "name": "Chapter 6: An Endless Cycle",
+        "thumbnail": "",
+        "url": "media/Shows/Dark/S02/E (6).mkv",
+        "duration": "00:54:34",
+        "quality": "1080p",
+        "release": "2019"
+      }, {
+        "name": "Chapter 7: The White Devil",
+        "thumbnail": "",
+        "url": "media/Shows/Dark/S02/E (7).mkv",
+        "duration": "00:58:24",
+        "quality": "1080p",
+        "release": "2019"
+      }, {
+        "name": "Chapter 8: Endings and Beginnings",
+        "thumbnail": "",
+        "url": "media/Shows/Dark/S02/E (8).mkv",
+        "duration": "00:57:52",
+        "quality": "1080p",
+        "release": "2019"
+      }]
     }]
 }
