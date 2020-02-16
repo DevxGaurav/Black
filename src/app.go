@@ -6,7 +6,6 @@ import (
 	"log"
 	"net/http"
 	"os"
-	"strings"
 )
 
 func main() {
@@ -20,31 +19,40 @@ func main() {
 }
 
 func home(w http.ResponseWriter, r *http.Request) {
-	Respond(w, 200, "Please download the app to continue!", "")
+	Respond(w, 200, "Please download the app to continue!", nil)
 }
 
 func app(w http.ResponseWriter, r *http.Request) {
 	file, err:= os.Open("database.json")
 	if err != nil {
-		Respond(w, 104, "Unable to read database", "")
+		Respond(w, 104, "Unable to read database", nil)
 		return
 	}
 	defer file.Close()
 	data, err:= ioutil.ReadAll(file)
 	if err != nil {
-		Respond(w, 104, "Unable to read database", "")
+		Respond(w, 104, "Unable to read database", nil)
 		return
 	}
-	resp:= string(data)
-	resp=strings.ReplaceAll(resp, "\r\n", "")
-	Respond(w, 200, "Fetch Successful", resp)
+
+	type Database struct {
+		Filename string
+		Data_created string
+		Date_modified string
+		Version string
+		Files []interface{}
+	}
+
+	db:= Database{}
+	_= json.Unmarshal(data, &db)
+	Respond(w, 200, "Fetch Successful", db)
 }
 
-func Respond(w http.ResponseWriter, code int64, info string, data string) {
+func Respond(w http.ResponseWriter, code int64, info string, data interface{}) {
 	type Response struct {
 		Code int64
 		Info string
-		Data string
+		Data interface{}
 	}
 	response:=&Response{Code:code, Info:info, Data:data}
 	resp, err:= json.Marshal(response)
