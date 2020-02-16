@@ -683,5 +683,107 @@
           "release": "2019"
         }]
       }]
+    }, {
+      "name": "Air Crash Investigation",
+      "poster": "https://img.reelgood.com/content/show/f8a9acd3-0f6e-4816-9310-c4c27c46172c/poster-780.jpg",
+      "banner": "https://i.pinimg.com/originals/b5/c7/d7/b5c7d740dc4caeac7eb9f00edbc5ac93.jpg",
+      "type": "Show",
+      "seasons": [{
+        "name": "Season 1",
+        "episodes": []
+      }, {
+        "name": "Season 2",
+        "episodes": []
+      }, {
+        "name": "Season 3",
+        "episodes": []
+      }, {
+        "name": "Season 4",
+        "episodes": []
+      }, {
+        "name": "Season 5",
+        "episodes": []
+      }, {
+        "name": "Season 6",
+        "episodes": []
+      }, {
+        "name": "Season 7",
+        "episodes": []
+      }, {
+        "name": "Season 8",
+        "episodes": []
+      }, {
+        "name": "Season 9",
+        "episodes": []
+      }, {
+        "name": "Season 10",
+        "episodes": []
+      }, {
+        "name": "Season 11",
+        "episodes": []
+      }, {
+        "name": "Season 12",
+        "episodes": []
+      }, {
+        "name": "Season 13",
+        "episodes": []
+      }, {
+        "name": "Season 14",
+        "episodes": []
+      }, {
+        "name": "Season 15",
+        "episodes": []
+      }, {
+        "name": "Season 16",
+        "episodes": []
+      }, {
+        "name": "Season 17",
+        "episodes": []
+      }, {
+        "name": "Season 18",
+        "episodes": []
+      }, {
+        "name": "Season 19",
+        "episodes": []
+      }, {
+        "name": "Special",
+        "episodes": []
+      }]
+    }, {
+      "name": "Friends",
+      "poster": "https://m.media-amazon.com/images/M/MV5BNDVkYjU0MzctMWRmZi00NTkxLTgwZWEtOWVhYjZlYjllYmU4XkEyXkFqcGdeQXVyNTA4NzY1MzY@._V1_UY1200_CR93,0,630,1200_AL_.jpg",
+      "banner": "https://cdn.europosters.eu/image/1300/posters/friends-milkshake-i12132.jpg",
+      "type": "Show",
+      "seasons": [{
+        "name": "Season 1",
+        "episodes": []
+      }, {
+        "name": "Season 2",
+        "episodes": []
+      }, {
+        "name": "Season 3",
+        "episodes": []
+      }, {
+        "name": "Season 4",
+        "episodes": []
+      }, {
+        "name": "Season 5",
+        "episodes": []
+      }, {
+        "name": "Season 6",
+        "episodes": []
+      }, {
+        "name": "Season 7",
+        "episodes": []
+      }, {
+        "name": "Season 8",
+        "episodes": []
+      }, {
+        "name": "Season 9",
+        "episodes": []
+      }, {
+        "name": "Season 10",
+        "episodes": []
+      }]
     }]
 }
