@@ -624,61 +624,64 @@
           "release": "2017"
         }]
       }, {
-        "name": "Chapter 1: Beginnings and Endings",
-        "thumbnail": "",
-        "url": "media/Shows/Dark/S02/E (1).mkv",
-        "duration": "00:53:56",
-        "quality": "1080p",
-        "release": "2019"
-      }, {
-        "name": "Chapter 2: Dark Matter",
-        "thumbnail": "",
-        "url": "media/Shows/Dark/S02/E (2).mkv",
-        "duration": "00:54:58",
-        "quality": "1080p",
-        "release": "2019"
-      }, {
-        "name": "Chapter 3: Ghosts",
-        "thumbnail": "",
-        "url": "media/Shows/Dark/S02/E (3).mkv",
-        "duration": "00:56:16",
-        "quality": "1080p",
-        "release": "2019"
-      }, {
-        "name": "Chapter 4: The Travellers",
-        "thumbnail": "",
-        "url": "media/Shows/Dark/S02/E (4).mkv",
-        "duration": "01:00:48",
-        "quality": "1080p",
-        "release": "2019"
-      }, {
-        "name": "Chapter 5: Lost and Found",
-        "thumbnail": "",
-        "url": "media/Shows/Dark/S02/E (5).mkv",
-        "duration": "00:56:24",
-        "quality": "1080p",
-        "release": "2019"
-      }, {
-        "name": "Chapter 6: An Endless Cycle",
-        "thumbnail": "",
-        "url": "media/Shows/Dark/S02/E (6).mkv",
-        "duration": "00:54:34",
-        "quality": "1080p",
-        "release": "2019"
-      }, {
-        "name": "Chapter 7: The White Devil",
-        "thumbnail": "",
-        "url": "media/Shows/Dark/S02/E (7).mkv",
-        "duration": "00:58:24",
-        "quality": "1080p",
-        "release": "2019"
-      }, {
-        "name": "Chapter 8: Endings and Beginnings",
-        "thumbnail": "",
-        "url": "media/Shows/Dark/S02/E (8).mkv",
-        "duration": "00:57:52",
-        "quality": "1080p",
-        "release": "2019"
+        "name": "Season 2",
+        "episodes": [{
+          "name": "Chapter 1: Beginnings and Endings",
+          "thumbnail": "",
+          "url": "media/Shows/Dark/S02/E (1).mkv",
+          "duration": "00:53:56",
+          "quality": "1080p",
+          "release": "2019"
+        }, {
+          "name": "Chapter 2: Dark Matter",
+          "thumbnail": "",
+          "url": "media/Shows/Dark/S02/E (2).mkv",
+          "duration": "00:54:58",
+          "quality": "1080p",
+          "release": "2019"
+        }, {
+          "name": "Chapter 3: Ghosts",
+          "thumbnail": "",
+          "url": "media/Shows/Dark/S02/E (3).mkv",
+          "duration": "00:56:16",
+          "quality": "1080p",
+          "release": "2019"
+        }, {
+          "name": "Chapter 4: The Travellers",
+          "thumbnail": "",
+          "url": "media/Shows/Dark/S02/E (4).mkv",
+          "duration": "01:00:48",
+          "quality": "1080p",
+          "release": "2019"
+        }, {
+          "name": "Chapter 5: Lost and Found",
+          "thumbnail": "",
+          "url": "media/Shows/Dark/S02/E (5).mkv",
+          "duration": "00:56:24",
+          "quality": "1080p",
+          "release": "2019"
+        }, {
+          "name": "Chapter 6: An Endless Cycle",
+          "thumbnail": "",
+          "url": "media/Shows/Dark/S02/E (6).mkv",
+          "duration": "00:54:34",
+          "quality": "1080p",
+          "release": "2019"
+        }, {
+          "name": "Chapter 7: The White Devil",
+          "thumbnail": "",
+          "url": "media/Shows/Dark/S02/E (7).mkv",
+          "duration": "00:58:24",
+          "quality": "1080p",
+          "release": "2019"
+        }, {
+          "name": "Chapter 8: Endings and Beginnings",
+          "thumbnail": "",
+          "url": "media/Shows/Dark/S02/E (8).mkv",
+          "duration": "00:57:52",
+          "quality": "1080p",
+          "release": "2019"
+        }]
       }]
     }]
 }
