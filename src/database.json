@@ -2408,17 +2408,10 @@
           "quality": "720p",
           "release": "2003"
         }, {
-          "name": "The Last One, Part 1",
+          "name": "The Last One, Part 1 & 2",
           "thumbnail": "",
           "url": "media/Shows/Friends/S10/E (17).mkv",
-          "duration": "00:25:00",
-          "quality": "720p",
-          "release": "2003"
-        }, {
-          "name": "The Last One, Part 2",
-          "thumbnail": "",
-          "url": "media/Shows/Friends/S10/E (18).mkv",
-          "duration": "00:25:00",
+          "duration": "00:45:00",
           "quality": "720p",
           "release": "2003"
         }]
