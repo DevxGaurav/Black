@@ -66,14 +66,14 @@
         "quality": "1080p",
         "release": "2009"
       }, {
-        "name": "Harry Potter and the Deathly Hallows Part 1",
+        "name": "Harry Potter and the Deathly Hallows, Part 1",
         "thumbnail": "https://m.media-amazon.com/images/M/MV5BMTQ2OTE1Mjk0N15BMl5BanBnXkFtZTcwODE3MDAwNA@@._V1_.jpg",
         "url": "media/Movies/Harry Potter/Harry.Potter.and.the.Deathly.Hallows.Part.1.2010.1080p.BrRip.x264.YIFY.mp4",
         "duration": "2:26:05",
         "quality": "1080p",
         "release": "2010"
       }, {
-        "name": "Harry Potter and the Deathly Hallows Part 2",
+        "name": "Harry Potter and the Deathly Hallows, Part 2",
         "thumbnail": "https://www.wired.com/wp-content/uploads/blogs/geekdad/wp-content/uploads/2011/07/ActionHarry-1Sht-660x963.jpg",
         "url": "media/Movies/Harry Potter/Harry Potter And The Deathly Hallows Part 2 2011 1080p Bluray x264 (DTS) - HarryLala.mkv",
         "duration": "2:10:26",
@@ -756,34 +756,1685 @@
       "type": "Show",
       "seasons": [{
         "name": "Season 1",
-        "episodes": []
+        "episodes": [{
+          "name": "Pilot",
+          "thumbnail": "",
+          "url": "media/Shows/Friends/S01/E (1).mkv",
+          "duration": "00:25:00",
+          "quality": "1080p",
+          "release": "1994"
+        }, {
+          "name": "The One with The Sonogram At The End",
+          "thumbnail": "",
+          "url": "media/Shows/Friends/S01/E (2).mkv",
+          "duration": "00:25:00",
+          "quality": "720p",
+          "release": "1994"
+        }, {
+          "name": "The One with The Thumb",
+          "thumbnail": "",
+          "url": "media/Shows/Friends/S01/E (3).mkv",
+          "duration": "00:25:00",
+          "quality": "720p",
+          "release": "1994"
+        }, {
+          "name": "The One with George Stephanopoulos",
+          "thumbnail": "",
+          "url": "media/Shows/Friends/S01/E (4).mkv",
+          "duration": "00:25:00",
+          "quality": "720p",
+          "release": "1994"
+        }, {
+          "name": "The One with The East German Laundry Detergent",
+          "thumbnail": "",
+          "url": "media/Shows/Friends/S01/E (5).mkv",
+          "duration": "00:25:00",
+          "quality": "720p",
+          "release": "1994"
+        }, {
+          "name": "The One with The Butt",
+          "thumbnail": "",
+          "url": "media/Shows/Friends/S01/E (6).mkv",
+          "duration": "00:25:00",
+          "quality": "720p",
+          "release": "1994"
+        }, {
+          "name": "The One with The Blackout",
+          "thumbnail": "",
+          "url": "media/Shows/Friends/S01/E (7).mkv",
+          "duration": "00:25:00",
+          "quality": "720p",
+          "release": "1994"
+        }, {
+          "name": "The One where Nana Dies Twice",
+          "thumbnail": "",
+          "url": "media/Shows/Friends/S01/E (8).mkv",
+          "duration": "00:25:00",
+          "quality": "720p",
+          "release": "1994"
+        }, {
+          "name": "The One where Underdog Gets Away",
+          "thumbnail": "",
+          "url": "media/Shows/Friends/S01/E (9).mkv",
+          "duration": "00:25:00",
+          "quality": "720p",
+          "release": "1994"
+        }, {
+          "name": "The One with The Monkey",
+          "thumbnail": "",
+          "url": "media/Shows/Friends/S01/E (10).mkv",
+          "duration": "00:25:00",
+          "quality": "720p",
+          "release": "1994"
+        }, {
+          "name": "The One with Mrs. Bing",
+          "thumbnail": "",
+          "url": "media/Shows/Friends/S01/E (11).mkv",
+          "duration": "00:25:00",
+          "quality": "720p",
+          "release": "1994"
+        }, {
+          "name": "The One with The Dozen Lasagnas",
+          "thumbnail": "",
+          "url": "media/Shows/Friends/S01/E (12).mkv",
+          "duration": "00:25:00",
+          "quality": "720p",
+          "release": "1994"
+        }, {
+          "name": "The One with The Boobies",
+          "thumbnail": "",
+          "url": "media/Shows/Friends/S01/E (13).mkv",
+          "duration": "00:25:00",
+          "quality": "720p",
+          "release": "1994"
+        }, {
+          "name": "The One with The Candy Hearts",
+          "thumbnail": "",
+          "url": "media/Shows/Friends/S01/E (14).mkv",
+          "duration": "00:25:00",
+          "quality": "720p",
+          "release": "1994"
+        }, {
+          "name": "The One with The Stoned Guy",
+          "thumbnail": "",
+          "url": "media/Shows/Friends/S01/E (15).mkv",
+          "duration": "00:25:00",
+          "quality": "720p",
+          "release": "1994"
+        }, {
+          "name": "The One with The Two Parts, Part 1",
+          "thumbnail": "",
+          "url": "media/Shows/Friends/S01/E (16).mkv",
+          "duration": "00:25:00",
+          "quality": "720p",
+          "release": "1994"
+        }, {
+          "name": "The One with The Two Parts, Part 2",
+          "thumbnail": "",
+          "url": "media/Shows/Friends/S01/E (17).mkv",
+          "duration": "00:25:00",
+          "quality": "720p",
+          "release": "1994"
+        }, {
+          "name": "The One with All The Poker",
+          "thumbnail": "",
+          "url": "media/Shows/Friends/S01/E (18).mkv",
+          "duration": "00:25:00",
+          "quality": "720p",
+          "release": "1994"
+        }, {
+          "name": "The One where The Monkey Gets Away",
+          "thumbnail": "",
+          "url": "media/Shows/Friends/S01/E (19).mkv",
+          "duration": "00:25:00",
+          "quality": "720p",
+          "release": "1994"
+        }, {
+          "name": "The One with The Evil Orthodontist",
+          "thumbnail": "",
+          "url": "media/Shows/Friends/S01/E (20).mkv",
+          "duration": "00:25:00",
+          "quality": "720p",
+          "release": "1994"
+        }, {
+          "name": "The One with The Fake Monica",
+          "thumbnail": "",
+          "url": "media/Shows/Friends/S01/E (21).mkv",
+          "duration": "00:25:00",
+          "quality": "720p",
+          "release": "1994"
+        }, {
+          "name": "The One with The Ick Factor",
+          "thumbnail": "",
+          "url": "media/Shows/Friends/S01/E (22).mkv",
+          "duration": "00:25:00",
+          "quality": "720p",
+          "release": "1994"
+        }, {
+          "name": "The One with The Birth",
+          "thumbnail": "",
+          "url": "media/Shows/Friends/S01/E (23).mkv",
+          "duration": "00:25:00",
+          "quality": "720p",
+          "release": "1994"
+        }, {
+          "name": "The One where Rachel Finds Out",
+          "thumbnail": "",
+          "url": "media/Shows/Friends/S01/E (24).mkv",
+          "duration": "00:25:00",
+          "quality": "720p",
+          "release": "1994"
+        }]
       }, {
         "name": "Season 2",
-        "episodes": []
+        "episodes": [{
+          "name": "The One with Ross's New Girlfriend",
+          "thumbnail": "",
+          "url": "media/Shows/Friends/S02/E (1).mkv",
+          "duration": "00:25:00",
+          "quality": "720p",
+          "release": "1995"
+        }, {
+          "name": "The One with The Breast Milk",
+          "thumbnail": "",
+          "url": "media/Shows/Friends/S02/E (2).mkv",
+          "duration": "00:25:00",
+          "quality": "720p",
+          "release": "1995"
+        }, {
+          "name": "The One where Heckles Dies",
+          "thumbnail": "",
+          "url": "media/Shows/Friends/S02/E (3).mkv",
+          "duration": "00:25:00",
+          "quality": "720p",
+          "release": "1995"
+        }, {
+          "name": "The One with Phoebe's Husband",
+          "thumbnail": "",
+          "url": "media/Shows/Friends/S02/E (4).mkv",
+          "duration": "00:25:00",
+          "quality": "720p",
+          "release": "1995"
+        }, {
+          "name": "The One with Five Steaks And An Eggplant",
+          "thumbnail": "",
+          "url": "media/Shows/Friends/S02/E (5).mkv",
+          "duration": "00:25:00",
+          "quality": "720p",
+          "release": "1995"
+        }, {
+          "name": "The One with The Baby On The Bus",
+          "thumbnail": "",
+          "url": "media/Shows/Friends/S02/E (6).mkv",
+          "duration": "00:25:00",
+          "quality": "720p",
+          "release": "1995"
+        }, {
+          "name": "The One where Ross Finds Out",
+          "thumbnail": "",
+          "url": "media/Shows/Friends/S02/E (7).mkv",
+          "duration": "00:25:00",
+          "quality": "720p",
+          "release": "1995"
+        }, {
+          "name": "The One with The List",
+          "thumbnail": "",
+          "url": "media/Shows/Friends/S02/E (8).mkv",
+          "duration": "00:25:00",
+          "quality": "720p",
+          "release": "1995"
+        }, {
+          "name": "The One with Phoebe's Dad",
+          "thumbnail": "",
+          "url": "media/Shows/Friends/S02/E (9).mkv",
+          "duration": "00:25:00",
+          "quality": "720p",
+          "release": "1995"
+        }, {
+          "name": "The One with Russ",
+          "thumbnail": "",
+          "url": "media/Shows/Friends/S02/E (10).mkv",
+          "duration": "00:25:00",
+          "quality": "720p",
+          "release": "1995"
+        }, {
+          "name": "The One with The Lesbian Wedding",
+          "thumbnail": "",
+          "url": "media/Shows/Friends/S02/E (11).mkv",
+          "duration": "00:25:00",
+          "quality": "720p",
+          "release": "1995"
+        }, {
+          "name": "The One after The Superbowl, part 1",
+          "thumbnail": "",
+          "url": "media/Shows/Friends/S02/E (12).mkv",
+          "duration": "00:25:00",
+          "quality": "720p",
+          "release": "1995"
+        }, {
+          "name": "The One after The Superbowl, part 2",
+          "thumbnail": "",
+          "url": "media/Shows/Friends/S02/E (13).mkv",
+          "duration": "00:25:00",
+          "quality": "720p",
+          "release": "1995"
+        }, {
+          "name": "The One with The Prom Video",
+          "thumbnail": "",
+          "url": "media/Shows/Friends/S02/E (14).mkv",
+          "duration": "00:25:00",
+          "quality": "720p",
+          "release": "1995"
+        }, {
+          "name": "The One where Ross And Rachel... You Know",
+          "thumbnail": "",
+          "url": "media/Shows/Friends/S02/E (15).mkv",
+          "duration": "00:25:00",
+          "quality": "720p",
+          "release": "1995"
+        }, {
+          "name": "The One where Joey Moves Out",
+          "thumbnail": "",
+          "url": "media/Shows/Friends/S02/E (16).mkv",
+          "duration": "00:25:00",
+          "quality": "720p",
+          "release": "1995"
+        }, {
+          "name": "The One where Eddie Moves In",
+          "thumbnail": "",
+          "url": "media/Shows/Friends/S02/E (17).mkv",
+          "duration": "00:25:00",
+          "quality": "720p",
+          "release": "1995"
+        }, {
+          "name": "The One where Dr. Ramoray Dies",
+          "thumbnail": "",
+          "url": "media/Shows/Friends/S02/E (18).mkv",
+          "duration": "00:25:00",
+          "quality": "720p",
+          "release": "1995"
+        }, {
+          "name": "The One where Eddie Won't Go",
+          "thumbnail": "",
+          "url": "media/Shows/Friends/S02/E (19).mkv",
+          "duration": "00:25:00",
+          "quality": "720p",
+          "release": "1995"
+        }, {
+          "name": "The One where uld Yeller Dies",
+          "thumbnail": "",
+          "url": "media/Shows/Friends/S02/E (20).mkv",
+          "duration": "00:25:00",
+          "quality": "720p",
+          "release": "1995"
+        }, {
+          "name": "The One with The Bullies",
+          "thumbnail": "",
+          "url": "media/Shows/Friends/S02/E (21).mkv",
+          "duration": "00:25:00",
+          "quality": "720p",
+          "release": "1995"
+        }, {
+          "name": "The One with The Two Parties",
+          "thumbnail": "",
+          "url": "media/Shows/Friends/S02/E (22).mkv",
+          "duration": "00:25:00",
+          "quality": "720p",
+          "release": "1995"
+        }, {
+          "name": "The One with The Chicken Pox",
+          "thumbnail": "",
+          "url": "media/Shows/Friends/S02/E (23).mkv",
+          "duration": "00:25:00",
+          "quality": "720p",
+          "release": "1995"
+        }, {
+          "name": "The One with Barry And Mindy's Wedding",
+          "thumbnail": "",
+          "url": "media/Shows/Friends/S02/E (24).mkv",
+          "duration": "00:25:00",
+          "quality": "720p",
+          "release": "1995"
+        }]
       }, {
         "name": "Season 3",
-        "episodes": []
+        "episodes": [{
+          "name": "The One with The Princess Leia Fantasy",
+          "thumbnail": "",
+          "url": "media/Shows/Friends/S03/E (1).mkv",
+          "duration": "00:25:00",
+          "quality": "720p",
+          "release": "1996"
+        }, {
+          "name": "The One where No One's Ready",
+          "thumbnail": "",
+          "url": "media/Shows/Friends/S03/E (2).mkv",
+          "duration": "00:25:00",
+          "quality": "720p",
+          "release": "1996"
+        }, {
+          "name": "The One with The Jam",
+          "thumbnail": "",
+          "url": "media/Shows/Friends/S03/E (3).mkv",
+          "duration": "00:25:00",
+          "quality": "720p",
+          "release": "1996"
+        }, {
+          "name": "The One with The Metaphorical Tunnel",
+          "thumbnail": "",
+          "url": "media/Shows/Friends/S03/E (4).mkv",
+          "duration": "00:25:00",
+          "quality": "720p",
+          "release": "1996"
+        }, {
+          "name": "The One with Frank Jr.",
+          "thumbnail": "",
+          "url": "media/Shows/Friends/S03/E (5).mkv",
+          "duration": "00:25:00",
+          "quality": "720p",
+          "release": "1996"
+        }, {
+          "name": "The One with The Flashback",
+          "thumbnail": "",
+          "url": "media/Shows/Friends/S03/E (6).mkv",
+          "duration": "00:25:00",
+          "quality": "720p",
+          "release": "1996"
+        }, {
+          "name": "The One with The Race Car Bed",
+          "thumbnail": "",
+          "url": "media/Shows/Friends/S03/E (7).mkv",
+          "duration": "00:25:00",
+          "quality": "720p",
+          "release": "1996"
+        }, {
+          "name": "The One with The Giant Poking Device",
+          "thumbnail": "",
+          "url": "media/Shows/Friends/S03/E (8).mkv",
+          "duration": "00:25:00",
+          "quality": "720p",
+          "release": "1996"
+        }, {
+          "name": "The One with The Football",
+          "thumbnail": "",
+          "url": "media/Shows/Friends/S03/E (9).mkv",
+          "duration": "00:25:00",
+          "quality": "720p",
+          "release": "1996"
+        }, {
+          "name": "The One where Rachel Quits",
+          "thumbnail": "",
+          "url": "media/Shows/Friends/S03/E (10).mkv",
+          "duration": "00:25:00",
+          "quality": "720p",
+          "release": "1996"
+        }, {
+          "name": "The One where Chandler Can't Remember Which Sister",
+          "thumbnail": "",
+          "url": "media/Shows/Friends/S03/E (11).mkv",
+          "duration": "00:25:00",
+          "quality": "720p",
+          "release": "1996"
+        }, {
+          "name": "The One with All The Jealousy",
+          "thumbnail": "",
+          "url": "media/Shows/Friends/S03/E (12).mkv",
+          "duration": "00:25:00",
+          "quality": "720p",
+          "release": "1996"
+        }, {
+          "name": "The One where Monica And Richard Are Just Friends",
+          "thumbnail": "",
+          "url": "media/Shows/Friends/S03/E (13).mkv",
+          "duration": "00:25:00",
+          "quality": "720p",
+          "release": "1996"
+        }, {
+          "name": "The One with Phoebe's Ex-Partner",
+          "thumbnail": "",
+          "url": "media/Shows/Friends/S03/E (14).mkv",
+          "duration": "00:25:00",
+          "quality": "720p",
+          "release": "1996"
+        }, {
+          "name": "The One where Ross And Rachel Take A Break",
+          "thumbnail": "",
+          "url": "media/Shows/Friends/S03/E (15).mkv",
+          "duration": "00:25:00",
+          "quality": "720p",
+          "release": "1996"
+        }, {
+          "name": "The One with The Morning After",
+          "thumbnail": "",
+          "url": "media/Shows/Friends/S03/E (16).mkv",
+          "duration": "00:25:00",
+          "quality": "720p",
+          "release": "1996"
+        }, {
+          "name": "The One without The Ski Trip",
+          "thumbnail": "",
+          "url": "media/Shows/Friends/S03/E (17).mkv",
+          "duration": "00:25:00",
+          "quality": "720p",
+          "release": "1996"
+        }, {
+          "name": "The One with The Hypnosis Tape",
+          "thumbnail": "",
+          "url": "media/Shows/Friends/S03/E (18).mkv",
+          "duration": "00:25:00",
+          "quality": "720p",
+          "release": "1996"
+        }, {
+          "name": "The One with The Tiny T-Shirt",
+          "thumbnail": "",
+          "url": "media/Shows/Friends/S03/E (19).mkv",
+          "duration": "00:25:00",
+          "quality": "720p",
+          "release": "1996"
+        }, {
+          "name": "The One with The Dullhouse",
+          "thumbnail": "",
+          "url": "media/Shows/Friends/S03/E (20).mkv",
+          "duration": "00:25:00",
+          "quality": "720p",
+          "release": "1996"
+        }, {
+          "name": "The One with The Chick And The Duck",
+          "thumbnail": "",
+          "url": "media/Shows/Friends/S03/E (21).mkv",
+          "duration": "00:25:00",
+          "quality": "720p",
+          "release": "1996"
+        }, {
+          "name": "The One with The Screamer",
+          "thumbnail": "",
+          "url": "media/Shows/Friends/S03/E (22).mkv",
+          "duration": "00:25:00",
+          "quality": "720p",
+          "release": "1996"
+        }, {
+          "name": "The One with Ross's Thing",
+          "thumbnail": "",
+          "url": "media/Shows/Friends/S03/E (23).mkv",
+          "duration": "00:25:00",
+          "quality": "720p",
+          "release": "1996"
+        }, {
+          "name": "The One with The Ultimate Fighting Champion",
+          "thumbnail": "",
+          "url": "media/Shows/Friends/S03/E (24).mkv",
+          "duration": "00:25:00",
+          "quality": "720p",
+          "release": "1996"
+        }, {
+          "name": "The One At The Beach",
+          "thumbnail": "",
+          "url": "media/Shows/Friends/S03/E (25).mkv",
+          "duration": "00:25:00",
+          "quality": "720p",
+          "release": "1996"
+        }]
       }, {
         "name": "Season 4",
-        "episodes": []
+        "episodes": [{
+          "name": "The One with The Jellyfish",
+          "thumbnail": "",
+          "url": "media/Shows/Friends/S04/E (1).mkv",
+          "duration": "00:25:00",
+          "quality": "720p",
+          "release": "1997"
+        }, {
+          "name": "The One with The Cat",
+          "thumbnail": "",
+          "url": "media/Shows/Friends/S04/E (2).mkv",
+          "duration": "00:25:00",
+          "quality": "720p",
+          "release": "1997"
+        }, {
+          "name": "The One with The Cuffs",
+          "thumbnail": "",
+          "url": "media/Shows/Friends/S04/E (3).mkv",
+          "duration": "00:25:00",
+          "quality": "720p",
+          "release": "1997"
+        }, {
+          "name": "The One with The Ballroom Dancing",
+          "thumbnail": "",
+          "url": "media/Shows/Friends/S04/E (4).mkv",
+          "duration": "00:25:00",
+          "quality": "720p",
+          "release": "1997"
+        }, {
+          "name": "The One with Joey's New Girlfriend",
+          "thumbnail": "",
+          "url": "media/Shows/Friends/S04/E (5).mkv",
+          "duration": "00:25:00",
+          "quality": "720p",
+          "release": "1997"
+        }, {
+          "name": "The One with The Dirty Girl",
+          "thumbnail": "",
+          "url": "media/Shows/Friends/S04/E (6).mkv",
+          "duration": "00:25:00",
+          "quality": "720p",
+          "release": "1997"
+        }, {
+          "name": "The One where Chandler Crosses The Line",
+          "thumbnail": "",
+          "url": "media/Shows/Friends/S04/E (7).mkv",
+          "duration": "00:25:00",
+          "quality": "720p",
+          "release": "1997"
+        }, {
+          "name": "The One with Chandler In A Box",
+          "thumbnail": "",
+          "url": "media/Shows/Friends/S04/E (8).mkv",
+          "duration": "00:25:00",
+          "quality": "720p",
+          "release": "1997"
+        }, {
+          "name": "The One with They're Going To Party",
+          "thumbnail": "",
+          "url": "media/Shows/Friends/S04/E (9).mkv",
+          "duration": "00:25:00",
+          "quality": "720p",
+          "release": "1997"
+        }, {
+          "name": "The One with The Girl From Poughkeepsie",
+          "thumbnail": "",
+          "url": "media/Shows/Friends/S04/E (10).mkv",
+          "duration": "00:25:00",
+          "quality": "720p",
+          "release": "1997"
+        }, {
+          "name": "The One with Phoebe's Uterus",
+          "thumbnail": "",
+          "url": "media/Shows/Friends/S04/E (11).mkv",
+          "duration": "00:25:00",
+          "quality": "720p",
+          "release": "1997"
+        }, {
+          "name": "The One with The Embryos",
+          "thumbnail": "",
+          "url": "media/Shows/Friends/S04/E (12).mkv",
+          "duration": "00:25:00",
+          "quality": "720p",
+          "release": "1997"
+        }, {
+          "name": "The One with Rachel's Crush",
+          "thumbnail": "",
+          "url": "media/Shows/Friends/S04/E (13).mkv",
+          "duration": "00:25:00",
+          "quality": "720p",
+          "release": "1997"
+        }, {
+          "name": "The One with Joey's Dirty Day",
+          "thumbnail": "",
+          "url": "media/Shows/Friends/S04/E (14).mkv",
+          "duration": "00:25:00",
+          "quality": "720p",
+          "release": "1997"
+        }, {
+          "name": "The One with All The Rugby",
+          "thumbnail": "",
+          "url": "media/Shows/Friends/S04/E (15).mkv",
+          "duration": "00:25:00",
+          "quality": "720p",
+          "release": "1997"
+        }, {
+          "name": "The One with The Fake Party",
+          "thumbnail": "",
+          "url": "media/Shows/Friends/S04/E (16).mkv",
+          "duration": "00:25:00",
+          "quality": "720p",
+          "release": "1997"
+        }, {
+          "name": "The One with The Free Porn",
+          "thumbnail": "",
+          "url": "media/Shows/Friends/S04/E (17).mkv",
+          "duration": "00:25:00",
+          "quality": "720p",
+          "release": "1997"
+        }, {
+          "name": "The One with Rachel's New Dress",
+          "thumbnail": "",
+          "url": "media/Shows/Friends/S04/E (18).mkv",
+          "duration": "00:25:00",
+          "quality": "720p",
+          "release": "1997"
+        }, {
+          "name": "The One with All The Haste",
+          "thumbnail": "",
+          "url": "media/Shows/Friends/S04/E (19).mkv",
+          "duration": "00:25:00",
+          "quality": "720p",
+          "release": "1997"
+        }, {
+          "name": "The One with The Wedding Dresses",
+          "thumbnail": "",
+          "url": "media/Shows/Friends/S04/E (20).mkv",
+          "duration": "00:25:00",
+          "quality": "720p",
+          "release": "1997"
+        }, {
+          "name": "The One with The Invitation",
+          "thumbnail": "",
+          "url": "media/Shows/Friends/S04/E (21).mkv",
+          "duration": "00:25:00",
+          "quality": "720p",
+          "release": "1997"
+        }, {
+          "name": "The One with The Worst Best Man Ever",
+          "thumbnail": "",
+          "url": "media/Shows/Friends/S04/E (22).mkv",
+          "duration": "00:25:00",
+          "quality": "720p",
+          "release": "1997"
+        }, {
+          "name": "The One with Ross's Wedding",
+          "thumbnail": "",
+          "url": "media/Shows/Friends/S04/E (23).mkv",
+          "duration": "00:25:00",
+          "quality": "720p",
+          "release": "1997"
+        }]
       }, {
         "name": "Season 5",
-        "episodes": []
+        "episodes": [{
+          "name": "The One after Ross Says Rachel",
+          "thumbnail": "",
+          "url": "media/Shows/Friends/S05/E (1).mkv",
+          "duration": "00:25:00",
+          "quality": "720p",
+          "release": "1998"
+        }, {
+          "name": "The One with All The Kissing",
+          "thumbnail": "",
+          "url": "media/Shows/Friends/S05/E (2).mkv",
+          "duration": "00:25:00",
+          "quality": "720p",
+          "release": "1998"
+        }, {
+          "name": "The One with the Triplets",
+          "thumbnail": "",
+          "url": "media/Shows/Friends/S05/E (3).mkv",
+          "duration": "00:25:00",
+          "quality": "720p",
+          "release": "1998"
+        }, {
+          "name": "The One where Phoebe Hates PBS",
+          "thumbnail": "",
+          "url": "media/Shows/Friends/S05/E (4).mkv",
+          "duration": "00:25:00",
+          "quality": "720p",
+          "release": "1998"
+        }, {
+          "name": "The One with The Kips",
+          "thumbnail": "",
+          "url": "media/Shows/Friends/S05/E (5).mkv",
+          "duration": "00:25:00",
+          "quality": "720p",
+          "release": "1998"
+        }, {
+          "name": "The One with The Yeti",
+          "thumbnail": "",
+          "url": "media/Shows/Friends/S05/E (6).mkv",
+          "duration": "00:25:00",
+          "quality": "720p",
+          "release": "1998"
+        }, {
+          "name": "The One where Ross Moves In",
+          "thumbnail": "",
+          "url": "media/Shows/Friends/S05/E (7).mkv",
+          "duration": "00:25:00",
+          "quality": "720p",
+          "release": "1998"
+        }, {
+          "name": "The One with The Thanksgiving Flashbacks",
+          "thumbnail": "",
+          "url": "media/Shows/Friends/S05/E (8).mkv",
+          "duration": "00:25:00",
+          "quality": "720p",
+          "release": "1998"
+        }, {
+          "name": "The One with Ross's Sandwich",
+          "thumbnail": "",
+          "url": "media/Shows/Friends/S05/E (9).mkv",
+          "duration": "00:25:00",
+          "quality": "720p",
+          "release": "1998"
+        }, {
+          "name": "The One with The Inappropriate Sister",
+          "thumbnail": "",
+          "url": "media/Shows/Friends/S05/E (10).mkv",
+          "duration": "00:25:00",
+          "quality": "720p",
+          "release": "1998"
+        }, {
+          "name": "The One with All The Resulutions",
+          "thumbnail": "",
+          "url": "media/Shows/Friends/S05/E (11).mkv",
+          "duration": "00:25:00",
+          "quality": "720p",
+          "release": "1998"
+        }, {
+          "name": "The One with Chandler's Work Laugh",
+          "thumbnail": "",
+          "url": "media/Shows/Friends/S05/E (12).mkv",
+          "duration": "00:25:00",
+          "quality": "720p",
+          "release": "1998"
+        }, {
+          "name": "The One with Joey's Bag",
+          "thumbnail": "",
+          "url": "media/Shows/Friends/S05/E (13).mkv",
+          "duration": "00:25:00",
+          "quality": "720p",
+          "release": "1998"
+        }, {
+          "name": "The One where Everybody Finds Out",
+          "thumbnail": "",
+          "url": "media/Shows/Friends/S05/E (14).mkv",
+          "duration": "00:25:00",
+          "quality": "720p",
+          "release": "1998"
+        }, {
+          "name": "The One with The Girl Who Hits Joey",
+          "thumbnail": "",
+          "url": "media/Shows/Friends/S05/E (15).mkv",
+          "duration": "00:25:00",
+          "quality": "720p",
+          "release": "1998"
+        }, {
+          "name": "The One with The Cop",
+          "thumbnail": "",
+          "url": "media/Shows/Friends/S05/E (16).mkv",
+          "duration": "00:25:00",
+          "quality": "720p",
+          "release": "1998"
+        }, {
+          "name": "The One with Rachel's Inadvertant Kiss",
+          "thumbnail": "",
+          "url": "media/Shows/Friends/S05/E (17).mkv",
+          "duration": "00:25:00",
+          "quality": "720p",
+          "release": "1998"
+        }, {
+          "name": "The One where Rachel Smokes",
+          "thumbnail": "",
+          "url": "media/Shows/Friends/S05/E (18).mkv",
+          "duration": "00:25:00",
+          "quality": "720p",
+          "release": "1998"
+        }, {
+          "name": "The One where Ross Can't Flirt",
+          "thumbnail": "",
+          "url": "media/Shows/Friends/S05/E (19).mkv",
+          "duration": "00:25:00",
+          "quality": "720p",
+          "release": "1998"
+        }, {
+          "name": "The One with The Ride Along",
+          "thumbnail": "",
+          "url": "media/Shows/Friends/S05/E (20).mkv",
+          "duration": "00:25:00",
+          "quality": "720p",
+          "release": "1998"
+        }, {
+          "name": "The One with The Ball",
+          "thumbnail": "",
+          "url": "media/Shows/Friends/S05/E (21).mkv",
+          "duration": "00:25:00",
+          "quality": "720p",
+          "release": "1998"
+        }, {
+          "name": "The One with Joey's Big Break",
+          "thumbnail": "",
+          "url": "media/Shows/Friends/S05/E (22).mkv",
+          "duration": "00:25:00",
+          "quality": "720p",
+          "release": "1998"
+        }, {
+          "name": "The One In Vegas",
+          "thumbnail": "",
+          "url": "media/Shows/Friends/S05/E (23).mkv",
+          "duration": "00:25:00",
+          "quality": "720p",
+          "release": "1998"
+        }]
       }, {
         "name": "Season 6",
-        "episodes": []
+        "episodes": [{
+          "name": "The One after Vegas",
+          "thumbnail": "",
+          "url": "media/Shows/Friends/S06/E (1).mkv",
+          "duration": "00:25:00",
+          "quality": "720p",
+          "release": "1999"
+        }, {
+          "name": "The One where Ross Hugs Rachel",
+          "thumbnail": "",
+          "url": "media/Shows/Friends/S06/E (2).mkv",
+          "duration": "00:25:00",
+          "quality": "720p",
+          "release": "1999"
+        }, {
+          "name": "The One with Ross's Denial",
+          "thumbnail": "",
+          "url": "media/Shows/Friends/S06/E (3).mkv",
+          "duration": "00:25:00",
+          "quality": "720p",
+          "release": "1999"
+        }, {
+          "name": "The One where Joey Loses His Insurance",
+          "thumbnail": "",
+          "url": "media/Shows/Friends/S06/E (4).mkv",
+          "duration": "00:25:00",
+          "quality": "720p",
+          "release": "1999"
+        }, {
+          "name": "The One with Joey's Porsche",
+          "thumbnail": "",
+          "url": "media/Shows/Friends/S06/E (5).mkv",
+          "duration": "00:25:00",
+          "quality": "720p",
+          "release": "1999"
+        }, {
+          "name": "The One On The Last Night",
+          "thumbnail": "",
+          "url": "media/Shows/Friends/S06/E (6).mkv",
+          "duration": "00:25:00",
+          "quality": "720p",
+          "release": "1999"
+        }, {
+          "name": "The One where Phoebe Runs",
+          "thumbnail": "",
+          "url": "media/Shows/Friends/S06/E (7).mkv",
+          "duration": "00:25:00",
+          "quality": "720p",
+          "release": "1999"
+        }, {
+          "name": "The One with Ross's Teeth",
+          "thumbnail": "",
+          "url": "media/Shows/Friends/S06/E (8).mkv",
+          "duration": "00:25:00",
+          "quality": "720p",
+          "release": "1999"
+        }, {
+          "name": "The One where Ross Got High",
+          "thumbnail": "",
+          "url": "media/Shows/Friends/S06/E (9).mkv",
+          "duration": "00:25:00",
+          "quality": "720p",
+          "release": "1999"
+        }, {
+          "name": "The One with The Routine",
+          "thumbnail": "",
+          "url": "media/Shows/Friends/S06/E (10).mkv",
+          "duration": "00:25:00",
+          "quality": "720p",
+          "release": "1999"
+        }, {
+          "name": "The One with The Apothecary Table",
+          "thumbnail": "",
+          "url": "media/Shows/Friends/S06/E (11).mkv",
+          "duration": "00:25:00",
+          "quality": "720p",
+          "release": "1999"
+        }, {
+          "name": "The One with The Joke",
+          "thumbnail": "",
+          "url": "media/Shows/Friends/S06/E (12).mkv",
+          "duration": "00:25:00",
+          "quality": "720p",
+          "release": "1999"
+        }, {
+          "name": "The One with Rachel's Sister",
+          "thumbnail": "",
+          "url": "media/Shows/Friends/S06/E (13).mkv",
+          "duration": "00:25:00",
+          "quality": "720p",
+          "release": "1999"
+        }, {
+          "name": "The One where Chandler Can't Cry",
+          "thumbnail": "",
+          "url": "media/Shows/Friends/S06/E (14).mkv",
+          "duration": "00:25:00",
+          "quality": "720p",
+          "release": "1999"
+        }, {
+          "name": "The One That Could Have Been, Part 1",
+          "thumbnail": "",
+          "url": "media/Shows/Friends/S06/E (15).mkv",
+          "duration": "00:25:00",
+          "quality": "720p",
+          "release": "1999"
+        }, {
+          "name": "The One That Could Have Been, Part 2",
+          "thumbnail": "",
+          "url": "media/Shows/Friends/S06/E (16).mkv",
+          "duration": "00:25:00",
+          "quality": "720p",
+          "release": "1999"
+        }, {
+          "name": "The One with Unagi",
+          "thumbnail": "",
+          "url": "media/Shows/Friends/S06/E (17).mkv",
+          "duration": "00:25:00",
+          "quality": "720p",
+          "release": "1999"
+        }, {
+          "name": "The One where Ross Dates A Student",
+          "thumbnail": "",
+          "url": "media/Shows/Friends/S06/E (18).mkv",
+          "duration": "00:25:00",
+          "quality": "720p",
+          "release": "1999"
+        }, {
+          "name": "The One with Joey's Fridge",
+          "thumbnail": "",
+          "url": "media/Shows/Friends/S06/E (19).mkv",
+          "duration": "00:25:00",
+          "quality": "720p",
+          "release": "1999"
+        }, {
+          "name": "The One with Mac And C.H.E.E.S.E.",
+          "thumbnail": "",
+          "url": "media/Shows/Friends/S06/E (20).mkv",
+          "duration": "00:25:00",
+          "quality": "720p",
+          "release": "1999"
+        }, {
+          "name": "The One where Ross Meets Elizabeth's Dad",
+          "thumbnail": "",
+          "url": "media/Shows/Friends/S06/E (21).mkv",
+          "duration": "00:25:00",
+          "quality": "720p",
+          "release": "1999"
+        }, {
+          "name": "The One where Paul's The Man",
+          "thumbnail": "",
+          "url": "media/Shows/Friends/S06/E (22).mkv",
+          "duration": "00:25:00",
+          "quality": "720p",
+          "release": "1999"
+        }, {
+          "name": "The One with The Ring",
+          "thumbnail": "",
+          "url": "media/Shows/Friends/S06/E (23).mkv",
+          "duration": "00:25:00",
+          "quality": "720p",
+          "release": "1999"
+        }, {
+          "name": "The One with The Proposal, Part 1",
+          "thumbnail": "",
+          "url": "media/Shows/Friends/S06/E (24).mkv",
+          "duration": "00:25:00",
+          "quality": "720p",
+          "release": "1999"
+        }, {
+          "name": "The One with The Proposal, Part 2",
+          "thumbnail": "",
+          "url": "media/Shows/Friends/S06/E (25).mkv",
+          "duration": "00:25:00",
+          "quality": "720p",
+          "release": "1999"
+        }]
       }, {
         "name": "Season 7",
-        "episodes": []
+        "episodes": [{
+          "name": "The One with Monica's Thunder",
+          "thumbnail": "",
+          "url": "media/Shows/Friends/S07/E (1).mkv",
+          "duration": "00:25:00",
+          "quality": "720p",
+          "release": "2000"
+        }, {
+          "name": "The One with Rachel's Book",
+          "thumbnail": "",
+          "url": "media/Shows/Friends/S07/E (2).mkv",
+          "duration": "00:25:00",
+          "quality": "720p",
+          "release": "2000"
+        }, {
+          "name": "The One with Phoebe's Cookies",
+          "thumbnail": "",
+          "url": "media/Shows/Friends/S07/E (3).mkv",
+          "duration": "00:25:00",
+          "quality": "720p",
+          "release": "2000"
+        }, {
+          "name": "The One with Rachel's Assistant",
+          "thumbnail": "",
+          "url": "media/Shows/Friends/S07/E (4).mkv",
+          "duration": "00:25:00",
+          "quality": "720p",
+          "release": "2000"
+        }, {
+          "name": "The One with The Engagement Picture",
+          "thumbnail": "",
+          "url": "media/Shows/Friends/S07/E (5).mkv",
+          "duration": "00:25:00",
+          "quality": "720p",
+          "release": "2000"
+        }, {
+          "name": "The One with The Nap Partners",
+          "thumbnail": "",
+          "url": "media/Shows/Friends/S07/E (6).mkv",
+          "duration": "00:25:00",
+          "quality": "720p",
+          "release": "2000"
+        }, {
+          "name": "The One with Ross's Library Book",
+          "thumbnail": "",
+          "url": "media/Shows/Friends/S07/E (7).mkv",
+          "duration": "00:25:00",
+          "quality": "720p",
+          "release": "2000"
+        }, {
+          "name": "The One where Chandler Doesn't Like Dogs",
+          "thumbnail": "",
+          "url": "media/Shows/Friends/S07/E (8).mkv",
+          "duration": "00:25:00",
+          "quality": "720p",
+          "release": "2000"
+        }, {
+          "name": "The One with All The Candy",
+          "thumbnail": "",
+          "url": "media/Shows/Friends/S07/E (9).mkv",
+          "duration": "00:25:00",
+          "quality": "720p",
+          "release": "2000"
+        }, {
+          "name": "The One with The Huliday Armadillo",
+          "thumbnail": "",
+          "url": "media/Shows/Friends/S07/E (10).mkv",
+          "duration": "00:25:00",
+          "quality": "720p",
+          "release": "2000"
+        }, {
+          "name": "The One with All The Cheesecakes",
+          "thumbnail": "",
+          "url": "media/Shows/Friends/S07/E (11).mkv",
+          "duration": "00:25:00",
+          "quality": "720p",
+          "release": "2000"
+        }, {
+          "name": "The One where They're Up All Night",
+          "thumbnail": "",
+          "url": "media/Shows/Friends/S07/E (12).mkv",
+          "duration": "00:25:00",
+          "quality": "720p",
+          "release": "2000"
+        }, {
+          "name": "The One where Rosita Dies",
+          "thumbnail": "",
+          "url": "media/Shows/Friends/S07/E (13).mkv",
+          "duration": "00:25:00",
+          "quality": "720p",
+          "release": "2000"
+        }, {
+          "name": "The One where They All Turn Thirty",
+          "thumbnail": "",
+          "url": "media/Shows/Friends/S07/E (14).mkv",
+          "duration": "00:25:00",
+          "quality": "720p",
+          "release": "2000"
+        }, {
+          "name": "The One with Joey's New Brain",
+          "thumbnail": "",
+          "url": "media/Shows/Friends/S07/E (15).mkv",
+          "duration": "00:25:00",
+          "quality": "720p",
+          "release": "2000"
+        }, {
+          "name": "The One with The Truth About London",
+          "thumbnail": "",
+          "url": "media/Shows/Friends/S07/E (16).mkv",
+          "duration": "00:25:00",
+          "quality": "720p",
+          "release": "2000"
+        }, {
+          "name": "The One with The Cheap Wedding Dress",
+          "thumbnail": "",
+          "url": "media/Shows/Friends/S07/E (17).mkv",
+          "duration": "00:25:00",
+          "quality": "720p",
+          "release": "2000"
+        }, {
+          "name": "The One with Joey's Award",
+          "thumbnail": "",
+          "url": "media/Shows/Friends/S07/E (18).mkv",
+          "duration": "00:25:00",
+          "quality": "720p",
+          "release": "2000"
+        }, {
+          "name": "The One with Ross And Monica's Cousin",
+          "thumbnail": "",
+          "url": "media/Shows/Friends/S07/E (19).mkv",
+          "duration": "00:25:00",
+          "quality": "720p",
+          "release": "2000"
+        }, {
+          "name": "The One with Rachel's Big Kiss",
+          "thumbnail": "",
+          "url": "media/Shows/Friends/S07/E (20).mkv",
+          "duration": "00:25:00",
+          "quality": "720p",
+          "release": "2000"
+        }, {
+          "name": "The One with The Vows",
+          "thumbnail": "",
+          "url": "media/Shows/Friends/S07/E (21).mkv",
+          "duration": "00:25:00",
+          "quality": "720p",
+          "release": "2000"
+        }, {
+          "name": "The One with Chandler's Dad",
+          "thumbnail": "",
+          "url": "media/Shows/Friends/S07/E (22).mkv",
+          "duration": "00:25:00",
+          "quality": "720p",
+          "release": "2000"
+        }, {
+          "name": "The One with Chandler And Monica's Wedding, part 1",
+          "thumbnail": "",
+          "url": "media/Shows/Friends/S07/E (23).mkv",
+          "duration": "00:25:00",
+          "quality": "720p",
+          "release": "2000"
+        }, {
+          "name": "The One with Chandler And Monica's Wedding, part 2",
+          "thumbnail": "",
+          "url": "media/Shows/Friends/S07/E (24).mkv",
+          "duration": "00:25:00",
+          "quality": "720p",
+          "release": "2000"
+        }]
       }, {
         "name": "Season 8",
-        "episodes": []
+        "episodes": [{
+          "name": "The One after 'I Do'",
+          "thumbnail": "",
+          "url": "media/Shows/Friends/S08/E (1).mkv",
+          "duration": "00:25:00",
+          "quality": "720p",
+          "release": "2001"
+        }, {
+          "name": "The One with The Red Sweater",
+          "thumbnail": "",
+          "url": "media/Shows/Friends/S08/E (2).mkv",
+          "duration": "00:25:00",
+          "quality": "720p",
+          "release": "2001"
+        }, {
+          "name": "The One where Rachel Tells...",
+          "thumbnail": "",
+          "url": "media/Shows/Friends/S08/E (3).mkv",
+          "duration": "00:25:00",
+          "quality": "720p",
+          "release": "2001"
+        }, {
+          "name": "The One with The Videotape",
+          "thumbnail": "",
+          "url": "media/Shows/Friends/S08/E (4).mkv",
+          "duration": "00:25:00",
+          "quality": "720p",
+          "release": "2001"
+        }, {
+          "name": "The One with Rachel's Date",
+          "thumbnail": "",
+          "url": "media/Shows/Friends/S08/E (5).mkv",
+          "duration": "00:25:00",
+          "quality": "720p",
+          "release": "2001"
+        }, {
+          "name": "The One with The Halloween Party",
+          "thumbnail": "",
+          "url": "media/Shows/Friends/S08/E (6).mkv",
+          "duration": "00:25:00",
+          "quality": "720p",
+          "release": "2001"
+        }, {
+          "name": "The One with The Stain",
+          "thumbnail": "",
+          "url": "media/Shows/Friends/S08/E (7).mkv",
+          "duration": "00:25:00",
+          "quality": "720p",
+          "release": "2001"
+        }, {
+          "name": "The One with The Stripper",
+          "thumbnail": "",
+          "url": "media/Shows/Friends/S08/E (8).mkv",
+          "duration": "00:25:00",
+          "quality": "720p",
+          "release": "2001"
+        }, {
+          "name": "The One with The Rumor",
+          "thumbnail": "",
+          "url": "media/Shows/Friends/S08/E (9).mkv",
+          "duration": "00:25:00",
+          "quality": "720p",
+          "release": "2001"
+        }, {
+          "name": "The One with Monica's Boots",
+          "thumbnail": "",
+          "url": "media/Shows/Friends/S08/E (10).mkv",
+          "duration": "00:25:00",
+          "quality": "720p",
+          "release": "2001"
+        }, {
+          "name": "The One with Ross's Step Forward",
+          "thumbnail": "",
+          "url": "media/Shows/Friends/S08/E (11).mkv",
+          "duration": "00:25:00",
+          "quality": "720p",
+          "release": "2001"
+        }, {
+          "name": "The One where Joey Dates Rachel",
+          "thumbnail": "",
+          "url": "media/Shows/Friends/S08/E (12).mkv",
+          "duration": "00:25:00",
+          "quality": "720p",
+          "release": "2001"
+        }, {
+          "name": "The One where Chandler Takes A Bath",
+          "thumbnail": "",
+          "url": "media/Shows/Friends/S08/E (13).mkv",
+          "duration": "00:25:00",
+          "quality": "720p",
+          "release": "2001"
+        }, {
+          "name": "The One with The Secret Closet",
+          "thumbnail": "",
+          "url": "media/Shows/Friends/S08/E (14).mkv",
+          "duration": "00:25:00",
+          "quality": "720p",
+          "release": "2001"
+        }, {
+          "name": "The One with The Birthing Video",
+          "thumbnail": "",
+          "url": "media/Shows/Friends/S08/E (15).mkv",
+          "duration": "00:25:00",
+          "quality": "720p",
+          "release": "2001"
+        }, {
+          "name": "The One where Joey Tells Rachel",
+          "thumbnail": "",
+          "url": "media/Shows/Friends/S08/E (16).mkv",
+          "duration": "00:25:00",
+          "quality": "720p",
+          "release": "2001"
+        }, {
+          "name": "The One with The Tea Leaves",
+          "thumbnail": "",
+          "url": "media/Shows/Friends/S08/E (17).mkv",
+          "duration": "00:25:00",
+          "quality": "720p",
+          "release": "2001"
+        }, {
+          "name": "The One In Massapequa",
+          "thumbnail": "",
+          "url": "media/Shows/Friends/S08/E (18).mkv",
+          "duration": "00:25:00",
+          "quality": "720p",
+          "release": "2001"
+        }, {
+          "name": "The One with Joey's Interview",
+          "thumbnail": "",
+          "url": "media/Shows/Friends/S08/E (19).mkv",
+          "duration": "00:25:00",
+          "quality": "720p",
+          "release": "2001"
+        }, {
+          "name": "The One with The Baby Shower",
+          "thumbnail": "",
+          "url": "media/Shows/Friends/S08/E (20).mkv",
+          "duration": "00:25:00",
+          "quality": "720p",
+          "release": "2001"
+        }, {
+          "name": "The One with The Cooking Class",
+          "thumbnail": "",
+          "url": "media/Shows/Friends/S08/E (21).mkv",
+          "duration": "00:25:00",
+          "quality": "720p",
+          "release": "2001"
+        }, {
+          "name": "The One with Rachel Is Late",
+          "thumbnail": "",
+          "url": "media/Shows/Friends/S08/E (22).mkv",
+          "duration": "00:25:00",
+          "quality": "720p",
+          "release": "2001"
+        }, {
+          "name": "The One where Rachel Has A Baby, part 1",
+          "thumbnail": "",
+          "url": "media/Shows/Friends/S08/E (23).mkv",
+          "duration": "00:25:00",
+          "quality": "720p",
+          "release": "2001"
+        }, {
+          "name": "The One where Rachel Has A Baby, part 2",
+          "thumbnail": "",
+          "url": "media/Shows/Friends/S08/E (24).mkv",
+          "duration": "00:25:00",
+          "quality": "720p",
+          "release": "2001"
+        }]
       }, {
         "name": "Season 9",
-        "episodes": []
+        "episodes": [{
+          "name": "The One where No One Proposes",
+          "thumbnail": "",
+          "url": "media/Shows/Friends/S09/E (1).mkv",
+          "duration": "00:25:00",
+          "quality": "720p",
+          "release": "2002"
+        }, {
+          "name": "The One where Emma Cries",
+          "thumbnail": "",
+          "url": "media/Shows/Friends/S09/E (2).mkv",
+          "duration": "00:25:00",
+          "quality": "720p",
+          "release": "2002"
+        }, {
+          "name": "The One with The Pediatrician",
+          "thumbnail": "",
+          "url": "media/Shows/Friends/S09/E (3).mkv",
+          "duration": "00:25:00",
+          "quality": "720p",
+          "release": "2002"
+        }, {
+          "name": "The One with The Sharks",
+          "thumbnail": "",
+          "url": "media/Shows/Friends/S09/E (4).mkv",
+          "duration": "00:25:00",
+          "quality": "720p",
+          "release": "2002"
+        }, {
+          "name": "The One with Phoebe's Birthday Dinner",
+          "thumbnail": "",
+          "url": "media/Shows/Friends/S09/E (5).mkv",
+          "duration": "00:25:00",
+          "quality": "720p",
+          "release": "2002"
+        }, {
+          "name": "The One with The Male Nanny",
+          "thumbnail": "",
+          "url": "media/Shows/Friends/S09/E (6).mkv",
+          "duration": "00:25:00",
+          "quality": "720p",
+          "release": "2002"
+        }, {
+          "name": "The One with Ross's Inappropriate Song",
+          "thumbnail": "",
+          "url": "media/Shows/Friends/S09/E (7).mkv",
+          "duration": "00:25:00",
+          "quality": "720p",
+          "release": "2002"
+        }, {
+          "name": "The One with Rachel's Other Sister",
+          "thumbnail": "",
+          "url": "media/Shows/Friends/S09/E (8).mkv",
+          "duration": "00:25:00",
+          "quality": "720p",
+          "release": "2002"
+        }, {
+          "name": "The One with Rachel's Phone Number",
+          "thumbnail": "",
+          "url": "media/Shows/Friends/S09/E (9).mkv",
+          "duration": "00:25:00",
+          "quality": "720p",
+          "release": "2002"
+        }, {
+          "name": "The One with Christmas In Tulsa",
+          "thumbnail": "",
+          "url": "media/Shows/Friends/S09/E (10).mkv",
+          "duration": "00:25:00",
+          "quality": "720p",
+          "release": "2002"
+        }, {
+          "name": "The One where Rachel Goes Back To Work",
+          "thumbnail": "",
+          "url": "media/Shows/Friends/S09/E (11).mkv",
+          "duration": "00:25:00",
+          "quality": "720p",
+          "release": "2002"
+        }, {
+          "name": "The One with Phoebe's Rats",
+          "thumbnail": "",
+          "url": "media/Shows/Friends/S09/E (12).mkv",
+          "duration": "00:25:00",
+          "quality": "720p",
+          "release": "2002"
+        }, {
+          "name": "The One where Monica Sings",
+          "thumbnail": "",
+          "url": "media/Shows/Friends/S09/E (13).mkv",
+          "duration": "00:25:00",
+          "quality": "720p",
+          "release": "2002"
+        }, {
+          "name": "The One with The Blind Dates",
+          "thumbnail": "",
+          "url": "media/Shows/Friends/S09/E (14).mkv",
+          "duration": "00:25:00",
+          "quality": "720p",
+          "release": "2002"
+        }, {
+          "name": "The One with The Mugging",
+          "thumbnail": "",
+          "url": "media/Shows/Friends/S09/E (15).mkv",
+          "duration": "00:25:00",
+          "quality": "720p",
+          "release": "2002"
+        }, {
+          "name": "The One with The Boob Job",
+          "thumbnail": "",
+          "url": "media/Shows/Friends/S09/E (16).mkv",
+          "duration": "00:25:00",
+          "quality": "720p",
+          "release": "2002"
+        }, {
+          "name": "The One with The Memorial Service",
+          "thumbnail": "",
+          "url": "media/Shows/Friends/S09/E (17).mkv",
+          "duration": "00:25:00",
+          "quality": "720p",
+          "release": "2002"
+        }, {
+          "name": "The One with The Lottery",
+          "thumbnail": "",
+          "url": "media/Shows/Friends/S09/E (18).mkv",
+          "duration": "00:25:00",
+          "quality": "720p",
+          "release": "2002"
+        }, {
+          "name": "The One with Rachel's Dream",
+          "thumbnail": "",
+          "url": "media/Shows/Friends/S09/E (19).mkv",
+          "duration": "00:25:00",
+          "quality": "720p",
+          "release": "2002"
+        }, {
+          "name": "The One with The Soap Opera Party",
+          "thumbnail": "",
+          "url": "media/Shows/Friends/S09/E (20).mkv",
+          "duration": "00:25:00",
+          "quality": "720p",
+          "release": "2002"
+        }, {
+          "name": "The One with The Fertility Test",
+          "thumbnail": "",
+          "url": "media/Shows/Friends/S09/E (21).mkv",
+          "duration": "00:25:00",
+          "quality": "720p",
+          "release": "2002"
+        }, {
+          "name": "The One with The Donor",
+          "thumbnail": "",
+          "url": "media/Shows/Friends/S09/E (22).mkv",
+          "duration": "00:25:00",
+          "quality": "720p",
+          "release": "2002"
+        }, {
+          "name": "The One In Barbados, part 1",
+          "thumbnail": "",
+          "url": "media/Shows/Friends/S09/E (23).mkv",
+          "duration": "00:25:00",
+          "quality": "720p",
+          "release": "2002"
+        }, {
+          "name": "The One In Barbados, part 2",
+          "thumbnail": "",
+          "url": "media/Shows/Friends/S09/E (24).mkv",
+          "duration": "00:25:00",
+          "quality": "720p",
+          "release": "2002"
+        }]
       }, {
         "name": "Season 10",
-        "episodes": []
+        "episodes": [{
+          "name": "The One after Joey and Rachel Kiss",
+          "thumbnail": "",
+          "url": "media/Shows/Friends/S010/E (1).mkv",
+          "duration": "00:25:00",
+          "quality": "720p",
+          "release": "2003"
+        }, {
+          "name": "The One where Ross Is Fine",
+          "thumbnail": "",
+          "url": "media/Shows/Friends/S010/E (2).mkv",
+          "duration": "00:25:00",
+          "quality": "720p",
+          "release": "2003"
+        }, {
+          "name": "The One with Ross's Tan",
+          "thumbnail": "",
+          "url": "media/Shows/Friends/S010/E (3).mkv",
+          "duration": "00:25:00",
+          "quality": "720p",
+          "release": "2003"
+        }, {
+          "name": "The One with The Cake",
+          "thumbnail": "",
+          "url": "media/Shows/Friends/S010/E (4).mkv",
+          "duration": "00:25:00",
+          "quality": "720p",
+          "release": "2003"
+        }, {
+          "name": "The One where Rachel's Sister Babysits",
+          "thumbnail": "",
+          "url": "media/Shows/Friends/S010/E (5).mkv",
+          "duration": "00:25:00",
+          "quality": "720p",
+          "release": "2003"
+        }, {
+          "name": "The One with Ross's Grant",
+          "thumbnail": "",
+          "url": "media/Shows/Friends/S010/E (6).mkv",
+          "duration": "00:25:00",
+          "quality": "720p",
+          "release": "2003"
+        }, {
+          "name": "The One with The Home Study",
+          "thumbnail": "",
+          "url": "media/Shows/Friends/S010/E (7).mkv",
+          "duration": "00:25:00",
+          "quality": "720p",
+          "release": "2003"
+        }, {
+          "name": "The One with The Late Thanksgiving",
+          "thumbnail": "",
+          "url": "media/Shows/Friends/S010/E (8).mkv",
+          "duration": "00:25:00",
+          "quality": "720p",
+          "release": "2003"
+        }, {
+          "name": "The One with The Birth Mother",
+          "thumbnail": "",
+          "url": "media/Shows/Friends/S010/E (9).mkv",
+          "duration": "00:25:00",
+          "quality": "720p",
+          "release": "2003"
+        }, {
+          "name": "The One where Chandler Gets Caught",
+          "thumbnail": "",
+          "url": "media/Shows/Friends/S010/E (10).mkv",
+          "duration": "00:25:00",
+          "quality": "720p",
+          "release": "2003"
+        }, {
+          "name": "The One where The Stripper Cries",
+          "thumbnail": "",
+          "url": "media/Shows/Friends/S010/E (11).mkv",
+          "duration": "00:25:00",
+          "quality": "720p",
+          "release": "2003"
+        }, {
+          "name": "The One with Phoebe's Wedding",
+          "thumbnail": "",
+          "url": "media/Shows/Friends/S010/E (12).mkv",
+          "duration": "00:25:00",
+          "quality": "720p",
+          "release": "2003"
+        }, {
+          "name": "The One where Joey Speaks French",
+          "thumbnail": "",
+          "url": "media/Shows/Friends/S010/E (13).mkv",
+          "duration": "00:25:00",
+          "quality": "720p",
+          "release": "2003"
+        }, {
+          "name": "The One with Princess Consuela",
+          "thumbnail": "",
+          "url": "media/Shows/Friends/S010/E (14).mkv",
+          "duration": "00:25:00",
+          "quality": "720p",
+          "release": "2003"
+        }, {
+          "name": "The One where Estelle Dies",
+          "thumbnail": "",
+          "url": "media/Shows/Friends/S010/E (15).mkv",
+          "duration": "00:25:00",
+          "quality": "720p",
+          "release": "2003"
+        }, {
+          "name": "The One with Rachel's Going Away Party",
+          "thumbnail": "",
+          "url": "media/Shows/Friends/S010/E (16).mkv",
+          "duration": "00:25:00",
+          "quality": "720p",
+          "release": "2003"
+        }, {
+          "name": "The Last One, Part 1",
+          "thumbnail": "",
+          "url": "media/Shows/Friends/S010/E (17).mkv",
+          "duration": "00:25:00",
+          "quality": "720p",
+          "release": "2003"
+        }, {
+          "name": "The Last One, Part 1",
+          "thumbnail": "",
+          "url": "media/Shows/Friends/S010/E (18).mkv",
+          "duration": "00:25:00",
+          "quality": "720p",
+          "release": "2003"
+        }]
+      }]
+    }, {
+      "name": "Kabir Singh",
+      "poster": "https://everipedia-storage.s3.amazonaws.com/ProfilePics/kabir-singh__10120.jpeg?nocache=9554a1",
+      "banner": "https://media.spenowr.com/images/movie/banner/2019-07-18/original/1-21071deed0578d66461f5f7dadee8df4.jpg",
+      "type": "Movie",
+      "episodes": [{
+        "name": "Kabir Singh",
+        "thumbnail": "",
+        "url": "media/Movie/Kabir Singh/kabirsingh.mp4",
+        "duration": "02:51:24",
+        "quality": "1080p",
+        "release": "2019"
       }]
     }]
 }
