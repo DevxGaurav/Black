@@ -690,64 +690,1275 @@
       "type": "Show",
       "seasons": [{
         "name": "Season 1",
-        "episodes": []
+        "episodes": [{
+          "name": "Unlocking Disaster (United Airlines Flight 811)",
+          "thumbnail": "",
+          "url": "media/Shows/Air Crash Investigation/S01/E (1).mkv",
+          "duration": "00:52:02",
+          "quality": "720p",
+          "release": "2003"
+        }, {
+          "name": "Racing the Storm (American Airlines Flight 1420)",
+          "thumbnail": "",
+          "url": "media/Shows/Air Crash Investigation/S01/E (2).mkv",
+          "duration": "00:52:02",
+          "quality": "720p",
+          "release": "2003"
+        }, {
+          "name": "Fire on Board (Swissair Flight 111)",
+          "thumbnail": "",
+          "url": "media/Shows/Air Crash Investigation/S01/E (3).mkv",
+          "duration": "00:52:02",
+          "quality": "720p",
+          "release": "2003"
+        }, {
+          "name": "Flying Blind (Aeroperu Flight 603)",
+          "thumbnail": "",
+          "url": "media/Shows/Air Crash Investigation/S01/E (4).mkv",
+          "duration": "00:52:02",
+          "quality": "720p",
+          "release": "2003"
+        }, {
+          "name": "Cutting Corners (Alaska Airlines Flight 261)",
+          "thumbnail": "",
+          "url": "media/Shows/Air Crash Investigation/S01/E (5).mkv",
+          "duration": "00:52:02",
+          "quality": "720p",
+          "release": "2003"
+        }, {
+          "name": "Flying on Empty (Air Transat Flight 236)",
+          "thumbnail": "",
+          "url": "media/Shows/Air Crash Investigation/S01/E (6).mkv",
+          "duration": "00:52:02",
+          "quality": "720p",
+          "release": "2003"
+        }]
       }, {
         "name": "Season 2",
-        "episodes": []
+        "episodes": [{
+          "name": "Blow Out (British Airways Flight 5390)",
+          "thumbnail": "",
+          "url": "media/Shows/Air Crash Investigation/S02/E (1).mkv",
+          "duration": "00:52:02",
+          "quality": "720p",
+          "release": "2005"
+        }, {
+          "name": "A Wounded Bird (Atlantic Southeast Airlines Flight 529)",
+          "thumbnail": "",
+          "url": "media/Shows/Air Crash Investigation/S02/E (2).mkv",
+          "duration": "00:52:02",
+          "quality": "720p",
+          "release": "2005"
+        }, {
+          "name": "The Killing Machine (Air France Flight 8969)",
+          "thumbnail": "",
+          "url": "media/Shows/Air Crash Investigation/S02/E (3).mkv",
+          "duration": "00:52:02",
+          "quality": "720p",
+          "release": "2005"
+        }, {
+          "name": "Deadly Crossroads (Uberlingen mid air collision)",
+          "thumbnail": "",
+          "url": "media/Shows/Air Crash Investigation/S02/E (4).mkv",
+          "duration": "00:52:02",
+          "quality": "720p",
+          "release": "2005"
+        }, {
+          "name": "Lost (American Airlines Flight 965)",
+          "thumbnail": "",
+          "url": "media/Shows/Air Crash Investigation/S02/E (5).mkv",
+          "duration": "00:52:02",
+          "quality": "720p",
+          "release": "2005"
+        }, {
+          "name": "Missing Over New York (Avianca Flight 52)",
+          "thumbnail": "",
+          "url": "media/Shows/Air Crash Investigation/S02/E (6).mkv",
+          "duration": "00:52:02",
+          "quality": "720p",
+          "release": "2005"
+        }]
       }, {
         "name": "Season 3",
-        "episodes": []
+        "episodes": [{
+          "name": "Hanging by a Thread (Aloha Airlines Flight 243)",
+          "thumbnail": "",
+          "url": "media/Shows/Air Crash Investigation/S03/E (1).mkv",
+          "duration": "00:52:02",
+          "quality": "720p",
+          "release": "2005"
+        }, {
+          "name": "Attack Over Baghdad (2003 Baghdad DHL attempted shootdown incident)",
+          "thumbnail": "",
+          "url": "media/Shows/Air Crash Investigation/S03/E (2).mkv",
+          "duration": "00:52:02",
+          "quality": "720p",
+          "release": "2005"
+        }, {
+          "name": "Out of Control (Japan Airlines Flight 123)",
+          "thumbnail": "",
+          "url": "media/Shows/Air Crash Investigation/S03/E (3).mkv",
+          "duration": "00:52:02",
+          "quality": "720p",
+          "release": "2005"
+        }, {
+          "name": "Fight for Your Life (FedEx Flight 705)",
+          "thumbnail": "",
+          "url": "media/Shows/Air Crash Investigation/S03/E (4).mkv",
+          "duration": "00:52:02",
+          "quality": "720p",
+          "release": "2005"
+        }, {
+          "name": "Bomb on Board (Philippine Airlines Flight 434)",
+          "thumbnail": "",
+          "url": "media/Shows/Air Crash Investigation/S03/E (5).mkv",
+          "duration": "00:52:02",
+          "quality": "720p",
+          "release": "2005"
+        }, {
+          "name": "Mistaken Identity (Iran Air Flight 655)",
+          "thumbnail": "",
+          "url": "media/Shows/Air Crash Investigation/S03/E (6).mkv",
+          "duration": "00:52:02",
+          "quality": "720p",
+          "release": "2005"
+        }, {
+          "name": "Helicopter Down (Bristow Flight 56C)",
+          "thumbnail": "",
+          "url": "media/Shows/Air Crash Investigation/S03/E (7).mkv",
+          "duration": "00:52:02",
+          "quality": "720p",
+          "release": "2005"
+        }, {
+          "name": "Death and Denial (EgyptAir Flight 990)",
+          "thumbnail": "",
+          "url": "media/Shows/Air Crash Investigation/S03/E (8).mkv",
+          "duration": "00:52:02",
+          "quality": "720p",
+          "release": "2005"
+        }, {
+          "name": "Runaway Train (San Bernardino train disaster)",
+          "thumbnail": "",
+          "url": "media/Shows/Air Crash Investigation/S03/E (9).mkv",
+          "duration": "00:52:02",
+          "quality": "720p",
+          "release": "2005"
+        }, {
+          "name": "Kid in the Cockpit (Aeroflot Flight 593)",
+          "thumbnail": "",
+          "url": "media/Shows/Air Crash Investigation/S03/E (10).mkv",
+          "duration": "00:52:02",
+          "quality": "720p",
+          "release": "2005"
+        }, {
+          "name": "Collision Course (Hinton train collision)",
+          "thumbnail": "",
+          "url": "media/Shows/Air Crash Investigation/S03/E (11).mkv",
+          "duration": "00:52:02",
+          "quality": "720p",
+          "release": "2005"
+        }, {
+          "name": "Head On Collision (The MS Express Samina sinking)",
+          "thumbnail": "",
+          "url": "media/Shows/Air Crash Investigation/S03/E (12).mkv",
+          "duration": "00:52:02",
+          "quality": "720p",
+          "release": "2005"
+        }, {
+          "name": "Ocean Landing (Ethiopian Airlines Flight 961)",
+          "thumbnail": "",
+          "url": "media/Shows/Air Crash Investigation/S03/E (13).mkv",
+          "duration": "00:52:02",
+          "quality": "720p",
+          "release": "2005"
+        }, {
+          "name": "Special Crash of the Century (Collision on the Runway Tenerife)",
+          "thumbnail": "",
+          "url": "media/Shows/Air Crash Investigation/S03/E (14).avi",
+          "duration": "00:52:02",
+          "quality": "720p",
+          "release": "2005"
+        }]
       }, {
         "name": "Season 4",
-        "episodes": []
+        "episodes": [{
+          "name": "Desperate Escape (Air France Flight 358)",
+          "thumbnail": "",
+          "url": "media/Shows/Air Crash Investigation/S04/E (1).mkv",
+          "duration": "00:52:02",
+          "quality": "720p",
+          "release": "2007"
+        }, {
+          "name": "Falling from the Sky (British Airways Flight 9)",
+          "thumbnail": "",
+          "url": "media/Shows/Air Crash Investigation/S04/E (2).mkv",
+          "duration": "00:52:02",
+          "quality": "720p",
+          "release": "2007"
+        }, {
+          "name": "Fire Fight (Air Canada Flight 797)",
+          "thumbnail": "",
+          "url": "media/Shows/Air Crash Investigation/S04/E (3).mkv",
+          "duration": "00:52:02",
+          "quality": "720p",
+          "release": "2007"
+        }, {
+          "name": "Final Approach (Korean Air Flight 801)",
+          "thumbnail": "",
+          "url": "media/Shows/Air Crash Investigation/S04/E (4).mkv",
+          "duration": "00:52:02",
+          "quality": "720p",
+          "release": "2007"
+        }, {
+          "name": "Hidden Danger (United Airlines Flight 585, USAir Flight 427 and Eastwind Airlines Flight 517)",
+          "thumbnail": "",
+          "url": "media/Shows/Air Crash Investigation/S04/E (5).mkv",
+          "duration": "00:52:02",
+          "quality": "720p",
+          "release": "2007"
+        }, {
+          "name": "Panic over the Pacific (China Airlines Flight 006)",
+          "thumbnail": "",
+          "url": "media/Shows/Air Crash Investigation/S04/E (6).mkv",
+          "duration": "00:52:02",
+          "quality": "720p",
+          "release": "2007"
+        }, {
+          "name": "Out of Sight (1986 Cerritos mid air collision)",
+          "thumbnail": "",
+          "url": "media/Shows/Air Crash Investigation/S04/E (7).mkv",
+          "duration": "00:52:02",
+          "quality": "720p",
+          "release": "2007"
+        }, {
+          "name": "Fog of War (1996 Croatia USAF CT 43 crash)",
+          "thumbnail": "",
+          "url": "media/Shows/Air Crash Investigation/S04/E (8).mkv",
+          "duration": "00:52:02",
+          "quality": "720p",
+          "release": "2007"
+        }, {
+          "name": "Vertigo (Flash Airlines Flight 604)",
+          "thumbnail": "",
+          "url": "media/Shows/Air Crash Investigation/S04/E (9).mkv",
+          "duration": "00:52:02",
+          "quality": "720p",
+          "release": "2007"
+        }, {
+          "name": "Ghost Plane (Helios Airways Flight 522)",
+          "thumbnail": "",
+          "url": "media/Shows/Air Crash Investigation/S04/E (10).mkv",
+          "duration": "00:52:02",
+          "quality": "720p",
+          "release": "2007"
+        }]
       }, {
         "name": "Season 5",
-        "episodes": []
+        "episodes": [{
+          "name": "Invisible Killer (Delta Air Lines Flight 191)",
+          "thumbnail": "",
+          "url": "media/Shows/Air Crash Investigation/S05/E (1).mkv",
+          "duration": "00:52:02",
+          "quality": "720p",
+          "release": "2008"
+        }, {
+          "name": "Gimli Glider (Gimli Glider)",
+          "thumbnail": "",
+          "url": "media/Shows/Air Crash Investigation/S05/E (2).mkv",
+          "duration": "00:52:02",
+          "quality": "720p",
+          "release": "2008"
+        }, {
+          "name": "Behind Closed Doors (American Airlines Flight 96 and Turkish Airlines Flight 981)",
+          "thumbnail": "",
+          "url": "media/Shows/Air Crash Investigation/S05/E (3).mkv",
+          "duration": "00:52:02",
+          "quality": "720p",
+          "release": "2008"
+        }, {
+          "name": "Fanning the Flames (South African Airways Flight 295)",
+          "thumbnail": "",
+          "url": "media/Shows/Air Crash Investigation/S05/E (4).mkv",
+          "duration": "00:52:02",
+          "quality": "720p",
+          "release": "2008"
+        }, {
+          "name": "Dead Weight (Air Midwest Flight 5481)",
+          "thumbnail": "",
+          "url": "media/Shows/Air Crash Investigation/S05/E (5).mkv",
+          "duration": "00:52:02",
+          "quality": "720p",
+          "release": "2008"
+        }, {
+          "name": "Southern Storm (Southern Airways Flight 242)",
+          "thumbnail": "",
+          "url": "media/Shows/Air Crash Investigation/S05/E (6).mkv",
+          "duration": "00:52:02",
+          "quality": "720p",
+          "release": "2008"
+        }, {
+          "name": "Air India_ Explosive Evidence (Air India Flight 182)",
+          "thumbnail": "",
+          "url": "media/Shows/Air Crash Investigation/S05/E (7).mkv",
+          "duration": "00:52:02",
+          "quality": "720p",
+          "release": "2008"
+        }, {
+          "name": "Mixed Signals (Birgenair Flight 301)",
+          "thumbnail": "",
+          "url": "media/Shows/Air Crash Investigation/S05/E (8).mkv",
+          "duration": "00:52:02",
+          "quality": "720p",
+          "release": "2008"
+        }, {
+          "name": "Fatal Distraction (Eastern Air Lines Flight 401)",
+          "thumbnail": "",
+          "url": "media/Shows/Air Crash Investigation/S05/E (9).mkv",
+          "duration": "00:52:02",
+          "quality": "720p",
+          "release": "2008"
+        }, {
+          "name": "Phantom Strike (Gol Transportes Aéreos Flight 1907)",
+          "thumbnail": "",
+          "url": "media/Shows/Air Crash Investigation/S05/E (10).mkv",
+          "duration": "00:52:02",
+          "quality": "720p",
+          "release": "2008"
+        }]
       }, {
-        "name": "Season 6",
-        "episodes": []
+        "name": "Season 6 #Special",
+        "episodes": [{
+          "name": "Ripped Apart",
+          "thumbnail": "",
+          "url": "media/Shows/Air Crash Investigation/S06/E (1).mkv",
+          "duration": "00:52:02",
+          "quality": "720p",
+          "release": "2008"
+        }, {
+          "name": "Fatal Flaw",
+          "thumbnail": "",
+          "url": "media/Shows/Air Crash Investigation/S06/E (2).mp4",
+          "duration": "00:52:02",
+          "quality": "720p",
+          "release": "2008"
+        }, {
+          "name": "Who's Flying the Plane",
+          "thumbnail": "",
+          "url": "media/Shows/Air Crash Investigation/S06/E (3).mp4",
+          "duration": "00:52:02",
+          "quality": "720p",
+          "release": "2008"
+        }]
       }, {
         "name": "Season 7",
-        "episodes": []
+        "episodes": [{
+          "name": "Scratching the Surface (China Airlines Flight 611)",
+          "thumbnail": "",
+          "url": "media/Shows/Air Crash Investigation/S07/E (1).mkv",
+          "duration": "00:52:02",
+          "quality": "720p",
+          "release": "2009"
+        }, {
+          "name": "Lockerbie Disaster (Pan Am Flight 103)",
+          "thumbnail": "",
+          "url": "media/Shows/Air Crash Investigation/S07/E (2).mkv",
+          "duration": "00:52:02",
+          "quality": "720p",
+          "release": "2009"
+        }, {
+          "name": "Blown Apart (Partnair Flight 394)",
+          "thumbnail": "",
+          "url": "media/Shows/Air Crash Investigation/S07/E (3).mkv",
+          "duration": "00:52:02",
+          "quality": "720p",
+          "release": "2009"
+        }, {
+          "name": "Sight Unseen (Charkhi Dadri mid air collision)",
+          "thumbnail": "",
+          "url": "media/Shows/Air Crash Investigation/S07/E (4).mkv",
+          "duration": "00:52:02",
+          "quality": "720p",
+          "release": "2009"
+        }, {
+          "name": "Operation Babylift (1975 Tan Son Nhut C 5 accident)",
+          "thumbnail": "",
+          "url": "media/Shows/Air Crash Investigation/S07/E (5).mkv",
+          "duration": "00:52:02",
+          "quality": "720p",
+          "release": "2009"
+        }, {
+          "name": "Falling Fast (Tuninter Flight 1153)",
+          "thumbnail": "",
+          "url": "media/Shows/Air Crash Investigation/S07/E (6).mkv",
+          "duration": "00:52:02",
+          "quality": "720p",
+          "release": "2009"
+        }, {
+          "name": "Flight 574_ Lost (Adam Air Flight 574)",
+          "thumbnail": "",
+          "url": "media/Shows/Air Crash Investigation/S07/E (7).mkv",
+          "duration": "00:52:02",
+          "quality": "720p",
+          "release": "2009"
+        }, {
+          "name": "Frozen in Flight (American Eagle Flight 4184)",
+          "thumbnail": "",
+          "url": "media/Shows/Air Crash Investigation/S07/E (8).mkv",
+          "duration": "00:52:02",
+          "quality": "720p",
+          "release": "2009"
+        }]
       }, {
-        "name": "Season 8",
-        "episodes": []
+        "name": "Season 8 #Special",
+        "episodes": [{
+          "name": "System Breakdown (1956 Grand Canyon )",
+          "thumbnail": "",
+          "url": "media/Shows/Air Crash Investigation/S08/E (1).mkv",
+          "duration": "00:52:02",
+          "quality": "720p",
+          "release": "2009"
+        }, {
+          "name": "Cruel Skies",
+          "thumbnail": "",
+          "url": "media/Shows/Air Crash Investigation/S08/E (2).mkv",
+          "duration": "00:52:02",
+          "quality": "720p",
+          "release": "2009"
+        }]
       }, {
         "name": "Season 9",
-        "episodes": []
+        "episodes": [{
+          "name": "Panic on the Runway (British Airtours Flight 28M)",
+          "thumbnail": "",
+          "url": "media/Shows/Air Crash Investigation/S09/E (1).mkv",
+          "duration": "00:52:02",
+          "quality": "720p",
+          "release": "2010"
+        }, {
+          "name": "Alarming Silence (Northwest Airlines Flight 255)",
+          "thumbnail": "",
+          "url": "media/Shows/Air Crash Investigation/S09/E (2).mkv",
+          "duration": "00:52:02",
+          "quality": "720p",
+          "release": "2010"
+        }, {
+          "name": "Pilot vs. Plane (Air France Flight 296)",
+          "thumbnail": "",
+          "url": "media/Shows/Air Crash Investigation/S09/E (3).mkv",
+          "duration": "00:52:02",
+          "quality": "720p",
+          "release": "2010"
+        }, {
+          "name": "Cleared for Disaster (USAir Flight 1493)",
+          "thumbnail": "",
+          "url": "media/Shows/Air Crash Investigation/S09/E (4).mkv",
+          "duration": "00:52:02",
+          "quality": "720p",
+          "release": "2010"
+        }, {
+          "name": "Target is Destroyed (Korean Air Lines Flight 007)",
+          "thumbnail": "",
+          "url": "media/Shows/Air Crash Investigation/S09/E (5).mkv",
+          "duration": "00:52:02",
+          "quality": "720p",
+          "release": "2010"
+        }, {
+          "name": "Cold Case (Air Ontario Flight 1363 and USAir Flight 405)",
+          "thumbnail": "",
+          "url": "media/Shows/Air Crash Investigation/S09/E (6).mkv",
+          "duration": "00:52:02",
+          "quality": "720p",
+          "release": "2010"
+        }, {
+          "name": "The Final Blow (Air Inter Flight 148)",
+          "thumbnail": "",
+          "url": "media/Shows/Air Crash Investigation/S09/E (7).mkv",
+          "duration": "00:52:02",
+          "quality": "720p",
+          "release": "2010"
+        }, {
+          "name": "Cracks in the System (Chalk's Ocean Airways Flight 101)",
+          "thumbnail": "",
+          "url": "media/Shows/Air Crash Investigation/S09/E (8).mkv",
+          "duration": "00:52:02",
+          "quality": "720p",
+          "release": "2010"
+        }]
       }, {
         "name": "Season 10",
-        "episodes": []
+        "episodes": [{
+          "name": "Cockpit Failure (Crossair Flight 3597)",
+          "thumbnail": "",
+          "url": "media/Shows/Air Crash Investigation/S10/E (1).mkv",
+          "duration": "00:52:02",
+          "quality": "720p",
+          "release": "2011"
+        }, {
+          "name": "The Heathrow Enigma (British Airways Flight 38)",
+          "thumbnail": "",
+          "url": "media/Shows/Air Crash Investigation/S10/E (2).mkv",
+          "duration": "00:52:02",
+          "quality": "720p",
+          "release": "2011"
+        }, {
+          "name": "Pilot Betrayed (Scandinavian Airlines Flight 751)",
+          "thumbnail": "",
+          "url": "media/Shows/Air Crash Investigation/S10/E (3).mkv",
+          "duration": "00:52:02",
+          "quality": "720p",
+          "release": "2011"
+        }, {
+          "name": "Dead Tired (Colgan Air Flight 3407)",
+          "thumbnail": "",
+          "url": "media/Shows/Air Crash Investigation/S10/E (4).mkv",
+          "duration": "00:52:02",
+          "quality": "720p",
+          "release": "2011"
+        }, {
+          "name": "Hudson River Runway (US Airways Flight 1549)",
+          "thumbnail": "",
+          "url": "media/Shows/Air Crash Investigation/S10/E (5).mkv",
+          "duration": "00:52:02",
+          "quality": "720p",
+          "release": "2011"
+        }, {
+          "name": "Who's In Control_ (Turkish Airlines Flight 1951)",
+          "thumbnail": "",
+          "url": "media/Shows/Air Crash Investigation/S10/E (6).mkv",
+          "duration": "00:52:02",
+          "quality": "720p",
+          "release": "2011"
+        }]
       }, {
         "name": "Season 11",
-        "episodes": []
+        "episodes": [{
+          "name": "Deadly Reputation (TAM Airlines Flight 3054)",
+          "thumbnail": "",
+          "url": "media/Shows/Air Crash Investigation/S11/E (1).mkv",
+          "duration": "00:52:02",
+          "quality": "720p",
+          "release": "2011"
+        }, {
+          "name": "The Plane That Flew Too High (West Caribbean Airways Flight 708)",
+          "thumbnail": "",
+          "url": "media/Shows/Air Crash Investigation/S11/E (2).mkv",
+          "duration": "00:52:02",
+          "quality": "720p",
+          "release": "2011"
+        }, {
+          "name": "Split Decision (Arrow Air Flight 1285)",
+          "thumbnail": "",
+          "url": "media/Shows/Air Crash Investigation/S11/E (3).mkv",
+          "duration": "00:52:02",
+          "quality": "720p",
+          "release": "2011"
+        }, {
+          "name": "Breakup Over Texas (Continental Express Flight 2574)",
+          "thumbnail": "",
+          "url": "media/Shows/Air Crash Investigation/S11/E (4).mkv",
+          "duration": "00:52:02",
+          "quality": "720p",
+          "release": "2011"
+        }, {
+          "name": "Munich Air Disaster",
+          "thumbnail": "",
+          "url": "media/Shows/Air Crash Investigation/S11/E (5).mkv",
+          "duration": "00:52:02",
+          "quality": "720p",
+          "release": "2011"
+        }, {
+          "name": "Turning Point (Northwest Airlines Flight 85)",
+          "thumbnail": "",
+          "url": "media/Shows/Air Crash Investigation/S11/E (6).mkv",
+          "duration": "00:52:02",
+          "quality": "720p",
+          "release": "2011"
+        }, {
+          "name": "Bad Attitude (Korean Air Cargo Flight 8509)",
+          "thumbnail": "",
+          "url": "media/Shows/Air Crash Investigation/S11/E (7).mkv",
+          "duration": "00:52:02",
+          "quality": "720p",
+          "release": "2011"
+        }, {
+          "name": "Blind Spot (PSA Flight 182)",
+          "thumbnail": "",
+          "url": "media/Shows/Air Crash Investigation/S11/E (8).mkv",
+          "duration": "00:52:02",
+          "quality": "720p",
+          "release": "2011"
+        }, {
+          "name": "Under Pressure (Nigeria Airways Flight 2120)",
+          "thumbnail": "",
+          "url": "media/Shows/Air Crash Investigation/S11/E (9).mkv",
+          "duration": "00:52:02",
+          "quality": "720p",
+          "release": "2011"
+        }, {
+          "name": "I'm The Problem (Pacific Southwest Airlines Flight 1771)",
+          "thumbnail": "",
+          "url": "media/Shows/Air Crash Investigation/S11/E (10).mkv",
+          "duration": "00:52:02",
+          "quality": "720p",
+          "release": "2011"
+        }, {
+          "name": "Nowhere to Land (TACA Flight 110)",
+          "thumbnail": "",
+          "url": "media/Shows/Air Crash Investigation/S11/E (11).mkv",
+          "duration": "00:52:02",
+          "quality": "720p",
+          "release": "2011"
+        }, {
+          "name": "The Invisible Plane (The Linate Airport disaster)",
+          "thumbnail": "",
+          "url": "media/Shows/Air Crash Investigation/S11/E (12).mkv",
+          "duration": "00:52:02",
+          "quality": "720p",
+          "release": "2011"
+        }, {
+          "name": "Impossible Landing (United Airlines Flight 232)",
+          "thumbnail": "",
+          "url": "media/Shows/Air Crash Investigation/S11/E (13).mkv",
+          "duration": "00:52:02",
+          "quality": "720p",
+          "release": "2011"
+        }]
       }, {
         "name": "Season 12",
-        "episodes": []
+        "episodes": [{
+          "name": "Fight for Control (Reeve Aleutian Airways Flight 8)",
+          "thumbnail": "",
+          "url": "media/Shows/Air Crash Investigation/S12/E (1).mp4",
+          "duration": "00:52:02",
+          "quality": "720p",
+          "release": "2012"
+        }, {
+          "name": "Fire in the Hold (ValuJet Flight 592)",
+          "thumbnail": "",
+          "url": "media/Shows/Air Crash Investigation/S12/E (2).mp4",
+          "duration": "00:52:02",
+          "quality": "720p",
+          "release": "2012"
+        }, {
+          "name": "Caution to the Wind (Singapore Airlines Flight 006)",
+          "thumbnail": "",
+          "url": "media/Shows/Air Crash Investigation/S12/E (3).mp4",
+          "duration": "00:52:02",
+          "quality": "720p",
+          "release": "2012"
+        }, {
+          "name": "Pushed to the Limit (SilkAir Flight 185)",
+          "thumbnail": "",
+          "url": "media/Shows/Air Crash Investigation/S12/E (4).mp4",
+          "duration": "00:52:02",
+          "quality": "720p",
+          "release": "2012"
+        }, {
+          "name": "Blind Landing (TANS Perú Flight 204)",
+          "thumbnail": "",
+          "url": "media/Shows/Air Crash Investigation/S12/E (5).mp4",
+          "duration": "00:52:02",
+          "quality": "720p",
+          "release": "2012"
+        }, {
+          "name": "Grand Canyon Disaster (UA Flight 718 & TWA Flight 2)",
+          "thumbnail": "",
+          "url": "media/Shows/Air Crash Investigation/S12/E (6).mp4",
+          "duration": "00:52:02",
+          "quality": "720p",
+          "release": "2012"
+        }, {
+          "name": "Catastrophe at O'Hare (American Airlines Flight 191)",
+          "thumbnail": "",
+          "url": "media/Shows/Air Crash Investigation/S12/E (7).mp4",
+          "duration": "00:52:02",
+          "quality": "720p",
+          "release": "2012"
+        }, {
+          "name": "Fatal Fixation (United Airlines Flight 173)",
+          "thumbnail": "",
+          "url": "media/Shows/Air Crash Investigation/S12/E (8).mp4",
+          "duration": "00:52:02",
+          "quality": "720p",
+          "release": "2012"
+        }, {
+          "name": "Lokomotiv Hockey Team Disaster (Lokomotiv Yaroslavl Air Disaster)",
+          "thumbnail": "",
+          "url": "media/Shows/Air Crash Investigation/S12/E (9).mp4",
+          "duration": "00:52:02",
+          "quality": "720p",
+          "release": "2012"
+        }, {
+          "name": "Death of the President (Polish Air Force Tu 154 Crash)",
+          "thumbnail": "",
+          "url": "media/Shows/Air Crash Investigation/S12/E (10).mp4",
+          "duration": "00:52:02",
+          "quality": "720p",
+          "release": "2012"
+        }, {
+          "name": "Heading to Disaster (Ethiopian Airlines Flight 409)",
+          "thumbnail": "",
+          "url": "media/Shows/Air Crash Investigation/S12/E (11).mp4",
+          "duration": "00:52:02",
+          "quality": "720p",
+          "release": "2012"
+        }, {
+          "name": "28 Seconds to Survive (Santa Bárbara Airlines Flight 518)",
+          "thumbnail": "",
+          "url": "media/Shows/Air Crash Investigation/S12/E (12).mp4",
+          "duration": "00:52:02",
+          "quality": "720p",
+          "release": "2012"
+        }, {
+          "name": "Air France 447, Vanished (Air France Flight 447)",
+          "thumbnail": "",
+          "url": "media/Shows/Air Crash Investigation/S12/E (13).mp4",
+          "duration": "00:52:02",
+          "quality": "720p",
+          "release": "2012"
+        }]
       }, {
         "name": "Season 13",
-        "episodes": []
+        "episodes": [{
+          "name": "Flight to the Death (British European Airways Flight 548)",
+          "thumbnail": "",
+          "url": "media/Shows/Air Crash Investigation/S13/E (1).mkv",
+          "duration": "00:52:02",
+          "quality": "720p",
+          "release": "2013"
+        }, {
+          "name": "Speed Trap (Hughes Airwest Flight 706)",
+          "thumbnail": "",
+          "url": "media/Shows/Air Crash Investigation/S13/E (2).mkv",
+          "duration": "00:52:02",
+          "quality": "720p",
+          "release": "2013"
+        }, {
+          "name": "Lost in Translation (Crossair Flight 498)",
+          "thumbnail": "",
+          "url": "media/Shows/Air Crash Investigation/S13/E (3).mkv",
+          "duration": "00:52:02",
+          "quality": "720p",
+          "release": "2013"
+        }, {
+          "name": "Disaster on the Potomac (Air Florida Flight 90)",
+          "thumbnail": "",
+          "url": "media/Shows/Air Crash Investigation/S13/E (4).mkv",
+          "duration": "00:52:02",
+          "quality": "720p",
+          "release": "2013"
+        }, {
+          "name": "Queens Catastrophe (American Airlines Flight 587)",
+          "thumbnail": "",
+          "url": "media/Shows/Air Crash Investigation/S13/E (5).mkv",
+          "duration": "00:52:02",
+          "quality": "720p",
+          "release": "2013"
+        }, {
+          "name": "Into the Eye of the Storm (Hurricane hunters NOAA42 incident)",
+          "thumbnail": "",
+          "url": "media/Shows/Air Crash Investigation/S13/E (6).mkv",
+          "duration": "00:52:02",
+          "quality": "720p",
+          "release": "2013"
+        }, {
+          "name": "Massacre Over the Mediterranean (Itavia Flight 870)",
+          "thumbnail": "",
+          "url": "media/Shows/Air Crash Investigation/S13/E (7).mkv",
+          "duration": "00:52:02",
+          "quality": "720p",
+          "release": "2013"
+        }, {
+          "name": "Imperfect Pitch (XL Airways Germany Flight 888T)",
+          "thumbnail": "",
+          "url": "media/Shows/Air Crash Investigation/S13/E (8).mkv",
+          "duration": "00:52:02",
+          "quality": "720p",
+          "release": "2013"
+        }, {
+          "name": "Terror in Paradise (Air Moorea Flight 1121)",
+          "thumbnail": "",
+          "url": "media/Shows/Air Crash Investigation/S13/E (9).mkv",
+          "duration": "00:52:02",
+          "quality": "720p",
+          "release": "2013"
+        }, {
+          "name": "Titanic in the Sky (Qantas Flight 32)",
+          "thumbnail": "",
+          "url": "media/Shows/Air Crash Investigation/S13/E (10).mkv",
+          "duration": "00:52:02",
+          "quality": "720p",
+          "release": "2013"
+        }, {
+          "name": "Getting Out Alive #Special",
+          "thumbnail": "",
+          "url": "media/Shows/Air Crash Investigation/S13/E (11).mp4",
+          "duration": "00:52:02",
+          "quality": "720p",
+          "release": "2013"
+        }]
       }, {
         "name": "Season 14",
-        "episodes": []
+        "episodes": [{
+          "name": "M1 Plane Crash (Kegworth air disaster)",
+          "thumbnail": "",
+          "url": "media/Shows/Air Crash Investigation/S14/E (1).mkv",
+          "duration": "00:52:02",
+          "quality": "720p",
+          "release": "2015"
+        }, {
+          "name": "Niki Lauda Tragedy in the Air (Lauda Air Flight 004)",
+          "thumbnail": "",
+          "url": "media/Shows/Air Crash Investigation/S14/E (2).mkv",
+          "duration": "00:52:02",
+          "quality": "720p",
+          "release": "2015"
+        }, {
+          "name": "Vanishing Act (Varig Flight 254)",
+          "thumbnail": "",
+          "url": "media/Shows/Air Crash Investigation/S14/E (3).mkv",
+          "duration": "00:52:02",
+          "quality": "720p",
+          "release": "2015"
+        }, {
+          "name": "Sideswiped (Copa Airlines Flight 201)",
+          "thumbnail": "",
+          "url": "media/Shows/Air Crash Investigation/S14/E (4).mkv",
+          "duration": "00:52:02",
+          "quality": "720p",
+          "release": "2015"
+        }, {
+          "name": "Death At Narita (FedEx Express Flight 80 and FedEx Express Flight 14)",
+          "thumbnail": "",
+          "url": "media/Shows/Air Crash Investigation/S14/E (5).mkv",
+          "duration": "00:52:02",
+          "quality": "720p",
+          "release": "2015"
+        }, {
+          "name": "The Death Of JFK Jnr (John F. Kennedy Jr. plane crash)",
+          "thumbnail": "",
+          "url": "media/Shows/Air Crash Investigation/S14/E (6).mkv",
+          "duration": "00:52:02",
+          "quality": "720p",
+          "release": "2015"
+        }, {
+          "name": "Concorde Up in Flames (Air France Flight 4590)",
+          "thumbnail": "",
+          "url": "media/Shows/Air Crash Investigation/S14/E (7).mp4",
+          "duration": "00:52:02",
+          "quality": "720p",
+          "release": "2015"
+        }, {
+          "name": "Inner City Carnage (Mexico City plane)",
+          "thumbnail": "",
+          "url": "media/Shows/Air Crash Investigation/S14/E (8).mkv",
+          "duration": "00:52:02",
+          "quality": "720p",
+          "release": "2015"
+        }, {
+          "name": "3rd Time Unlucky (Manx2 Flight 7100)",
+          "thumbnail": "",
+          "url": "media/Shows/Air Crash Investigation/S14/E (9).mkv",
+          "duration": "00:52:02",
+          "quality": "720p",
+          "release": "2015"
+        }, {
+          "name": "Death In The Arctic (First Air Flight 6560)",
+          "thumbnail": "",
+          "url": "media/Shows/Air Crash Investigation/S14/E (10).mkv",
+          "duration": "00:52:02",
+          "quality": "720p",
+          "release": "2015"
+        }, {
+          "name": "Malaysia 370_What Happened",
+          "thumbnail": "",
+          "url": "media/Shows/Air Crash Investigation/S14/E (11).mp4",
+          "duration": "00:52:02",
+          "quality": "720p",
+          "release": "2015"
+        }]
       }, {
         "name": "Season 15",
-        "episodes": []
+        "episodes": [{
+          "name": "Fatal Transmission (United Express Flight 5925)",
+          "thumbnail": "",
+          "url": "media/Shows/Air Crash Investigation/S15/E (1).mkv",
+          "duration": "00:52:02",
+          "quality": "720p",
+          "release": "2016"
+        }, {
+          "name": "Terror In San Francisco (Asiana Airlines Flight 214)",
+          "thumbnail": "",
+          "url": "media/Shows/Air Crash Investigation/S15/E (2).mkv",
+          "duration": "00:52:02",
+          "quality": "720p",
+          "release": "2016"
+        }, {
+          "name": "High Rise Catastrophe (El Al Flight 1862)",
+          "thumbnail": "",
+          "url": "media/Shows/Air Crash Investigation/S15/E (3).mkv",
+          "duration": "00:52:02",
+          "quality": "720p",
+          "release": "2016"
+        }, {
+          "name": "Fatal Delivery (UPS Airlines Flight 6)",
+          "thumbnail": "",
+          "url": "media/Shows/Air Crash Investigation/S15/E (4).mkv",
+          "duration": "00:52:02",
+          "quality": "720p",
+          "release": "2016"
+        }, {
+          "name": "Deadly Mission (Ndola United Nations DC-6)",
+          "thumbnail": "",
+          "url": "media/Shows/Air Crash Investigation/S15/E (5).mkv",
+          "duration": "00:52:02",
+          "quality": "720p",
+          "release": "2016"
+        }, {
+          "name": "Edge of Disaster (Atlantic Airways Flight 670)",
+          "thumbnail": "",
+          "url": "media/Shows/Air Crash Investigation/S15/E (6).mkv",
+          "duration": "00:52:02",
+          "quality": "720p",
+          "release": "2016"
+        }, {
+          "name": "Deadly Delay (Spanair Flight 5022)",
+          "thumbnail": "",
+          "url": "media/Shows/Air Crash Investigation/S15/E (7).mkv",
+          "duration": "00:52:02",
+          "quality": "720p",
+          "release": "2016"
+        }, {
+          "name": "Fatal Focus (Garuda Indonesia Flight 200)",
+          "thumbnail": "",
+          "url": "media/Shows/Air Crash Investigation/S15/E (8).mp4",
+          "duration": "00:52:02",
+          "quality": "720p",
+          "release": "2016"
+        }, {
+          "name": "Carnage in Sao Paulo (Atlantic Southeast Airlines Flight 2311)",
+          "thumbnail": "",
+          "url": "media/Shows/Air Crash Investigation/S15/E (9).mp4",
+          "duration": "00:52:02",
+          "quality": "720p",
+          "release": "2016"
+        }, {
+          "name": "Steep Impact (TAM Transportes Aereos Regionais Flight 402)",
+          "thumbnail": "",
+          "url": "media/Shows/Air Crash Investigation/S15/E (10).mp4",
+          "duration": "00:52:02",
+          "quality": "720p",
+          "release": "2016"
+        }]
       }, {
         "name": "Season 16",
-        "episodes": []
+        "episodes": [{
+          "name": "Deadly Silence (South Dakota Learjet)",
+          "thumbnail": "",
+          "url": "media/Shows/Air Crash Investigation/S16/E (1).mp4",
+          "duration": "00:52:02",
+          "quality": "720p",
+          "release": "2016"
+        }, {
+          "name": "The Pentagon Attack (American Airlines Flight 77)",
+          "thumbnail": "",
+          "url": "media/Shows/Air Crash Investigation/S16/E (2).mp4",
+          "duration": "00:52:02",
+          "quality": "720p",
+          "release": "2016"
+        }, {
+          "name": "Disaster at Tenerife (KLM Flight 4805 and Pan Am Flight 1736)",
+          "thumbnail": "",
+          "url": "media/Shows/Air Crash Investigation/S16/E (3).mp4",
+          "duration": "00:52:02",
+          "quality": "720p",
+          "release": "2016"
+        }, {
+          "name": "Deadly Detail (China Airlines Flight 120)",
+          "thumbnail": "",
+          "url": "media/Shows/Air Crash Investigation/S16/E (4).mp4",
+          "duration": "00:52:02",
+          "quality": "720p",
+          "release": "2016"
+        }, {
+          "name": "Deadly Detour (Proteus Airlines Flight 706)",
+          "thumbnail": "",
+          "url": "media/Shows/Air Crash Investigation/S16/E (5).mp4",
+          "duration": "00:52:02",
+          "quality": "720p",
+          "release": "2016"
+        }, {
+          "name": "Dangerous Approach (Trans-Colorado Airlines Flight 2286)",
+          "thumbnail": "",
+          "url": "media/Shows/Air Crash Investigation/S16/E (6).mp4",
+          "duration": "00:52:02",
+          "quality": "720p",
+          "release": "2016"
+        }, {
+          "name": "Murder In The Skies (Germanwings Flight 9525)",
+          "thumbnail": "",
+          "url": "media/Shows/Air Crash Investigation/S16/E (7).mp4",
+          "duration": "00:52:02",
+          "quality": "720p",
+          "release": "2016"
+        }, {
+          "name": "River Runway (Garuda Indonesia Flight 421)",
+          "thumbnail": "",
+          "url": "media/Shows/Air Crash Investigation/S16/E (8).mp4",
+          "duration": "00:52:02",
+          "quality": "720p",
+          "release": "2016"
+        }, {
+          "name": "Deadly Solution (Indonesia AirAsia Flight 8501)",
+          "thumbnail": "",
+          "url": "media/Shows/Air Crash Investigation/S16/E (9).mp4",
+          "duration": "00:52:02",
+          "quality": "720p",
+          "release": "2016"
+        }, {
+          "name": "Afghan Nightmare (National Airlines Flight 102)",
+          "thumbnail": "",
+          "url": "media/Shows/Air Crash Investigation/S16/E (10).mp4",
+          "duration": "00:52:02",
+          "quality": "720p",
+          "release": "2016"
+        }]
       }, {
         "name": "Season 17",
-        "episodes": []
+        "episodes": [{
+          "name": "Killer Attitude (Northwest Airlink Flight 5719)",
+          "thumbnail": "",
+          "url": "media/Shows/Air Crash Investigation/S17/E (1).mkv",
+          "duration": "00:52:02",
+          "quality": "720p",
+          "release": "2017"
+        }, {
+          "name": "Deadly Myth (Comair Flight 3272)",
+          "thumbnail": "",
+          "url": "media/Shows/Air Crash Investigation/S17/E (2).mkv",
+          "duration": "00:52:02",
+          "quality": "720p",
+          "release": "2017"
+        }, {
+          "name": "Turning Point (Air China Flight 129)",
+          "thumbnail": "",
+          "url": "media/Shows/Air Crash Investigation/S17/E (3).mkv",
+          "duration": "00:52:02",
+          "quality": "720p",
+          "release": "2017"
+        }, {
+          "name": "Explosive Proof (TWA Flight 800)",
+          "thumbnail": "",
+          "url": "media/Shows/Air Crash Investigation/S17/E (4).mkv",
+          "duration": "00:52:02",
+          "quality": "720p",
+          "release": "2017"
+        }, {
+          "name": "Lethal Turn (Garuda Indonesia Flight 152)",
+          "thumbnail": "",
+          "url": "media/Shows/Air Crash Investigation/S17/E (5).mkv",
+          "duration": "00:52:02",
+          "quality": "720p",
+          "release": "2017"
+        }, {
+          "name": "Storming Out (USAir Flight 1016)",
+          "thumbnail": "",
+          "url": "media/Shows/Air Crash Investigation/S17/E (6).mkv",
+          "duration": "00:52:02",
+          "quality": "720p",
+          "release": "2017"
+        }, {
+          "name": "Caught on Tape (TransAsia Airways Flight 235)",
+          "thumbnail": "",
+          "url": "media/Shows/Air Crash Investigation/S17/E (7).mkv",
+          "duration": "00:52:02",
+          "quality": "720p",
+          "release": "2017"
+        }, {
+          "name": "Terror over Egypt (Metrojet Flight 9268)",
+          "thumbnail": "",
+          "url": "media/Shows/Air Crash Investigation/S17/E (8).mkv",
+          "duration": "00:52:02",
+          "quality": "720p",
+          "release": "2017"
+        }, {
+          "name": "Deadly Discussions (LAPA Flight 3142)",
+          "thumbnail": "",
+          "url": "media/Shows/Air Crash Investigation/S17/E (9).mkv",
+          "duration": "00:52:02",
+          "quality": "720p",
+          "release": "2017"
+        }, {
+          "name": "The Lost Plane (Thai Airways International Flight 311)",
+          "thumbnail": "",
+          "url": "media/Shows/Air Crash Investigation/S17/E (10).mkv",
+          "duration": "00:52:02",
+          "quality": "720p",
+          "release": "2017"
+        }]
       }, {
         "name": "Season 18",
-        "episodes": []
+        "episodes": [{
+          "name": "Nuts and Bolts (Emery Worldwide Flight 17)",
+          "thumbnail": "",
+          "url": "media/Shows/Air Crash Investigation/S18/E (1).mp4",
+          "duration": "00:52:02",
+          "quality": "720p",
+          "release": "2018"
+        }, {
+          "name": "Blown Away (TransAsia Airways Flight 222)",
+          "thumbnail": "",
+          "url": "media/Shows/Air Crash Investigation/S18/E (2).mp4",
+          "duration": "00:52:02",
+          "quality": "720p",
+          "release": "2018"
+        }, {
+          "name": "Deadly Distraction (Delta Air Lines Flight 1141)",
+          "thumbnail": "",
+          "url": "media/Shows/Air Crash Investigation/S18/E (3).mkv",
+          "duration": "00:52:02",
+          "quality": "720p",
+          "release": "2018"
+        }, {
+          "name": "Deadly Airspace (Malaysia Airlines Flight 17)",
+          "thumbnail": "",
+          "url": "media/Shows/Air Crash Investigation/S18/E (4).mp4",
+          "duration": "00:52:02",
+          "quality": "720p",
+          "release": "2018"
+        }, {
+          "name": "Deadly Display (Sukhoi Superjet)",
+          "thumbnail": "",
+          "url": "media/Shows/Air Crash Investigation/S18/E (5).mp4",
+          "duration": "00:52:02",
+          "quality": "720p",
+          "release": "2018"
+        }, {
+          "name": "Deadly Mission (VSS Enterprise crash)",
+          "thumbnail": "",
+          "url": "media/Shows/Air Crash Investigation/S18/E (6).mov",
+          "duration": "00:52:02",
+          "quality": "720p",
+          "release": "2018"
+        }, {
+          "name": "Free Fall (Qantas Flight 72)",
+          "thumbnail": "",
+          "url": "media/Shows/Air Crash Investigation/S18/E (7).mp4",
+          "duration": "00:52:02",
+          "quality": "720p",
+          "release": "2018"
+        }, {
+          "name": "Deadly Inclination (Alitalia Flight 404)",
+          "thumbnail": "",
+          "url": "media/Shows/Air Crash Investigation/S18/E (8).mp4",
+          "duration": "00:52:02",
+          "quality": "720p",
+          "release": "2018"
+        }, {
+          "name": "Deadly Go Round (China Airlines Flight 140)",
+          "thumbnail": "",
+          "url": "media/Shows/Air Crash Investigation/S18/E (9).mp4",
+          "duration": "00:52:02",
+          "quality": "720p",
+          "release": "2018"
+        }, {
+          "name": "Dead of Winter (Continental Airlines Flight 1713)",
+          "thumbnail": "",
+          "url": "media/Shows/Air Crash Investigation/S18/E (10).mp4",
+          "duration": "00:52:02",
+          "quality": "720p",
+          "release": "2018"
+        }]
       }, {
         "name": "Season 19",
-        "episodes": []
+        "episodes": [{
+          "name": "Deadly Descent (Cathay Pacific Flight 780)",
+          "thumbnail": "",
+          "url": "media/Shows/Air Crash Investigation/S19/E (1).mp4",
+          "duration": "00:52:02",
+          "quality": "720p",
+          "release": "2019"
+        }, {
+          "name": "Death Race (2011 Reno Air Races)",
+          "thumbnail": "",
+          "url": "media/Shows/Air Crash Investigation/S19/E (2).mp4",
+          "duration": "00:52:02",
+          "quality": "720p",
+          "release": "2019"
+        }, {
+          "name": "Fatal Approach (KLM Cityhopper Flight 433)",
+          "thumbnail": "",
+          "url": "media/Shows/Air Crash Investigation/S19/E (3).mp4",
+          "duration": "00:52:02",
+          "quality": "720p",
+          "release": "2019"
+        }, {
+          "name": "Borderline Tactics (American International Airways 808)",
+          "thumbnail": "",
+          "url": "media/Shows/Air Crash Investigation/S19/E (4).mp4",
+          "duration": "00:52:02",
+          "quality": "720p",
+          "release": "2019"
+        }, {
+          "name": "Deadly Pitch (Fine Air Flight 101)",
+          "thumbnail": "",
+          "url": "media/Shows/Air Crash Investigation/S19/E (5).mp4",
+          "duration": "00:52:02",
+          "quality": "720p",
+          "release": "2019"
+        }, {
+          "name": "Fatal Climb (Tarom Flight 371)",
+          "thumbnail": "",
+          "url": "media/Shows/Air Crash Investigation/S19/E (6).mp4",
+          "duration": "00:52:02",
+          "quality": "720p",
+          "release": "2019"
+        }, {
+          "name": "Runway Runoff (Continental Flight 1404)",
+          "thumbnail": "",
+          "url": "media/Shows/Air Crash Investigation/S19/E (7).mp4",
+          "duration": "00:52:02",
+          "quality": "720p",
+          "release": "2019"
+        }, {
+          "name": "Lethal Limits (Aeroflot Flight 821)",
+          "thumbnail": "",
+          "url": "media/Shows/Air Crash Investigation/S19/E (8).mp4",
+          "duration": "00:52:02",
+          "quality": "720p",
+          "release": "2019"
+        }, {
+          "name": "Football Tragedy (LaMia Flight 2933)",
+          "thumbnail": "",
+          "url": "media/Shows/Air Crash Investigation/S19/E (9).mp4",
+          "duration": "00:52:02",
+          "quality": "720p",
+          "release": "2019"
+        }, {
+          "name": "Slam Dunk (United Express Flight 6291)",
+          "thumbnail": "",
+          "url": "media/Shows/Air Crash Investigation/S19/E (10).mp4",
+          "duration": "00:52:02",
+          "quality": "720p",
+          "release": "2019"
+        }]
       }, {
         "name": "Special",
-        "episodes": []
+        "episodes": [{
+          "name": "Final Hour of Flight 11",
+          "thumbnail": "",
+          "url": "media/Shows/Air Crash Investigation/Special/E (1).mp4",
+          "duration": "00:52:02",
+          "quality": "720p",
+          "release": "unknown"
+        }, {
+          "name": "Trans World Airliness Flight Massacre",
+          "thumbnail": "",
+          "url": "media/Shows/Air Crash Investigation/Special/E (2).mp4",
+          "duration": "00:52:02",
+          "quality": "720p",
+          "release": "unknown"
+        }]
       }]
     }, {
       "name": "Friends",
