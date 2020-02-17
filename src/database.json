@@ -1431,9 +1431,16 @@
           "quality": "720p",
           "release": "1997"
         }, {
-          "name": "The One with Ross's Wedding",
+          "name": "The One with Ross's Wedding, part 1",
           "thumbnail": "",
           "url": "media/Shows/Friends/S04/E (23).mkv",
+          "duration": "00:25:00",
+          "quality": "720p",
+          "release": "1997"
+        }, {
+          "name": "The One with Ross's Wedding, part 2",
+          "thumbnail": "",
+          "url": "media/Shows/Friends/S04/E (24).mkv",
           "duration": "00:25:00",
           "quality": "720p",
           "release": "1997"
@@ -1595,9 +1602,16 @@
           "quality": "720p",
           "release": "1998"
         }, {
-          "name": "The One In Vegas",
+          "name": "The One In Vegas, part 1",
           "thumbnail": "",
           "url": "media/Shows/Friends/S05/E (23).mkv",
+          "duration": "00:25:00",
+          "quality": "720p",
+          "release": "1998"
+        }, {
+          "name": "The One In Vegas, part 2",
+          "thumbnail": "",
+          "url": "media/Shows/Friends/S05/E (24).mkv",
           "duration": "00:25:00",
           "quality": "720p",
           "release": "1998"
@@ -2279,16 +2293,9 @@
           "quality": "720p",
           "release": "2002"
         }, {
-          "name": "The One In Barbados, part 1",
+          "name": "The One In Barbados, part 1 & 2",
           "thumbnail": "",
           "url": "media/Shows/Friends/S09/E (23).mkv",
-          "duration": "00:25:00",
-          "quality": "720p",
-          "release": "2002"
-        }, {
-          "name": "The One In Barbados, part 2",
-          "thumbnail": "",
-          "url": "media/Shows/Friends/S09/E (24).mkv",
           "duration": "00:25:00",
           "quality": "720p",
           "release": "2002"
