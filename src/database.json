@@ -10,9 +10,10 @@
       "banner": "https://penchalk.com/wp-content/uploads/2019/11/share.jpg",
       "type": "Movie",
       "episodes": [{
-        "name": "Joker (2019)",
+        "name": "Joker",
         "thumbnail": "",
         "url": "media/Movies/Joker/Joker 2019 [1080p].mp4",
+        "subtitle": "media/Movies/Joker/Joker 2019 [1080p].srt",
         "duration": "2:01:49",
         "quality": "1080p",
         "release": "2019"
@@ -3646,6 +3647,105 @@
         "duration": "02:51:24",
         "quality": "1080p",
         "release": "2019"
+      }]
+    }, {
+      "name": "Finding Nemo",
+      "poster": "https://www.itl.cat/pngfile/big/138-1383891_download-movie-poster-finding-nemo.jpg",
+      "banner": "https://lumiere-a.akamaihd.net/v1/images/open-uri20160812-3094-q12ugh_dfd54a6e.jpeg?region=0%2C0%2C640%2C320",
+      "type": "Movie",
+      "episodes": [{
+        "name": "Finding Nemo",
+        "thumbnail": "",
+        "url": "media/Movies/Finding Nemo/E (1).mp4",
+        "duration": "1:40:54",
+        "quality": "1080p",
+        "release": "2003"
+      }]
+    }, {
+      "name": "Finding Dory",
+      "poster": "https://m.media-amazon.com/images/M/MV5BNzg4MjM2NDQ4MV5BMl5BanBnXkFtZTgwMzk3MTgyODE@._V1_.jpg",
+      "banner": "https://i.ytimg.com/vi/3JNLwlcPBPI/maxresdefault.jpg",
+      "type": "Movie",
+      "episodes": [{
+        "name": "Finding Dory",
+        "thumbnail": "",
+        "url": "media/Movies/Finding Dory/E (1).mkv",
+        "subtitle": "media/Movies/Finding Dory/E (1).srt",
+        "duration": "1:37:03",
+        "quality": "1080p",
+        "release": "2016"
+      }]
+    }, {
+      "name": "Titanic",
+      "poster": "https://m.media-amazon.com/images/M/MV5BMDdmZGU3NDQtY2E5My00ZTliLWIzOTUtMTY4ZGI1YjdiNjk3XkEyXkFqcGdeQXVyNTA4NzY1MzY@._V1_.jpg",
+      "banner": "https://cloud10.todocoleccion.online/cine-posters-carteles/tc/2019/02/01/18/149497830.jpg",
+      "type": "Movie",
+      "episodes": [{
+        "name": "Titanic",
+        "thumbnail": "",
+        "url": "media/Movies/Titanic/E (1).mp4",
+        "subtitle": "media/Movies/Titanic/E (1).srt",
+        "duration": "3:14:51",
+        "quality": "1080p",
+        "release": "1997"
+      }]
+    }, {
+      "name": "Jurassic Park",
+      "poster": "https://m.media-amazon.com/images/M/MV5BMDdmZGU3NDQtY2E5My00ZTliLWIzOTUtMTY4ZGI1YjdiNjk3XkEyXkFqcGdeQXVyNTA4NzY1MzY@._V1_.jpg",
+      "banner": "https://cloud10.todocoleccion.online/cine-posters-carteles/tc/2019/02/01/18/149497830.jpg",
+      "type": "Movie",
+      "episodes": [{
+        "name": "Jurassic Park I",
+        "thumbnail": "https://i.pinimg.com/736x/d9/09/64/d909645fb089d09443957b771245ab97.jpg",
+        "url": "media/Movies/Jurassic Park/E (1).mp4",
+        "subtitle": "media/Movies/Jurassic Park/E (1).srt",
+        "duration": "2:06:36",
+        "quality": "720p",
+        "release": "1993"
+      }, {
+        "name": "The Lost World: Jurassic Park",
+        "thumbnail": "https://i.pinimg.com/736x/c0/fd/aa/c0fdaa1fd3321858f100d699d3351995.jpg",
+        "url": "media/Movies/Jurassic Park/E (2).mp4",
+        "subtitle": "media/Movies/Jurassic Park/E (2).srt",
+        "duration": "2:08:46",
+        "quality": "1080p",
+        "release": "1997"
+      }, {
+        "name": "Jurassic Park III",
+        "thumbnail": "https://m.media-amazon.com/images/M/MV5BZDMyZGJjOGItYjJkZC00MDVlLWE0Y2YtZGIwMDExYWE3MGQ3XkEyXkFqcGdeQXVyNDYyMDk5MTU@._V1_.jpg",
+        "url": "media/Movies/Jurassic Park/E (3).mp4",
+        "subtitle": "media/Movies/Jurassic Park/E (3).srt",
+        "duration": "1:32:20",
+        "quality": "1080p",
+        "release": "2001"
+      }]
+    }, {
+      "name": "2001 A Space Odyssey",
+      "poster": "https://images-na.ssl-images-amazon.com/images/I/41yU9cqLS8L._AC_.jpg",
+      "banner": "https://images1.houstonpress.com/imager/u/745xauto/10810730/hou_art_20180831_2001_header.jpg",
+      "type": "Movie",
+      "episodes": [{
+        "name": "2001 A Space Odyssey",
+        "thumbnail": "",
+        "url": "media/Movies/2001 A Space Odyssey/E (1).mp4",
+        "subtitle": "media/Movies/2001 A Space Odyssey/E (1).srt",
+        "duration": "2:28:51",
+        "quality": "1080p",
+        "release": "1968"
+      }]
+    }, {
+      "name": "Jurassic World",
+      "poster": "https://cdn11.bigcommerce.com/s-yzgoj/images/stencil/1280x1280/products/1968597/3966040/TIARP16240__42756.1541771097.jpg?c=2&imbypass=on",
+      "banner": "https://static3.srcdn.com/wordpress/wp-content/uploads/Jurassic-World-Banner-teeth.jpg?q=50&fit=crop&w=960&h=500",
+      "type": "Movie",
+      "episodes": [{
+        "name": "Jurassic World: Fallen Kingdom",
+        "thumbnail": "",
+        "url": "media/Movies/Jurassic World/E (1).mp4",
+        "subtitle": "",
+        "duration": "2:08:17",
+        "quality": "1080p",
+        "release": "2015"
       }]
     }]
 }
