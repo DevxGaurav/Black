@@ -2,9 +2,248 @@
   "filename": "database.json",
   "date_created": "15-02-2020 20:12:00",
   "last_modified": "15-02-2020 20:13:00",
-  "version": "1r0000",
+  "version": "20F202106",
   "files": [
     {
+      "name": "Chilling Adventures of Sabrina",
+      "poster": "https://m.media-amazon.com/images/M/MV5BNDJjYzk0ZTktNzQ1ZC00MmQ0LTk1NTYtNmMwMGE4NDM5ZjAyXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_.jpg",
+      "banner": "https://breakingblue.org/wp-content/uploads/2018/12/Chilling-Adventures-of-Sabrina-netflix-serie-witch-header-700x361-1.jpg",
+      "type": "Show",
+      "seasons": [{
+        "name": "Part 1",
+        "episodes": [{
+          "name": "Chapter One: October Country",
+          "thumbnail": "",
+          "url": "media/Shows/Chilling Adventure of Sabrina/S01/E (1).mp4",
+          "subtitle": "",
+          "duration": "01:01:44",
+          "quality": "720p",
+          "release": "2018"
+        }, {
+          "name": "Chapter Two: The Dark Baptism",
+          "thumbnail": "",
+          "url": "media/Shows/Chilling Adventure of Sabrina/S01/E (2).mp4",
+          "subtitle": "",
+          "duration": "00:57:08",
+          "quality": "720p",
+          "release": "2018"
+        }, {
+          "name": "Chapter Three: The Trial of Sabrina Spellman",
+          "thumbnail": "",
+          "url": "media/Shows/Chilling Adventure of Sabrina/S01/E (3).mp4",
+          "subtitle": "",
+          "duration": "00:57:29",
+          "quality": "720p",
+          "release": "2018"
+        }, {
+          "name": "Chapter Four: Witch Academy",
+          "thumbnail": "",
+          "url": "media/Shows/Chilling Adventure of Sabrina/S01/E (4).mp4",
+          "subtitle": "",
+          "duration": "1:00:18",
+          "quality": "720p",
+          "release": "2018"
+        }, {
+          "name": "Chapter Five: Dreams in a Witch House",
+          "thumbnail": "",
+          "url": "media/Shows/Chilling Adventure of Sabrina/S01/E (5).mp4",
+          "subtitle": "",
+          "duration": "00:53:53",
+          "quality": "720p",
+          "release": "2018"
+        }, {
+          "name": "Chapter Six: An Exorcism in Greendale",
+          "thumbnail": "",
+          "url": "media/Shows/Chilling Adventure of Sabrina/S01/E (6).mp4",
+          "subtitle": "",
+          "duration": "00:49:53",
+          "quality": "720p",
+          "release": "2018"
+        }, {
+          "name": "Chapter Seven: Feast of Feasts",
+          "thumbnail": "",
+          "url": "media/Shows/Chilling Adventure of Sabrina/S01/E (7).mp4",
+          "subtitle": "",
+          "duration": "00:55:20",
+          "quality": "720p",
+          "release": "2018"
+        }, {
+          "name": "Chapter Eight: The Burial",
+          "thumbnail": "",
+          "url": "media/Shows/Chilling Adventure of Sabrina/S01/E (8).mp4",
+          "subtitle": "",
+          "duration": "00:56:30",
+          "quality": "720p",
+          "release": "2018"
+        }, {
+          "name": "Chapter Nine: The Returned Man",
+          "thumbnail": "",
+          "url": "media/Shows/Chilling Adventure of Sabrina/S01/E (9).mp4",
+          "subtitle": "",
+          "duration": "01:01:02",
+          "quality": "720p",
+          "release": "2018"
+        }, {
+          "name": "Chapter Ten: The Witching Hour",
+          "thumbnail": "",
+          "url": "media/Shows/Chilling Adventure of Sabrina/S01/E (10).mp4",
+          "subtitle": "",
+          "duration": "01:03:42",
+          "quality": "720p",
+          "release": "2018"
+        }, {
+          "name": "Chapter Eleven: A Midwinter's Tale",
+          "thumbnail": "",
+          "url": "media/Shows/Chilling Adventure of Sabrina/S01/E (11).mp4",
+          "subtitle": "",
+          "duration": "00:55:21",
+          "quality": "720p",
+          "release": "2018"
+        }]
+      }, {
+        "name": "Part 2",
+        "episodes": [{
+          "name": "Chapter Twelve: The Epiphany",
+          "thumbnail": "",
+          "url": "media/Shows/Chilling Adventure of Sabrina/S02/E (1).mp4",
+          "subtitle": "media/Shows/Chilling Adventure of Sabrina/S02/E (1).srt",
+          "duration": "00:55:11",
+          "quality": "720p",
+          "release": "2019"
+        }, {
+          "name": "Chapter Thirteen: The Passion of Sabrina Spellman",
+          "thumbnail": "",
+          "url": "media/Shows/Chilling Adventure of Sabrina/S02/E (2).mp4",
+          "subtitle": "media/Shows/Chilling Adventure of Sabrina/S02/E (2).srt",
+          "duration": "00:56:23",
+          "quality": "720p",
+          "release": "2019"
+        }, {
+          "name": "Chapter Fourteen: Lupercalia",
+          "thumbnail": "",
+          "url": "media/Shows/Chilling Adventure of Sabrina/S02/E (3).mp4",
+          "subtitle": "media/Shows/Chilling Adventure of Sabrina/S02/E (3).srt",
+          "duration": "01:01:32",
+          "quality": "720p",
+          "release": "2019"
+        }, {
+          "name": "Chapter Fifteen: Doctor Cerberus's House of Horror",
+          "thumbnail": "",
+          "url": "media/Shows/Chilling Adventure of Sabrina/S02/E (4).mp4",
+          "subtitle": "media/Shows/Chilling Adventure of Sabrina/S02/E (4).srt",
+          "duration": "01:03:36",
+          "quality": "720p",
+          "release": "2019"
+        }, {
+          "name": "Chapter Sixteen: Blackwood",
+          "thumbnail": "",
+          "url": "media/Shows/Chilling Adventure of Sabrina/S02/E (5).mp4",
+          "subtitle": "media/Shows/Chilling Adventure of Sabrina/S02/E (5).srt",
+          "duration": "00:57:45",
+          "quality": "720p",
+          "release": "2019"
+        }, {
+          "name": "Chapter Seventeen: The Missionaries",
+          "thumbnail": "",
+          "url": "media/Shows/Chilling Adventure of Sabrina/S02/E (6).mp4",
+          "subtitle": "media/Shows/Chilling Adventure of Sabrina/S02/E (6).srt",
+          "duration": "00:54:03",
+          "quality": "720p",
+          "release": "2019"
+        }, {
+          "name": "Chapter Eighteen: The Miracles of Sabrina Spellman",
+          "thumbnail": "",
+          "url": "media/Shows/Chilling Adventure of Sabrina/S02/E (7).mp4",
+          "subtitle": "media/Shows/Chilling Adventure of Sabrina/S02/E (7).srt",
+          "duration": "00:57:53",
+          "quality": "720p",
+          "release": "2019"
+        }, {
+          "name": "Chapter Nineteen: The Mandrake",
+          "thumbnail": "",
+          "url": "media/Shows/Chilling Adventure of Sabrina/S02/E (8).mp4",
+          "subtitle": "media/Shows/Chilling Adventure of Sabrina/S02/E (8).srt",
+          "duration": "00:53:55",
+          "quality": "720p",
+          "release": "2019"
+        }, {
+          "name": "Chapter Twenty: The Mephisto Waltz",
+          "thumbnail": "",
+          "url": "media/Shows/Chilling Adventure of Sabrina/S02/E (9).mp4",
+          "subtitle": "media/Shows/Chilling Adventure of Sabrina/S02/E (9).srt",
+          "duration": "01:02:00",
+          "quality": "720p",
+          "release": "2019"
+        }]
+      }, {
+        "name": "Part 3",
+        "episodes": [{
+          "name": "Chapter Twenty One: The Hellbound Heart",
+          "thumbnail": "",
+          "url": "media/Shows/Chilling Adventure of Sabrina/S03/E (1).mkv",
+          "subtitle": "",
+          "duration": "01:00:54",
+          "quality": "1080p",
+          "release": "2020"
+        }, {
+          "name": "Chapter Twenty Two: Drag Me to Hell",
+          "thumbnail": "",
+          "url": "media/Shows/Chilling Adventure of Sabrina/S03/E (2).mkv",
+          "subtitle": "",
+          "duration": "00:56:58",
+          "quality": "1080p",
+          "release": "2020"
+        }, {
+          "name": "Chapter Twenty Three: Heavy Is the Crown",
+          "thumbnail": "",
+          "url": "media/Shows/Chilling Adventure of Sabrina/S03/E (3).mkv",
+          "subtitle": "",
+          "duration": "00:58:24",
+          "quality": "1080p",
+          "release": "2020"
+        }, {
+          "name": "Chapter Twenty Four: The Hare Moon",
+          "thumbnail": "",
+          "url": "media/Shows/Chilling Adventure of Sabrina/S03/E (4).mkv",
+          "subtitle": "",
+          "duration": "00:59:00",
+          "quality": "1080p",
+          "release": "2020"
+        }, {
+          "name": "Chapter Twenty Five: The Devil Within",
+          "thumbnail": "",
+          "url": "media/Shows/Chilling Adventure of Sabrina/S03/E (5).mkv",
+          "subtitle": "",
+          "duration": "00:57:44",
+          "quality": "1080p",
+          "release": "2020"
+        }, {
+          "name": "Chapter Twenty Six: All of Them Witches",
+          "thumbnail": "",
+          "url": "media/Shows/Chilling Adventure of Sabrina/S03/E (6).mkv",
+          "subtitle": "",
+          "duration": "00:58:46",
+          "quality": "1080p",
+          "release": "2020"
+        }, {
+          "name": "Chapter Twenty Seven: The Judas Kiss",
+          "thumbnail": "",
+          "url": "media/Shows/Chilling Adventure of Sabrina/S03/E (7).mkv",
+          "subtitle": "",
+          "duration": "00:55:33",
+          "quality": "1080p",
+          "release": "2020"
+        }, {
+          "name": "Chapter Twenty Eight: Sabrina Is Legend",
+          "thumbnail": "",
+          "url": "media/Shows/Chilling Adventure of Sabrina/S03/E (8).mkv",
+          "subtitle": "",
+          "duration": "01:00:54",
+          "quality": "1080p",
+          "release": "2020"
+        }]
+      }]
+    }, {
       "name": "Joker",
       "poster": "https://www.joblo.com/assets/images/joblo/posters/2019/08/joker-poster-main2.jpg",
       "banner": "https://penchalk.com/wp-content/uploads/2019/11/share.jpg",
@@ -18,8 +257,7 @@
         "quality": "1080p",
         "release": "2019"
       }]
-    },
-    {
+    }, {
       "name": "Harry Potter",
       "poster": "https://mypostercollection.com/wp-content/uploads/2018/09/Harry-Potter-Poster-2001-MyPosterCollection.com-1-683x1024.jpg",
       "banner": "https://shopwhopper.com/wp-content/uploads/2017/11/New-style-Harry-Potter-Poster-Custom-Canvas-Poster-Art-Home-Decoration-Cloth-Fabric-Wall-Poster-Print-37.jpg_640x640-37.jpg",
@@ -81,8 +319,7 @@
         "quality": "1080p",
         "release": "2011"
       }]
-    },
-    {
+    }, {
       "name": "Stranger Things",
       "poster": "https://images-na.ssl-images-amazon.com/images/I/81QDU13hAAL._AC_SL1200_.jpg",
       "banner": "https://i2.wp.com/www.slaphappylarry.com/wp-content/uploads/2016/07/stranger-things-banner.jpg?fit=1383%2C736&ssl=1",
@@ -405,7 +642,7 @@
         "name": "Uri: The Surgical Strike",
         "thumbnail": "",
         "url": "media/Movies/Uri/uri.mp4",
-        "duration": "02:18:15",
+        "duration": "2:18:15",
         "quality": "1080p",
         "release": "2019"
       }]
@@ -418,7 +655,7 @@
         "name": "Interstellar",
         "thumbnail": "",
         "url": "media/Movies/Interstellar/interstellar.mp4",
-        "duration": "02:49:04",
+        "duration": "2:49:04",
         "quality": "1080p",
         "release": "2014"
       }]
@@ -3644,7 +3881,7 @@
         "name": "Kabir Singh",
         "thumbnail": "",
         "url": "media/Movies/Kabir Singh/kabirsingh.mp4",
-        "duration": "02:51:24",
+        "duration": "2:51:24",
         "quality": "1080p",
         "release": "2019"
       }]
