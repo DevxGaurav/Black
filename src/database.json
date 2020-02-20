@@ -3739,13 +3739,21 @@
       "banner": "https://static3.srcdn.com/wordpress/wp-content/uploads/Jurassic-World-Banner-teeth.jpg?q=50&fit=crop&w=960&h=500",
       "type": "Movie",
       "episodes": [{
+        "name": "Jurassic World",
+        "thumbnail": "",
+        "url": "media/Movies/Jurassic World/E (2).mp4",
+        "subtitle": "media/Movies/Jurassic World/E (2).srt",
+        "duration": "2:04:21",
+        "quality": "1080p",
+        "release": "2015"
+      }, {
         "name": "Jurassic World: Fallen Kingdom",
         "thumbnail": "",
         "url": "media/Movies/Jurassic World/E (1).mp4",
         "subtitle": "",
         "duration": "2:08:17",
         "quality": "1080p",
-        "release": "2015"
+        "release": "2018"
       }]
     }]
 }
