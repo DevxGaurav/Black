@@ -3977,7 +3977,7 @@
       "type": "Movie",
       "episodes": [{
         "name": "Jurassic World",
-        "thumbnail": "",
+        "thumbnail": "https://images-na.ssl-images-amazon.com/images/I/61VqNtme2WL._AC_SY741_.jpg",
         "url": "media/Movies/Jurassic World/E (2).mkv",
         "subtitle": "media/Movies/Jurassic World/E (2).srt",
         "duration": "2:04:21",
@@ -3985,7 +3985,7 @@
         "release": "2015"
       }, {
         "name": "Jurassic World: Fallen Kingdom",
-        "thumbnail": "",
+        "thumbnail": "https://cdn11.bigcommerce.com/s-yzgoj/images/stencil/1280x1280/products/1968597/3966040/TIARP16240__42756.1541771097.jpg?c=2&imbypass=on",
         "url": "media/Movies/Jurassic World/E (1).mp4",
         "subtitle": "",
         "duration": "2:08:17",
