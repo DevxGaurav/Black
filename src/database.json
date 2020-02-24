@@ -3992,5 +3992,27 @@
         "quality": "1080p",
         "release": "2018"
       }]
+    }, {
+      "name": "Conjuring",
+      "poster": "https://images-na.ssl-images-amazon.com/images/I/81NwnEjW27L._AC_SL1500_.jpg",
+      "banner": "https://www.wickedhorror.com/wp-content/uploads/2016/06/conjuring-2-banner-poster.jpg",
+      "type": "Movie",
+      "episodes": [{
+        "name": "Conjuring",
+        "thumbnail": "https://images-na.ssl-images-amazon.com/images/I/51ADCjwch2L._AC_.jpg",
+        "url": "media/Movies/The Conjuring/E (1).mp4",
+        "subtitle": "",
+        "duration": "1:51:58",
+        "quality": "1080p",
+        "release": "2013"
+      }, {
+        "name": "Conjuring 2",
+        "thumbnail": "https://images-na.ssl-images-amazon.com/images/I/61zAYwsOHxL._AC_SY741_.jpg",
+        "url": "media/Movies/The Conjuring/E (2).mkv",
+        "subtitle": "media/Movies/The Conjuring/E (2).srt",
+        "duration": "2:13:52",
+        "quality": "1080p",
+        "release": "2016"
+      }]
     }]
 }
