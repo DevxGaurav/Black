@@ -5,6 +5,20 @@
   "version": "20F202106",
   "files": [
     {
+      "name": "Shubh Mangal Saavdhan",
+      "poster": "https://upload.wikimedia.org/wikipedia/en/b/be/Shubh_Mangal_Savdhan_Poster.jpg",
+      "banner": "https://livingtotellatale.files.wordpress.com/2017/09/shubh-mangal-savdhanbanner940.jpg?w=720",
+      "type": "Movie",
+      "episodes": [{
+        "name": "Shubh Mangal Saavdhan",
+        "thumbnail": "",
+        "url": "media/Movies/Shubh Mangal Saavdhan/E.mp4",
+        "subtitle": "",
+        "duration": "1:44:09",
+        "quality": "1080p",
+        "release": "2017"
+      }]
+    }, {
       "name": "Chilling Adventures of Sabrina",
       "poster": "https://m.media-amazon.com/images/M/MV5BNDJjYzk0ZTktNzQ1ZC00MmQ0LTk1NTYtNmMwMGE4NDM5ZjAyXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_.jpg",
       "banner": "https://breakingblue.org/wp-content/uploads/2018/12/Chilling-Adventures-of-Sabrina-netflix-serie-witch-header-700x361-1.jpg",
