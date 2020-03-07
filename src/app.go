@@ -12,9 +12,9 @@ func main() {
 	http.Handle("/media/", http.StripPrefix("/media/", http.FileServer(http.Dir("../../Media"))))
 	http.HandleFunc("/", home)
 	http.HandleFunc("/app", app)
-	err:= http.ListenAndServe(":8000", nil)
+	err:= http.ListenAndServe(":80", nil)
 	if err != nil {
-		panic("Couldn't start server on port: 8000")
+		panic("Couldn't start server on port: 80")
 	}
 }
 
