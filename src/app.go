@@ -70,7 +70,7 @@ func verifyPrime(w http.ResponseWriter, r *http.Request) {
 		if r.Form.Get("password") == "abcdef" {
 			Respond(w, 200, "successful", nil)
 		}else {
-			Respond(w, 300, "successful", nil)
+			Respond(w, 300, "Incorrect Password", nil)
 		}
 	}else {
 		Respond(w, 400, "Invalid Request", nil)
