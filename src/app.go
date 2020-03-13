@@ -9,9 +9,11 @@ import (
 )
 
 func main() {
-	http.Handle("/media/", http.StripPrefix("/media/", http.FileServer(http.Dir("../../Media"))))
+	http.Handle("/media/", http.StripPrefix("/media/", http.FileServer(http.Dir("E:/Media"))))
+	http.Handle("/media2/", http.StripPrefix("/media2/", http.FileServer(http.Dir("D:/Media"))))
 	http.HandleFunc("/", home)
 	http.HandleFunc("/app", app)
+	http.HandleFunc("/prime", verifyPrime)
 	err:= http.ListenAndServe(":8000", nil)
 	if err != nil {
 		panic("Couldn't start server on port: 8000")
@@ -60,4 +62,17 @@ func Respond(w http.ResponseWriter, code int64, info string, data interface{}) {
 		log.Fatal("Error 102: Failed to generate response for target request")
 	}
 	_,_= w.Write(resp)
+}
+
+func verifyPrime(w http.ResponseWriter, r *http.Request) {
+	_= r.ParseForm()
+	if r.Method=="POST" {
+		if r.Form.Get("password") == "abcdef" {
+			Respond(w, 200, "successful", nil)
+		}else {
+			Respond(w, 300, "successful", nil)
+		}
+	}else {
+		Respond(w, 400, "Invalid Request", nil)
+	}
 }
