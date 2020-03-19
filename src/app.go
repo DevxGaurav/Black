@@ -13,7 +13,6 @@ func main() {
 	http.Handle("/media2/", http.StripPrefix("/media2/", http.FileServer(http.Dir("D:/Media"))))
 	http.HandleFunc("/", home)
 	http.HandleFunc("/app", app)
-	http.HandleFunc("/pictures", pictures)
 	err:= http.ListenAndServe(":8000", nil)
 	if err != nil {
 		panic("Couldn't start server on port: 8000")
@@ -26,32 +25,6 @@ func home(w http.ResponseWriter, r *http.Request) {
 
 func app(w http.ResponseWriter, r *http.Request) {
 	file, err:= os.Open("database.json")
-	if err != nil {
-		Respond(w, 104, "Unable to read database", nil)
-		return
-	}
-	defer file.Close()
-	data, err:= ioutil.ReadAll(file)
-	if err != nil {
-		Respond(w, 104, "Unable to read database", nil)
-		return
-	}
-
-	type Database struct {
-		Filename string
-		Data_created string
-		Date_modified string
-		Version string
-		Files []interface{}
-	}
-
-	db:= Database{}
-	_= json.Unmarshal(data, &db)
-	Respond(w, 200, "Fetch Successful", db)
-}
-
-func pictures(w http.ResponseWriter, r *http.Request) {
-	file, err:= os.Open("pictures.json")
 	if err != nil {
 		Respond(w, 104, "Unable to read database", nil)
 		return
