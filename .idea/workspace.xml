@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6ef739c1-bd38-4c64-ba97-861182e0eea0" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/pictures.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/app.go" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -24,6 +26,9 @@
     <option name="indexEntireGoPath" value="false" />
   </component>
   <component name="ProjectId" id="1XqaagBhIgHLRmXQ97KUjvESStm" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -38,6 +43,7 @@
     <property name="configurable.Module.GOPATH.is.expanded" value="false" />
     <property name="configurable.Project.GOPATH.is.expanded" value="true" />
     <property name="go.import.settings.migrated" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="com.goide.configuration.GoLibrariesConfigurableProvider" />
   </component>
   <component name="RunManager">
@@ -73,6 +79,9 @@
       <workItem from="1581943002508" duration="166000" />
       <workItem from="1584101904640" duration="36000" />
       <workItem from="1584101959833" duration="1487000" />
+      <workItem from="1584618924555" duration="37000" />
+      <workItem from="1584618981592" duration="259000" />
+      <workItem from="1584619264085" duration="41000" />
     </task>
     <servers />
   </component>

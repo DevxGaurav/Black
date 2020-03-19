@@ -13,7 +13,7 @@ func main() {
 	http.Handle("/media2/", http.StripPrefix("/media2/", http.FileServer(http.Dir("D:/Media"))))
 	http.HandleFunc("/", home)
 	http.HandleFunc("/app", app)
-	http.HandleFunc("/prime", verifyPrime)
+	http.HandleFunc("/pictures", pictures)
 	err:= http.ListenAndServe(":8000", nil)
 	if err != nil {
 		panic("Couldn't start server on port: 8000")
@@ -50,6 +50,32 @@ func app(w http.ResponseWriter, r *http.Request) {
 	Respond(w, 200, "Fetch Successful", db)
 }
 
+func pictures(w http.ResponseWriter, r *http.Request) {
+	file, err:= os.Open("pictures.json")
+	if err != nil {
+		Respond(w, 104, "Unable to read database", nil)
+		return
+	}
+	defer file.Close()
+	data, err:= ioutil.ReadAll(file)
+	if err != nil {
+		Respond(w, 104, "Unable to read database", nil)
+		return
+	}
+
+	type Database struct {
+		Filename string
+		Data_created string
+		Date_modified string
+		Version string
+		Files []interface{}
+	}
+
+	db:= Database{}
+	_= json.Unmarshal(data, &db)
+	Respond(w, 200, "Fetch Successful", db)
+}
+
 func Respond(w http.ResponseWriter, code int64, info string, data interface{}) {
 	type Response struct {
 		Code int64
@@ -62,17 +88,4 @@ func Respond(w http.ResponseWriter, code int64, info string, data interface{}) {
 		log.Fatal("Error 102: Failed to generate response for target request")
 	}
 	_,_= w.Write(resp)
-}
-
-func verifyPrime(w http.ResponseWriter, r *http.Request) {
-	_= r.ParseForm()
-	if r.Method=="POST" {
-		if r.Form.Get("password") == "abcdef" {
-			Respond(w, 200, "successful", nil)
-		}else {
-			Respond(w, 300, "Incorrect Password", nil)
-		}
-	}else {
-		Respond(w, 400, "Invalid Request", nil)
-	}
 }
