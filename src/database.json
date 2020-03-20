@@ -1,15 +1,14 @@
 {
   "filename": "database.json",
   "date_created": "15-02-2020 20:12:00",
-  "last_modified": "15-02-2020 20:13:00",
-  "version": "20F202106",
+  "last_modified": "20-03-2020 13:40:00",
+  "version": "20MR201340",
   "files": [
     {
       "name": "Chilling Adventures of Sabrina",
       "poster": "https://m.media-amazon.com/images/M/MV5BNDJjYzk0ZTktNzQ1ZC00MmQ0LTk1NTYtNmMwMGE4NDM5ZjAyXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_.jpg",
       "banner": "https://breakingblue.org/wp-content/uploads/2018/12/Chilling-Adventures-of-Sabrina-netflix-serie-witch-header-700x361-1.jpg",
       "type": "Show",
-      "private": false,
       "seasons": [{
         "name": "Part 1",
         "episodes": [{
@@ -249,7 +248,6 @@
       "poster": "https://www.joblo.com/assets/images/joblo/posters/2019/08/joker-poster-main2.jpg",
       "banner": "https://penchalk.com/wp-content/uploads/2019/11/share.jpg",
       "type": "Movie",
-      "private": false,
       "episodes": [{
         "name": "Joker",
         "thumbnail": "",
@@ -264,7 +262,6 @@
       "poster": "https://mypostercollection.com/wp-content/uploads/2018/09/Harry-Potter-Poster-2001-MyPosterCollection.com-1-683x1024.jpg",
       "banner": "https://shopwhopper.com/wp-content/uploads/2017/11/New-style-Harry-Potter-Poster-Custom-Canvas-Poster-Art-Home-Decoration-Cloth-Fabric-Wall-Poster-Print-37.jpg_640x640-37.jpg",
       "type": "Movie",
-      "private": false,
       "episodes": [{
         "name": "Harry Potter and the Philosopher's Stone",
         "thumbnail": "https://images-na.ssl-images-amazon.com/images/I/815v2OuIHXL._AC_SL1500_.jpg",
@@ -327,7 +324,6 @@
       "poster": "https://images-na.ssl-images-amazon.com/images/I/81QDU13hAAL._AC_SL1200_.jpg",
       "banner": "https://i2.wp.com/www.slaphappylarry.com/wp-content/uploads/2016/07/stranger-things-banner.jpg?fit=1383%2C736&ssl=1",
       "type": "Show",
-      "private": false,
       "seasons": [{
         "name": "Season 1",
         "episodes": [{
@@ -518,7 +514,6 @@
       "poster": "https://m.media-amazon.com/images/M/MV5BMTY5OTkwNDkzOF5BMl5BanBnXkFtZTgwMDEyNzI1NzM@._V1_.jpg",
       "banner": "https://4.bp.blogspot.com/-lsa-znyVmjE/WVZnYLeX09I/AAAAAAAAKkU/oKRWXTe4Nis8iaE6JO5ot1lZa9eeeUZEQCEwYBhgL/s1600/Alt%2BPoster%2Bfor%2BThe%2BOA%2Bon%2BNetflix.png",
       "type": "Show",
-      "private": false,
       "seasons": [{
         "name": "Season 1",
         "episodes": [{
@@ -643,7 +638,6 @@
       "poster": "https://m.media-amazon.com/images/M/MV5BMWU4ZjNlNTQtOGE2MS00NDI0LWFlYjMtMmY3ZWVkMjJkNGRmXkEyXkFqcGdeQXVyNjE1OTQ0NjA@._V1_.jpg",
       "banner": "https://filmspell.com/wp-content/uploads/2019/01/URI-THE-SURGICAL-STRIKE-HD-Poster-1.jpg",
       "type": "Movie",
-      "private": false,
       "episodes": [{
         "name": "Uri: The Surgical Strike",
         "thumbnail": "",
@@ -657,7 +651,6 @@
       "poster": "https://images-na.ssl-images-amazon.com/images/I/91kFYg4fX3L.jpg",
       "banner": "https://wegeekgirls.files.wordpress.com/2014/11/interstellar_imax-banner.jpg",
       "type": "Movie",
-      "private": false,
       "episodes": [{
         "name": "Interstellar",
         "thumbnail": "",
@@ -671,7 +664,6 @@
       "poster": "https://ae01.alicdn.com/kf/HTB1oQ0hTkvoK1RjSZFNq6AxMVXa5/The-End-of-the-Fucking-World-Retro-poster-kraft-paper-poster-home-decor-painting-vintage-decorative.jpg_640x640.jpg",
       "banner": "https://4.bp.blogspot.com/-x9FSfqrl_mA/WluiIsPcs1I/AAAAAAAANOc/F47dZTv04BEnD41y1JuA-6MTaV8OFR64wCLcBGAs/s1600/end%2Bof%2Bfucking%2Bworld%2Bquotes%2Bnetflix.jpg",
       "type": "Show",
-      "private": false,
       "seasons": [{
         "name": "Season 1",
         "episodes": [{
@@ -796,7 +788,6 @@
       "poster": "https://m.media-amazon.com/images/M/MV5BMmIyZjA3NGUtYjlhNS00ZDlkLWI0MDgtMDc2YWNjNGMwYWZhXkEyXkFqcGdeQXVyMzY0MTE3NzU@._V1_.jpg",
       "banner": "https://i0.wp.com/screenwars.in/wp-content/uploads/2019/06/dark2-1.jpg?fit=1920%2C1080&ssl=1",
       "type": "Show",
-      "private": false,
       "seasons": [{
         "name": "Season 1",
         "episodes": [{
@@ -935,7 +926,6 @@
       "poster": "https://img.reelgood.com/content/show/f8a9acd3-0f6e-4816-9310-c4c27c46172c/poster-780.jpg",
       "banner": "https://i.pinimg.com/originals/b5/c7/d7/b5c7d740dc4caeac7eb9f00edbc5ac93.jpg",
       "type": "Show",
-      "private": false,
       "seasons": [{
         "name": "Season 1",
         "episodes": [{
@@ -2213,7 +2203,6 @@
       "poster": "https://m.media-amazon.com/images/M/MV5BNDVkYjU0MzctMWRmZi00NTkxLTgwZWEtOWVhYjZlYjllYmU4XkEyXkFqcGdeQXVyNTA4NzY1MzY@._V1_UY1200_CR93,0,630,1200_AL_.jpg",
       "banner": "https://cdn.europosters.eu/image/1300/posters/friends-milkshake-i12132.jpg",
       "type": "Show",
-      "private": false,
       "seasons": [{
         "name": "Season 1",
         "episodes": [{
@@ -3888,7 +3877,6 @@
       "poster": "https://everipedia-storage.s3.amazonaws.com/ProfilePics/kabir-singh__10120.jpeg?nocache=9554a1",
       "banner": "https://media.spenowr.com/images/movie/banner/2019-07-18/original/1-21071deed0578d66461f5f7dadee8df4.jpg",
       "type": "Movie",
-      "private": false,
       "episodes": [{
         "name": "Kabir Singh",
         "thumbnail": "",
@@ -3902,7 +3890,6 @@
       "poster": "https://www.itl.cat/pngfile/big/138-1383891_download-movie-poster-finding-nemo.jpg",
       "banner": "https://lumiere-a.akamaihd.net/v1/images/open-uri20160812-3094-q12ugh_dfd54a6e.jpeg?region=0%2C0%2C640%2C320",
       "type": "Movie",
-      "private": false,
       "episodes": [{
         "name": "Finding Nemo",
         "thumbnail": "",
@@ -3916,7 +3903,6 @@
       "poster": "https://m.media-amazon.com/images/M/MV5BNzg4MjM2NDQ4MV5BMl5BanBnXkFtZTgwMzk3MTgyODE@._V1_.jpg",
       "banner": "https://i.ytimg.com/vi/3JNLwlcPBPI/maxresdefault.jpg",
       "type": "Movie",
-      "private": false,
       "episodes": [{
         "name": "Finding Dory",
         "thumbnail": "",
@@ -3931,7 +3917,6 @@
       "poster": "https://m.media-amazon.com/images/M/MV5BMDdmZGU3NDQtY2E5My00ZTliLWIzOTUtMTY4ZGI1YjdiNjk3XkEyXkFqcGdeQXVyNTA4NzY1MzY@._V1_.jpg",
       "banner": "https://cloud10.todocoleccion.online/cine-posters-carteles/tc/2019/02/01/18/149497830.jpg",
       "type": "Movie",
-      "private": false,
       "episodes": [{
         "name": "Titanic",
         "thumbnail": "",
@@ -3946,7 +3931,6 @@
       "poster": "https://images-na.ssl-images-amazon.com/images/I/6130wSbRg7L._AC_SY679_.jpg",
       "banner": "https://d13ezvd6yrslxm.cloudfront.net/wp/wp-content/images/Ferguson-JP-Variant.jpg",
       "type": "Movie",
-      "private": false,
       "episodes": [{
         "name": "Jurassic Park I",
         "thumbnail": "https://i.pinimg.com/736x/d9/09/64/d909645fb089d09443957b771245ab97.jpg",
@@ -3973,26 +3957,10 @@
         "release": "2001"
       }]
     }, {
-      "name": "2001 A Space Odyssey",
-      "poster": "https://images-na.ssl-images-amazon.com/images/I/41yU9cqLS8L._AC_.jpg",
-      "banner": "https://images1.houstonpress.com/imager/u/745xauto/10810730/hou_art_20180831_2001_header.jpg",
-      "type": "Movie",
-      "private": false,
-      "episodes": [{
-        "name": "2001 A Space Odyssey",
-        "thumbnail": "",
-        "url": "media/Movies/2001 A Space Odyssey/E (1).mp4",
-        "subtitle": "media/Movies/2001 A Space Odyssey/E (1).srt",
-        "duration": "2:28:51",
-        "quality": "1080p",
-        "release": "1968"
-      }]
-    }, {
       "name": "Jurassic World",
       "poster": "https://cdn11.bigcommerce.com/s-yzgoj/images/stencil/1280x1280/products/1968597/3966040/TIARP16240__42756.1541771097.jpg?c=2&imbypass=on",
       "banner": "https://static3.srcdn.com/wordpress/wp-content/uploads/Jurassic-World-Banner-teeth.jpg?q=50&fit=crop&w=960&h=500",
       "type": "Movie",
-      "private": false,
       "episodes": [{
         "name": "Jurassic World",
         "thumbnail": "https://images-na.ssl-images-amazon.com/images/I/61VqNtme2WL._AC_SY741_.jpg",
@@ -4015,7 +3983,6 @@
       "poster": "https://images-na.ssl-images-amazon.com/images/I/81NwnEjW27L._AC_SL1500_.jpg",
       "banner": "https://www.wickedhorror.com/wp-content/uploads/2016/06/conjuring-2-banner-poster.jpg",
       "type": "Movie",
-      "private": false,
       "episodes": [{
         "name": "The Conjuring",
         "thumbnail": "https://images-na.ssl-images-amazon.com/images/I/51ADCjwch2L._AC_.jpg",
