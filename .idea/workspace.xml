@@ -2,10 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6ef739c1-bd38-4c64-ba97-861182e0eea0" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/database-prime.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/app.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/app.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/database.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/database.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -87,6 +85,8 @@
       <workItem from="1584635142571" duration="102000" />
       <workItem from="1584691518858" duration="109000" />
       <workItem from="1584691654658" duration="1103000" />
+      <workItem from="1584797634968" duration="28000" />
+      <workItem from="1584797683226" duration="84000" />
     </task>
     <servers />
   </component>

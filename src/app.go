@@ -76,6 +76,27 @@ func prime(w http.ResponseWriter, r *http.Request) {
 	Respond(w, 200, "Fetch Successful", db)
 }
 
+func updateDatabase(w http.ResponseWriter, r *http.Request) {
+	_=r.ParseForm()
+	if r.Form.Get("database")=="" || r.Method=="GET" {
+		Respond(w, 402, "Invalid Request", nil)
+	}else {
+		type Database struct {
+			Filename string
+			Data_created string
+			Date_modified string
+			Version string
+			Files []interface{}
+		}
+
+		db:= Database{}
+		_= json.Unmarshal([]byte(r.Form.Get("database")), &db)
+		database,_:=json.MarshalIndent(db, "", "   ")
+		_=ioutil.WriteFile("database-prime.json", database, 0644)
+		Respond(w, 200, "Database Updated", nil)
+	}
+}
+
 func Respond(w http.ResponseWriter, code int64, info string, data interface{}) {
 	type Response struct {
 		Code int64
