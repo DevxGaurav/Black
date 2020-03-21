@@ -14,6 +14,7 @@ func main() {
 	http.HandleFunc("/", home)
 	http.HandleFunc("/app", app)
 	http.HandleFunc("/prime", prime)
+	http.HandleFunc("/updatePrime", updatePrime)
 	err:= http.ListenAndServe(":8000", nil)
 	if err != nil {
 		panic("Couldn't start server on port: 8000")
@@ -76,7 +77,7 @@ func prime(w http.ResponseWriter, r *http.Request) {
 	Respond(w, 200, "Fetch Successful", db)
 }
 
-func updateDatabase(w http.ResponseWriter, r *http.Request) {
+func updatePrime(w http.ResponseWriter, r *http.Request) {
 	_=r.ParseForm()
 	if r.Form.Get("database")=="" || r.Method=="GET" {
 		Respond(w, 402, "Invalid Request", nil)
