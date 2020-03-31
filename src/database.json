@@ -5,6 +5,269 @@
   "version": "20MR201340",
   "files": [
     {
+      "name": "Rick and Morty",
+      "poster": "https://upload.wikimedia.org/wikipedia/en/thumb/b/b8/Rick_and_Morty_season_1.png/250px-Rick_and_Morty_season_1.png",
+      "banner": "https://cdn.mos.cms.futurecdn.net/gZgTi6mqCXDLBPoziDexwR-1200-80.jpeg",
+      "type": "Show",
+      "seasons": [{
+        "name": "Season 1",
+        "episodes": [{
+          "name": "Episode One: Pilot",
+          "thumbnail": "",
+          "url": "media2/Shows/Rick and Morty/S01/E (1).mkv",
+          "subtitle": "",
+          "duration": "00:22:01",
+          "quality": "720p",
+          "release": "2013"
+        }, {
+          "name": "Episode Two: Lawnmower Dog",
+          "thumbnail": "",
+          "url": "media2/Shows/Rick and Morty/S01/E (2).mkv",
+          "subtitle": "",
+          "duration": "00:21:58",
+          "quality": "720p",
+          "release": "2013"
+        }, {
+          "name": "Episode Three: Anatomy Park",
+          "thumbnail": "",
+          "url": "media2/Shows/Rick and Morty/S01/E (3).mkv",
+          "subtitle": "",
+          "duration": "00:21:55",
+          "quality": "720p",
+          "release": "2013"
+        }, {
+          "name": "Episode Four: M. Night Shaym-Aliens!",
+          "thumbnail": "",
+          "url": "media2/Shows/Rick and Morty/S01/E (4).mkv",
+          "subtitle": "",
+          "duration": "00:21:05",
+          "quality": "720p",
+          "release": "2013"
+        }, {
+          "name": "Episode Fifth: Meeseeks and Destroy",
+          "thumbnail": "",
+          "url": "media2/Shows/Rick and Morty/S01/E (5).mkv",
+          "subtitle": "",
+          "duration": "00:21:09",
+          "quality": "720p",
+          "release": "2014"
+        }, {
+          "name": "Episode Six: Rick Potion #9",
+          "thumbnail": "",
+          "url": "media2/Shows/Rick and Morty/S01/E (6).mkv",
+          "subtitle": "",
+          "duration": "00:21:28",
+          "quality": "720p",
+          "release": "2014"
+        }, {
+          "name": "Episode Seven: Raising Gazorpazorp",
+          "thumbnail": "",
+          "url": "media2/Shows/Rick and Morty/S01/E (7).mkv",
+          "subtitle": "",
+          "duration": "00:22:01",
+          "quality": "720p",
+          "release": "2014"
+        }, {
+          "name": "Episode Eight: Rixty Minutes",
+          "thumbnail": "",
+          "url": "media2/Shows/Rick and Morty/S01/E (8).mkv",
+          "subtitle": "",
+          "duration": "00:22:15",
+          "quality": "720p",
+          "release": "2014"
+        }, {
+          "name": "Episode Nine: Something Ricked This Way Comes",
+          "thumbnail": "",
+          "url": "media2/Shows/Rick and Morty/S01/E (9).mkv",
+          "subtitle": "",
+          "duration": "00:22:20",
+          "quality": "720p",
+          "release": "2014"
+        }, {
+          "name": "Episode Ten: Close Rick-counters of the Rick Kind",
+          "thumbnail": "",
+          "url": "media2/Shows/Rick and Morty/S01/E (10).mkv",
+          "subtitle": "",
+          "duration": "00:22:27",
+          "quality": "720p",
+          "release": "2014"
+        }, {
+          "name": "Episode Eleven: Ricksy Business",
+          "thumbnail": "",
+          "url": "media2/Shows/Rick and Morty/S01/E (11).mkv",
+          "subtitle": "",
+          "duration": "00:22:21",
+          "quality": "720p",
+          "release": "2014"
+        }]
+      }, {
+        "name": "Season 2",
+        "episodes": [{
+          "name": "Episode One: A Rickle in Time",
+          "thumbnail": "",
+          "url": "media2/Shows/Rick and Morty/S02/E (1).mkv",
+          "subtitle": "",
+          "duration": "00:22:51",
+          "quality": "720p",
+          "release": "2015"
+        }, {
+          "name": "Episode Two: Mortynight Run",
+          "thumbnail": "",
+          "url": "media2/Shows/Rick and Morty/S02/E (2).mkv",
+          "subtitle": "",
+          "duration": "00:21:46",
+          "quality": "720p",
+          "release": "2015"
+        }, {
+          "name": "Episode Three: Auto Erotic Assimilation",
+          "thumbnail": "",
+          "url": "media2/Shows/Rick and Morty/S02/E (3).mkv",
+          "subtitle": "",
+          "duration": "00:22:58",
+          "quality": "720p",
+          "release": "2015"
+        }, {
+          "name": "Episode Four: Total Rickall",
+          "thumbnail": "",
+          "url": "media2/Shows/Rick and Morty/S02/E (4).mkv",
+          "subtitle": "",
+          "duration": "00:21:56",
+          "quality": "720p",
+          "release": "2015"
+        }, {
+          "name": "Episode Fifth: Get Schwifty",
+          "thumbnail": "",
+          "url": "media2/Shows/Rick and Morty/S02/E (5).mkv",
+          "subtitle": "",
+          "duration": "00:23:02",
+          "quality": "720p",
+          "release": "2015"
+        }, {
+          "name": "Episode Six: The Ricks Must Be Crazy",
+          "thumbnail": "",
+          "url": "media2/Shows/Rick and Morty/S02/E (6).mkv",
+          "subtitle": "",
+          "duration": "00:22:03",
+          "quality": "720p",
+          "release": "2015"
+        }, {
+          "name": "Episode Seven: Big Trouble in Little Sanchez",
+          "thumbnail": "",
+          "url": "media2/Shows/Rick and Morty/S02/E (7).mkv",
+          "subtitle": "",
+          "duration": "00:22:56",
+          "quality": "720p",
+          "release": "2015"
+        }, {
+          "name": "Episode Eight: Interdimensional Cable 2: Tempting Fate",
+          "thumbnail": "",
+          "url": "media2/Shows/Rick and Morty/S02/E (8).mkv",
+          "subtitle": "",
+          "duration": "00:22:32",
+          "quality": "720p",
+          "release": "2015"
+        }, {
+          "name": "Episode Nine: Look Who's Purging Now",
+          "thumbnail": "",
+          "url": "media2/Shows/Rick and Morty/S02/E (9).mkv",
+          "subtitle": "",
+          "duration": "00:22:05",
+          "quality": "720p",
+          "release": "2015"
+        }, {
+          "name": "Episode Ten: The Wedding Squanchers",
+          "thumbnail": "",
+          "url": "media2/Shows/Rick and Morty/S02/E (10).mkv",
+          "subtitle": "",
+          "duration": "00:23:02",
+          "quality": "720p",
+          "release": "2015"
+        }]
+      }, {
+        "name": "Season 3",
+        "episodes": [{
+          "name": "Episode One: The Rickshank Rickdemption",
+          "thumbnail": "",
+          "url": "media2/Shows/Rick and Morty/S03/E (1).mkv",
+          "subtitle": "",
+          "duration": "00:22:51",
+          "quality": "720p",
+          "release": "2017"
+        }, {
+          "name": "Episode Two: Rickmancing the Stone",
+          "thumbnail": "",
+          "url": "media2/Shows/Rick and Morty/S03/E (2).mkv",
+          "subtitle": "",
+          "duration": "00:21:46",
+          "quality": "720p",
+          "release": "2017"
+        }, {
+          "name": "Episode Three: Pickle Rick",
+          "thumbnail": "",
+          "url": "media2/Shows/Rick and Morty/S03/E (3).mkv",
+          "subtitle": "",
+          "duration": "00:22:58",
+          "quality": "720p",
+          "release": "2017"
+        }, {
+          "name": "Episode Four: Vindicators 3: The Return of Worldender",
+          "thumbnail": "",
+          "url": "media2/Shows/Rick and Morty/S03/E (4).mkv",
+          "subtitle": "",
+          "duration": "00:21:56",
+          "quality": "720p",
+          "release": "2017"
+        }, {
+          "name": "Episode Fifth: The Whirly Dirly Conspiracy",
+          "thumbnail": "",
+          "url": "media2/Shows/Rick and Morty/S03/E (5).mkv",
+          "subtitle": "",
+          "duration": "00:23:02",
+          "quality": "720p",
+          "release": "2017"
+        }, {
+          "name": "Episode Six: Rest and Ricklaxation",
+          "thumbnail": "",
+          "url": "media2/Shows/Rick and Morty/S03/E (6).mkv",
+          "subtitle": "",
+          "duration": "00:22:03",
+          "quality": "720p",
+          "release": "2017"
+        }, {
+          "name": "Episode Seven: The Ricklantis Mixup",
+          "thumbnail": "",
+          "url": "media2/Shows/Rick and Morty/S03/E (7).mkv",
+          "subtitle": "",
+          "duration": "00:22:56",
+          "quality": "720p",
+          "release": "2017"
+        }, {
+          "name": "Episode Eight: Morty's Mind Blowers",
+          "thumbnail": "",
+          "url": "media2/Shows/Rick and Morty/S03/E (8).mkv",
+          "subtitle": "",
+          "duration": "00:22:32",
+          "quality": "720p",
+          "release": "2017"
+        }, {
+          "name": "Episode Nine: The ABC's of Beth",
+          "thumbnail": "",
+          "url": "media2/Shows/Rick and Morty/S03/E (9).mkv",
+          "subtitle": "",
+          "duration": "00:22:05",
+          "quality": "720p",
+          "release": "2017"
+        }, {
+          "name": "Episode Ten: The Rickchurian Mortydate",
+          "thumbnail": "",
+          "url": "media2/Shows/Rick and Morty/S03/E (10).mkv",
+          "subtitle": "",
+          "duration": "00:23:02",
+          "quality": "720p",
+          "release": "2017"
+        }]
+      }]
+    }, {
       "name": "Chilling Adventures of Sabrina",
       "poster": "https://m.media-amazon.com/images/M/MV5BNDJjYzk0ZTktNzQ1ZC00MmQ0LTk1NTYtNmMwMGE4NDM5ZjAyXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_.jpg",
       "banner": "https://breakingblue.org/wp-content/uploads/2018/12/Chilling-Adventures-of-Sabrina-netflix-serie-witch-header-700x361-1.jpg",
@@ -658,130 +921,6 @@
         "duration": "2:49:04",
         "quality": "1080p",
         "release": "2014"
-      }]
-    }, {
-      "name": "End of The F***ing World",
-      "poster": "https://ae01.alicdn.com/kf/HTB1oQ0hTkvoK1RjSZFNq6AxMVXa5/The-End-of-the-Fucking-World-Retro-poster-kraft-paper-poster-home-decor-painting-vintage-decorative.jpg_640x640.jpg",
-      "banner": "https://4.bp.blogspot.com/-x9FSfqrl_mA/WluiIsPcs1I/AAAAAAAANOc/F47dZTv04BEnD41y1JuA-6MTaV8OFR64wCLcBGAs/s1600/end%2Bof%2Bfucking%2Bworld%2Bquotes%2Bnetflix.jpg",
-      "type": "Show",
-      "seasons": [{
-        "name": "Season 1",
-        "episodes": [{
-          "name": "Chapter 1",
-          "thumbnail": "",
-          "url": "media/Shows/The End Of The Fucking World/S01/e (1).mkv",
-          "duration": "00:18:53",
-          "quality": "1080p",
-          "release": "2017"
-        }, {
-          "name": "Chapter 2",
-          "thumbnail": "",
-          "url": "media/Shows/The End Of The Fucking World/S01/e (2).mkv",
-          "duration": "00:22:02",
-          "quality": "1080p",
-          "release": "2017"
-        }, {
-          "name": "Chapter 3",
-          "thumbnail": "",
-          "url": "media/Shows/The End Of The Fucking World/S01/e (3).mkv",
-          "duration": "00:21:50",
-          "quality": "1080p",
-          "release": "2017"
-        }, {
-          "name": "Chapter 4",
-          "thumbnail": "",
-          "url": "media/Shows/The End Of The Fucking World/S01/e (4).mkv",
-          "duration": "00:21:28",
-          "quality": "1080p",
-          "release": "2017"
-        }, {
-          "name": "Chapter 5",
-          "thumbnail": "",
-          "url": "media/Shows/The End Of The Fucking World/S01/e (5).mkv",
-          "duration": "00:20:54",
-          "quality": "1080p",
-          "release": "2017"
-        }, {
-          "name": "Chapter 6",
-          "thumbnail": "",
-          "url": "media/Shows/The End Of The Fucking World/S01/e (6).mkv",
-          "duration": "00:22:42",
-          "quality": "1080p",
-          "release": "2017"
-        }, {
-          "name": "Chapter 7",
-          "thumbnail": "",
-          "url": "media/Shows/The End Of The Fucking World/S01/e (7).mkv",
-          "duration": "00:21:36",
-          "quality": "1080p",
-          "release": "2017"
-        }, {
-          "name": "Chapter 8",
-          "thumbnail": "",
-          "url": "media/Shows/The End Of The Fucking World/S01/e (8).mkv",
-          "duration": "00:19:48",
-          "quality": "1080p",
-          "release": "2017"
-        }]
-      }, {
-        "name": "Season 2",
-        "episodes": [{
-          "name": "Chapter 1",
-          "thumbnail": "",
-          "url": "media/Shows/The End Of The Fucking World/S02/e (1).mkv",
-          "duration": "00:19:48",
-          "quality": "1080p",
-          "release": "2019"
-        }, {
-          "name": "Chapter 2",
-          "thumbnail": "",
-          "url": "media/Shows/The End Of The Fucking World/S02/e (2).mkv",
-          "duration": "00:19:54",
-          "quality": "1080p",
-          "release": "2019"
-        }, {
-          "name": "Chapter 3",
-          "thumbnail": "",
-          "url": "media/Shows/The End Of The Fucking World/S02/e (3).mkv",
-          "duration": "00:22:28",
-          "quality": "1080p",
-          "release": "2019"
-        }, {
-          "name": "Chapter 4",
-          "thumbnail": "",
-          "url": "media/Shows/The End Of The Fucking World/S02/e (4).mkv",
-          "duration": "00:24:42",
-          "quality": "1080p",
-          "release": "2019"
-        }, {
-          "name": "Chapter 5",
-          "thumbnail": "",
-          "url": "media/Shows/The End Of The Fucking World/S02/e (5).mkv",
-          "duration": "00:22:02",
-          "quality": "1080p",
-          "release": "2019"
-        }, {
-          "name": "Chapter 6",
-          "thumbnail": "",
-          "url": "media/Shows/The End Of The Fucking World/S02/e (6).mkv",
-          "duration": "00:19:02",
-          "quality": "1080p",
-          "release": "2019"
-        }, {
-          "name": "Chapter 7",
-          "thumbnail": "",
-          "url": "media/Shows/The End Of The Fucking World/S02/e (7).mkv",
-          "duration": "00:24:38",
-          "quality": "1080p",
-          "release": "2019"
-        }, {
-          "name": "Chapter 8",
-          "thumbnail": "",
-          "url": "media/Shows/The End Of The Fucking World/S02/e (8).mkv",
-          "duration": "00:19:44",
-          "quality": "1080p",
-          "release": "2019"
-        }]
       }]
     }, {
       "name": "Dark",
@@ -3871,19 +4010,6 @@
           "quality": "720p",
           "release": "2003"
         }]
-      }]
-    }, {
-      "name": "Kabir Singh",
-      "poster": "https://everipedia-storage.s3.amazonaws.com/ProfilePics/kabir-singh__10120.jpeg?nocache=9554a1",
-      "banner": "https://media.spenowr.com/images/movie/banner/2019-07-18/original/1-21071deed0578d66461f5f7dadee8df4.jpg",
-      "type": "Movie",
-      "episodes": [{
-        "name": "Kabir Singh",
-        "thumbnail": "",
-        "url": "media/Movies/Kabir Singh/kabirsingh.mp4",
-        "duration": "2:51:24",
-        "quality": "1080p",
-        "release": "2019"
       }]
     }, {
       "name": "Finding Nemo",
