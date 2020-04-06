@@ -5,6 +5,114 @@
   "version": "20MR201340",
   "files": [
     {
+      "name": "Kingdom",
+      "poster": "https://cdn.cinematerial.com/p/297x/cpeiremn/kingdom-south-korean-movie-poster-md.jpg?v=1545081667",
+      "banner": "https://www.highonfilms.com/wp-content/uploads/2019/02/Korean-Zombie-Horror-Kingdom-Netflix.jpg",
+      "type": "Show",
+      "seasons": [{
+        "name": "Season 1",
+        "episodes": [{
+          "name": "Episode One",
+          "thumbnail": "",
+          "url": "media2/Shows/Kingdom/S01/E (1).mkv",
+          "subtitle": "",
+          "duration": "00:56:49",
+          "quality": "720p",
+          "release": "2019"
+        }, {
+          "name": "Episode Two",
+          "thumbnail": "",
+          "url": "media2/Shows/Kingdom/S01/E (2).mkv",
+          "subtitle": "",
+          "duration": "00:54:19",
+          "quality": "720p",
+          "release": "2019"
+        }, {
+          "name": "Episode Three",
+          "thumbnail": "",
+          "url": "media2/Shows/Kingdom/S01/E (3).mkv",
+          "subtitle": "",
+          "duration": "00:55:28",
+          "quality": "720p",
+          "release": "2019"
+        }, {
+          "name": "Episode Four",
+          "thumbnail": "",
+          "url": "media2/Shows/Kingdom/S01/E (4).mkv",
+          "subtitle": "",
+          "duration": "00:46:21",
+          "quality": "720p",
+          "release": "2019"
+        }, {
+          "name": "Episode Five",
+          "thumbnail": "",
+          "url": "media2/Shows/Kingdom/S01/E (5).mkv",
+          "subtitle": "",
+          "duration": "00:52:31",
+          "quality": "720p",
+          "release": "2019"
+        }, {
+          "name": "Episode Six",
+          "thumbnail": "",
+          "url": "media2/Shows/Kingdom/S01/E (6).mkv",
+          "subtitle": "",
+          "duration": "00:43:49",
+          "quality": "720p",
+          "release": "2019"
+        }]
+      }, {
+        "name": "Season 2",
+        "episodes": [{
+          "name": "Episode One",
+          "thumbnail": "",
+          "url": "media2/Shows/Kingdom/S02/E (1).mkv",
+          "subtitle": "",
+          "duration": "00:56:49",
+          "quality": "1080p",
+          "release": "2020"
+        }, {
+          "name": "Episode Two",
+          "thumbnail": "",
+          "url": "media2/Shows/Kingdom/S02/E (2).mkv",
+          "subtitle": "",
+          "duration": "00:56:49",
+          "quality": "1080p",
+          "release": "2020"
+        }, {
+          "name": "Episode Three",
+          "thumbnail": "",
+          "url": "media2/Shows/Kingdom/S02/E (3).mkv",
+          "subtitle": "",
+          "duration": "00:56:49",
+          "quality": "1080p",
+          "release": "2020"
+        }, {
+          "name": "Episode Four",
+          "thumbnail": "",
+          "url": "media2/Shows/Kingdom/S02/E (4).mkv",
+          "subtitle": "",
+          "duration": "00:56:49",
+          "quality": "1080p",
+          "release": "2020"
+        }, {
+          "name": "Episode Five",
+          "thumbnail": "",
+          "url": "media2/Shows/Kingdom/S02/E (5).mkv",
+          "subtitle": "",
+          "duration": "00:56:49",
+          "quality": "1080p",
+          "release": "2020"
+        }, {
+          "name": "Episode Six",
+          "thumbnail": "",
+          "url": "media2/Shows/Kingdom/S02/E (6).mkv",
+          "subtitle": "",
+          "duration": "00:56:49",
+          "quality": "1080p",
+          "release": "2020"
+        }]
+      }]
+    }, {
       "name": "Rick and Morty",
       "poster": "https://upload.wikimedia.org/wikipedia/en/thumb/b/b8/Rick_and_Morty_season_1.png/250px-Rick_and_Morty_season_1.png",
       "banner": "https://cdn.mos.cms.futurecdn.net/gZgTi6mqCXDLBPoziDexwR-1200-80.jpeg",
@@ -925,7 +1033,7 @@
     }, {
       "name": "Dark",
       "poster": "https://m.media-amazon.com/images/M/MV5BMmIyZjA3NGUtYjlhNS00ZDlkLWI0MDgtMDc2YWNjNGMwYWZhXkEyXkFqcGdeQXVyMzY0MTE3NzU@._V1_.jpg",
-      "banner": "https://i0.wp.com/screenwars.in/wp-content/uploads/2019/06/dark2-1.jpg?fit=1920%2C1080&ssl=1",
+      "banner": "http://www.thenerdmentality.com/wp-content/uploads/2018/01/DarkFeat.jpg",
       "type": "Show",
       "seasons": [{
         "name": "Season 1",
@@ -1062,7 +1170,7 @@
       }]
     }, {
       "name": "Air Crash Investigation",
-      "poster": "https://img.reelgood.com/content/show/f8a9acd3-0f6e-4816-9310-c4c27c46172c/poster-780.jpg",
+      "poster": "https://htvc.vn/uploads/cache/thumbnail/2016-09-12/318/5899467-aircrashposter3.png",
       "banner": "https://i.pinimg.com/originals/b5/c7/d7/b5c7d740dc4caeac7eb9f00edbc5ac93.jpg",
       "type": "Show",
       "seasons": [{
@@ -4013,7 +4121,7 @@
       }]
     }, {
       "name": "Finding Nemo",
-      "poster": "https://www.itl.cat/pngfile/big/138-1383891_download-movie-poster-finding-nemo.jpg",
+      "poster": "https://www.theyoungfolks.com/wp-content/uploads/2012/09/Finding_Nemo_3D_31.jpg",
       "banner": "https://lumiere-a.akamaihd.net/v1/images/open-uri20160812-3094-q12ugh_dfd54a6e.jpeg?region=0%2C0%2C640%2C320",
       "type": "Movie",
       "episodes": [{
