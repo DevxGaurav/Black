@@ -5,6 +5,20 @@
   "version": "20MR201340",
   "files": [
     {
+      "name": "1917",
+      "poster": "https://m.media-amazon.com/images/M/MV5BOTdmNTFjNDEtNzg0My00ZjkxLTg1ZDAtZTdkMDc2ZmFiNWQ1XkEyXkFqcGdeQXVyNTAzNzgwNTg@._V1_.jpg",
+      "banner": "https://i.ytimg.com/vi/anXAmqojFJw/maxresdefault.jpg",
+      "type": "Movie",
+      "episodes": [{
+        "name": "1917",
+        "thumbnail": "",
+        "url": "media2/Movies/1917/E.mp4",
+        "subtitle": "media2/Movies/1917/E.srt",
+        "duration": "1:58:58",
+        "quality": "1080p",
+        "release": "2019"
+      }]
+    }, {
       "name": "Kingdom",
       "poster": "https://cdn.cinematerial.com/p/297x/cpeiremn/kingdom-south-korean-movie-poster-md.jpg?v=1545081667",
       "banner": "https://www.highonfilms.com/wp-content/uploads/2019/02/Korean-Zombie-Horror-Kingdom-Netflix.jpg",
