@@ -5,6 +5,266 @@
   "version": "20MR201340",
   "files": [
     {
+      "name": "Money Heist",
+      "poster": "https://m.media-amazon.com/images/M/MV5BZDcxOGI0MDYtNTc5NS00NDUzLWFkOTItNDIxZjI0OTllNTljXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_.jpg",
+      "banner": "https://honknews.com/wp-content/uploads/2020/03/Money-Heist-Season-4.png",
+      "type": "Show",
+      "seasons": [{
+        "name": "Season 1",
+        "episodes": [{
+          "name": "Episode One",
+          "thumbnail": "",
+          "url": "media/Shows/Money Heist/S01/E (1).mkv",
+          "subtitle": "",
+          "duration": "00:46:28",
+          "quality": "720p",
+          "release": "2017"
+        }, {
+          "name": "Episode Two",
+          "thumbnail": "",
+          "url": "media/Shows/Money Heist/S01/E (2).mkv",
+          "subtitle": "",
+          "duration": "00:46:28",
+          "quality": "720p",
+          "release": "2017"
+        }, {
+          "name": "Episode Three",
+          "thumbnail": "",
+          "url": "media/Shows/Money Heist/S01/E (3).mkv",
+          "subtitle": "",
+          "duration": "00:46:28",
+          "quality": "720p",
+          "release": "2017"
+        }, {
+          "name": "Episode Four",
+          "thumbnail": "",
+          "url": "media/Shows/Money Heist/S01/E (4).mkv",
+          "subtitle": "",
+          "duration": "00:46:28",
+          "quality": "720p",
+          "release": "2017"
+        }, {
+          "name": "Episode Five",
+          "thumbnail": "",
+          "url": "media/Shows/Money Heist/S01/E (5).mkv",
+          "subtitle": "",
+          "duration": "00:46:28",
+          "quality": "720p",
+          "release": "2017"
+        }, {
+          "name": "Episode Six",
+          "thumbnail": "",
+          "url": "media/Shows/Money Heist/S01/E (6).mkv",
+          "subtitle": "",
+          "duration": "00:46:28",
+          "quality": "720p",
+          "release": "2017"
+        }, {
+          "name": "Episode Seven",
+          "thumbnail": "",
+          "url": "media/Shows/Money Heist/S01/E (7).mkv",
+          "subtitle": "",
+          "duration": "00:46:28",
+          "quality": "720p",
+          "release": "2017"
+        }, {
+          "name": "Episode Eight",
+          "thumbnail": "",
+          "url": "media/Shows/Money Heist/S01/E (8).mkv",
+          "subtitle": "",
+          "duration": "00:46:28",
+          "quality": "720p",
+          "release": "2017"
+        }, {
+          "name": "Episode Nine",
+          "thumbnail": "",
+          "url": "media/Shows/Money Heist/S01/E (9).mkv",
+          "subtitle": "",
+          "duration": "00:46:28",
+          "quality": "720p",
+          "release": "2017"
+        }, {
+          "name": "Episode Ten",
+          "thumbnail": "",
+          "url": "media/Shows/Money Heist/S01/E (10).mkv",
+          "subtitle": "",
+          "duration": "00:46:28",
+          "quality": "720p",
+          "release": "2017"
+        }, {
+          "name": "Episode Eleven",
+          "thumbnail": "",
+          "url": "media/Shows/Money Heist/S01/E (11).mkv",
+          "subtitle": "",
+          "duration": "00:46:28",
+          "quality": "720p",
+          "release": "2017"
+        }, {
+          "name": "Episode Twelve",
+          "thumbnail": "",
+          "url": "media/Shows/Money Heist/S01/E (12).mkv",
+          "subtitle": "",
+          "duration": "00:46:28",
+          "quality": "720p",
+          "release": "2017"
+        }, {
+          "name": "Episode Thirteen",
+          "thumbnail": "",
+          "url": "media/Shows/Money Heist/S01/E (13).mkv",
+          "subtitle": "",
+          "duration": "00:46:28",
+          "quality": "720p",
+          "release": "2017"
+        }, {
+          "name": "Episode Fourteen",
+          "thumbnail": "",
+          "url": "media/Shows/Money Heist/S01/E (14).mkv",
+          "subtitle": "",
+          "duration": "00:46:28",
+          "quality": "720p",
+          "release": "2017"
+        }, {
+          "name": "Episode Fifteen",
+          "thumbnail": "",
+          "url": "media/Shows/Money Heist/S01/E (15).mkv",
+          "subtitle": "",
+          "duration": "00:46:28",
+          "quality": "720p",
+          "release": "2017"
+        }]
+      }, {
+        "name": "Season 2",
+        "episode": [{
+          "name": "Episode One",
+          "thumbnail": "",
+          "url": "media/Shows/Money Heist/S02/E (1).mkv",
+          "subtitle": "",
+          "duration": "00:46:28",
+          "quality": "720p",
+          "release": "2019"
+        }, {
+          "name": "Episode Two",
+          "thumbnail": "",
+          "url": "media/Shows/Money Heist/S02/E (2).mkv",
+          "subtitle": "",
+          "duration": "00:46:28",
+          "quality": "720p",
+          "release": "2019"
+        }, {
+          "name": "Episode Three",
+          "thumbnail": "",
+          "url": "media/Shows/Money Heist/S02/E (3).mkv",
+          "subtitle": "",
+          "duration": "00:46:28",
+          "quality": "720p",
+          "release": "2019"
+        }, {
+          "name": "Episode Four",
+          "thumbnail": "",
+          "url": "media/Shows/Money Heist/S02/E (4).mkv",
+          "subtitle": "",
+          "duration": "00:46:28",
+          "quality": "720p",
+          "release": "2019"
+        }, {
+          "name": "Episode Five",
+          "thumbnail": "",
+          "url": "media/Shows/Money Heist/S02/E (5).mkv",
+          "subtitle": "",
+          "duration": "00:46:28",
+          "quality": "720p",
+          "release": "2019"
+        }, {
+          "name": "Episode Six",
+          "thumbnail": "",
+          "url": "media/Shows/Money Heist/S02/E (6).mkv",
+          "subtitle": "",
+          "duration": "00:46:28",
+          "quality": "720p",
+          "release": "2019"
+        }, {
+          "name": "Episode Seven",
+          "thumbnail": "",
+          "url": "media/Shows/Money Heist/S02/E (7).mkv",
+          "subtitle": "",
+          "duration": "00:46:28",
+          "quality": "720p",
+          "release": "2019"
+        }, {
+          "name": "Episode Eight",
+          "thumbnail": "",
+          "url": "media/Shows/Money Heist/S02/E (8).mkv",
+          "subtitle": "",
+          "duration": "00:46:28",
+          "quality": "720p",
+          "release": "2019"
+        }, {
+          "name": "Episode Nine",
+          "thumbnail": "",
+          "url": "media/Shows/Money Heist/S02/E (9).mkv",
+          "subtitle": "",
+          "duration": "00:46:28",
+          "quality": "720p",
+          "release": "2019"
+        }, {
+          "name": "Episode Ten",
+          "thumbnail": "",
+          "url": "media/Shows/Money Heist/S02/E (10).mkv",
+          "subtitle": "",
+          "duration": "00:46:28",
+          "quality": "720p",
+          "release": "2019"
+        }, {
+          "name": "Episode Eleven",
+          "thumbnail": "",
+          "url": "media/Shows/Money Heist/S02/E (11).mkv",
+          "subtitle": "",
+          "duration": "00:46:28",
+          "quality": "720p",
+          "release": "2019"
+        }, {
+          "name": "Episode Twelve",
+          "thumbnail": "",
+          "url": "media/Shows/Money Heist/S02/E (12).mkv",
+          "subtitle": "",
+          "duration": "00:46:28",
+          "quality": "720p",
+          "release": "2019"
+        }, {
+          "name": "Episode Thirteen",
+          "thumbnail": "",
+          "url": "media/Shows/Money Heist/S02/E (13).mkv",
+          "subtitle": "",
+          "duration": "00:46:28",
+          "quality": "720p",
+          "release": "2019"
+        }, {
+          "name": "Episode Fourteen",
+          "thumbnail": "",
+          "url": "media/Shows/Money Heist/S02/E (14).mkv",
+          "subtitle": "",
+          "duration": "00:46:28",
+          "quality": "720p",
+          "release": "2019"
+        }, {
+          "name": "Episode Fifteen",
+          "thumbnail": "",
+          "url": "media/Shows/Money Heist/S02/E (15).mkv",
+          "subtitle": "",
+          "duration": "00:46:28",
+          "quality": "720p",
+          "release": "2019"
+        }, {
+          "name": "Episode Sixteen",
+          "thumbnail": "",
+          "url": "media/Shows/Money Heist/S02/E (16).mkv",
+          "subtitle": "",
+          "duration": "00:46:28",
+          "quality": "720p",
+          "release": "2019"
+        }]
+      }]
+    }, {
       "name": "1917",
       "poster": "https://m.media-amazon.com/images/M/MV5BOTdmNTFjNDEtNzg0My00ZjkxLTg1ZDAtZTdkMDc2ZmFiNWQ1XkEyXkFqcGdeQXVyNTAzNzgwNTg@._V1_.jpg",
       "banner": "https://i.ytimg.com/vi/anXAmqojFJw/maxresdefault.jpg",
@@ -13,7 +273,7 @@
         "name": "1917",
         "thumbnail": "",
         "url": "media2/Movies/1917/E.mp4",
-        "subtitle": "media2/Movies/1917/E.srt",
+        "subtitle": "",
         "duration": "1:58:58",
         "quality": "1080p",
         "release": "2019"
@@ -629,20 +889,6 @@
         }]
       }]
     }, {
-      "name": "Joker",
-      "poster": "https://www.joblo.com/assets/images/joblo/posters/2019/08/joker-poster-main2.jpg",
-      "banner": "https://penchalk.com/wp-content/uploads/2019/11/share.jpg",
-      "type": "Movie",
-      "episodes": [{
-        "name": "Joker",
-        "thumbnail": "",
-        "url": "media/Movies/Joker/Joker 2019 [1080p].mp4",
-        "subtitle": "media/Movies/Joker/Joker 2019 [1080p].srt",
-        "duration": "2:01:49",
-        "quality": "1080p",
-        "release": "2019"
-      }]
-    }, {
       "name": "Harry Potter",
       "poster": "https://mypostercollection.com/wp-content/uploads/2018/09/Harry-Potter-Poster-2001-MyPosterCollection.com-1-683x1024.jpg",
       "banner": "https://shopwhopper.com/wp-content/uploads/2017/11/New-style-Harry-Potter-Poster-Custom-Canvas-Poster-Art-Home-Decoration-Cloth-Fabric-Wall-Poster-Print-37.jpg_640x640-37.jpg",
@@ -1017,32 +1263,6 @@
           "quality": "1080p",
           "release": "2016"
         }]
-      }]
-    }, {
-      "name": "Uri: The Surgical Strike",
-      "poster": "https://m.media-amazon.com/images/M/MV5BMWU4ZjNlNTQtOGE2MS00NDI0LWFlYjMtMmY3ZWVkMjJkNGRmXkEyXkFqcGdeQXVyNjE1OTQ0NjA@._V1_.jpg",
-      "banner": "https://filmspell.com/wp-content/uploads/2019/01/URI-THE-SURGICAL-STRIKE-HD-Poster-1.jpg",
-      "type": "Movie",
-      "episodes": [{
-        "name": "Uri: The Surgical Strike",
-        "thumbnail": "",
-        "url": "media/Movies/Uri/uri.mp4",
-        "duration": "2:18:15",
-        "quality": "1080p",
-        "release": "2019"
-      }]
-    }, {
-      "name": "Interstellar",
-      "poster": "https://images-na.ssl-images-amazon.com/images/I/91kFYg4fX3L.jpg",
-      "banner": "https://wegeekgirls.files.wordpress.com/2014/11/interstellar_imax-banner.jpg",
-      "type": "Movie",
-      "episodes": [{
-        "name": "Interstellar",
-        "thumbnail": "",
-        "url": "media/Movies/Interstellar/interstellar.mp4",
-        "duration": "2:49:04",
-        "quality": "1080p",
-        "release": "2014"
       }]
     }, {
       "name": "Dark",
@@ -4134,47 +4354,6 @@
         }]
       }]
     }, {
-      "name": "Finding Nemo",
-      "poster": "https://www.theyoungfolks.com/wp-content/uploads/2012/09/Finding_Nemo_3D_31.jpg",
-      "banner": "https://lumiere-a.akamaihd.net/v1/images/open-uri20160812-3094-q12ugh_dfd54a6e.jpeg?region=0%2C0%2C640%2C320",
-      "type": "Movie",
-      "episodes": [{
-        "name": "Finding Nemo",
-        "thumbnail": "",
-        "url": "media/Movies/Finding Nemo/E (1).mp4",
-        "duration": "1:40:54",
-        "quality": "1080p",
-        "release": "2003"
-      }]
-    }, {
-      "name": "Finding Dory",
-      "poster": "https://m.media-amazon.com/images/M/MV5BNzg4MjM2NDQ4MV5BMl5BanBnXkFtZTgwMzk3MTgyODE@._V1_.jpg",
-      "banner": "https://i.ytimg.com/vi/3JNLwlcPBPI/maxresdefault.jpg",
-      "type": "Movie",
-      "episodes": [{
-        "name": "Finding Dory",
-        "thumbnail": "",
-        "url": "media/Movies/Finding Dory/E (1).mkv",
-        "subtitle": "media/Movies/Finding Dory/E (1).srt",
-        "duration": "1:37:03",
-        "quality": "1080p",
-        "release": "2016"
-      }]
-    }, {
-      "name": "Titanic",
-      "poster": "https://m.media-amazon.com/images/M/MV5BMDdmZGU3NDQtY2E5My00ZTliLWIzOTUtMTY4ZGI1YjdiNjk3XkEyXkFqcGdeQXVyNTA4NzY1MzY@._V1_.jpg",
-      "banner": "https://cloud10.todocoleccion.online/cine-posters-carteles/tc/2019/02/01/18/149497830.jpg",
-      "type": "Movie",
-      "episodes": [{
-        "name": "Titanic",
-        "thumbnail": "",
-        "url": "media/Movies/Titanic/E (1).mp4",
-        "subtitle": "media/Movies/Titanic/E (1).srt",
-        "duration": "3:06:49",
-        "quality": "1080p",
-        "release": "1997"
-      }]
-    }, {
       "name": "Jurassic Park",
       "poster": "https://images-na.ssl-images-amazon.com/images/I/6130wSbRg7L._AC_SY679_.jpg",
       "banner": "https://d13ezvd6yrslxm.cloudfront.net/wp/wp-content/images/Ferguson-JP-Variant.jpg",
@@ -4225,28 +4404,6 @@
         "duration": "2:08:17",
         "quality": "1080p",
         "release": "2018"
-      }]
-    }, {
-      "name": "The Conjuring",
-      "poster": "https://images-na.ssl-images-amazon.com/images/I/81NwnEjW27L._AC_SL1500_.jpg",
-      "banner": "https://www.wickedhorror.com/wp-content/uploads/2016/06/conjuring-2-banner-poster.jpg",
-      "type": "Movie",
-      "episodes": [{
-        "name": "The Conjuring",
-        "thumbnail": "https://images-na.ssl-images-amazon.com/images/I/51ADCjwch2L._AC_.jpg",
-        "url": "media/Movies/The Conjuring/E (1).mp4",
-        "subtitle": "",
-        "duration": "1:51:58",
-        "quality": "1080p",
-        "release": "2013"
-      }, {
-        "name": "The Conjuring 2",
-        "thumbnail": "https://images-na.ssl-images-amazon.com/images/I/61zAYwsOHxL._AC_SY741_.jpg",
-        "url": "media/Movies/The Conjuring/E (2).mkv",
-        "subtitle": "media/Movies/The Conjuring/E (2).srt",
-        "duration": "2:13:52",
-        "quality": "1080p",
-        "release": "2016"
       }]
     }]
 }
