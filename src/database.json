@@ -5,6 +5,60 @@
   "version": "20MR201340",
   "files": [
     {
+      "name": "World War II",
+      "poster": "https://wallpapershome.com/images/pages/pic_v/13475.jpg",
+      "banner": "https://www.history.com/.image/t_share/MTU4MTA0NTU2NjQxNzI0MDI2/ww2.jpg",
+      "type": "Movie",
+      "episodes": [{
+        "name": "Episode One: Hitler's rise to power",
+        "thumbnail": "",
+        "url": "media2/Movie/WW2/E (1).mp4",
+        "subtitle": "",
+        "duration": "00:46:44",
+        "quality": "720p",
+        "release": "2020"
+      }, {
+        "name": "Episode Two: The collapse of France",
+        "thumbnail": "",
+        "url": "media2/Movie/WW2/E (2).mp4",
+        "subtitle": "",
+        "duration": "00:47:02",
+        "quality": "720p",
+        "release": "2020"
+      }, {
+        "name": "Episode Three: Origins of the holocaust",
+        "thumbnail": "",
+        "url": "media2/Movie/WW2/E (3).mp4",
+        "subtitle": "",
+        "duration": "00:47:00",
+        "quality": "720p",
+        "release": "2020"
+      }, {
+        "name": "Episode Four: American Allies",
+        "thumbnail": "",
+        "url": "media2/Movie/WW2/E (4).mp4",
+        "subtitle": "",
+        "duration": "00:47:00",
+        "quality": "720p",
+        "release": "2020"
+      }, {
+        "name": "Episode Five: Allies strike back",
+        "thumbnail": "",
+        "url": "media2/Movie/WW2/E (5).mp4",
+        "subtitle": "",
+        "duration": "00:47:02",
+        "quality": "720p",
+        "release": "2020"
+      }, {
+        "name": "Episode Six: Retreat and Surrender",
+        "thumbnail": "",
+        "url": "media2/Movie/WW2/E (6).mp4",
+        "subtitle": "",
+        "duration": "00:44:45",
+        "quality": "720p",
+        "release": "2020"
+      }]
+    }, {
       "name": "Money Heist",
       "poster": "https://m.media-amazon.com/images/M/MV5BZDcxOGI0MDYtNTc5NS00NDUzLWFkOTItNDIxZjI0OTllNTljXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_.jpg",
       "banner": "https://honknews.com/wp-content/uploads/2020/03/Money-Heist-Season-4.png",
