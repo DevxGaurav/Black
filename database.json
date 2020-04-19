@@ -1,10 +1,253 @@
 {
   "filename": "database.json",
-  "date_created": "15-02-2020 20:12:00",
-  "last_modified": "20-03-2020 13:40:00",
-  "version": "20MR201340",
+  "version": "190420",
   "files": [
     {
+      "name": "Lost in Space",
+      "poster": "https://cdn.flickeringmyth.com/wp-content/uploads/2018/03/Lost-in-Space-poster-600x889.jpg",
+      "banner": "https://cdn.flickeringmyth.com/wp-content/uploads/2017/09/tv_lostinspace_featureimage_desktop_1600x900-600x338.jpg",
+      "type": "Show",
+      "seasons": [{
+        "name": "Season 1",
+        "episodes": [{
+          "name": "Episode One: Impact",
+          "thumbnail": "",
+          "url": "media/Shows/Lost in Space/S01/E (1).mkv",
+          "subtitle": "",
+          "duration": "01:03:36",
+          "quality": "720p",
+          "release": "2018"
+        }, {
+          "name": "Episode Two: Diamonds in the Sky",
+          "thumbnail": "",
+          "url": "media/Shows/Lost in Space/S01/E (2).mkv",
+          "subtitle": "",
+          "duration": "00:56:27",
+          "quality": "720p",
+          "release": "2018"
+        }, {
+          "name": "Episode Three: Infestation",
+          "thumbnail": "",
+          "url": "media/Shows/Lost in Space/S01/E (3).mkv",
+          "subtitle": "",
+          "duration": "00:55:27",
+          "quality": "720p",
+          "release": "2018"
+        }, {
+          "name": "Episode Four: The Robinsons Were Here",
+          "thumbnail": "",
+          "url": "media/Shows/Lost in Space/S01/E (4).mkv",
+          "subtitle": "",
+          "duration": "01:00:33",
+          "quality": "720p",
+          "release": "2018"
+        }, {
+          "name": "Episode Five: Transmission",
+          "thumbnail": "",
+          "url": "media/Shows/Lost in Space/S01/E (5).mkv",
+          "subtitle": "",
+          "duration": "00:48:59",
+          "quality": "720p",
+          "release": "2018"
+        }, {
+          "name": "Episode Six: Eulogy",
+          "thumbnail": "",
+          "url": "media/Shows/Lost in Space/S01/E (6).mkv",
+          "subtitle": "",
+          "duration": "01:05:32",
+          "quality": "720p",
+          "release": "2018"
+        }, {
+          "name": "Episode Seven: Pressurized",
+          "thumbnail": "",
+          "url": "media/Shows/Lost in Space/S01/E (7).mkv",
+          "subtitle": "",
+          "duration": "00:52:49",
+          "quality": "720p",
+          "release": "2018"
+        }, {
+          "name": "Episode Eight: Trajectory",
+          "thumbnail": "",
+          "url": "media/Shows/Lost in Space/S01/E (8).mkv",
+          "subtitle": "",
+          "duration": "00:57:49",
+          "quality": "720p",
+          "release": "2018"
+        }, {
+          "name": "Episode Nine: Resurrection",
+          "thumbnail": "",
+          "url": "media/Shows/Lost in Space/S01/E (9).mkv",
+          "subtitle": "",
+          "duration": "00:47:55",
+          "quality": "720p",
+          "release": "2018"
+        }, {
+          "name": "Episode Ten: Danger, Will Robinson",
+          "thumbnail": "",
+          "url": "media/Shows/Lost in Space/S01/E (10).mkv",
+          "subtitle": "",
+          "duration": "00:51:23",
+          "quality": "720p",
+          "release": "2018"
+        }]
+      }, {
+        "name": "Season 2",
+        "episodes": [{
+          "name": "Episode One: Shipwrecked",
+          "thumbnail": "",
+          "url": "media/Shows/Lost in Space/S02/E (1).mkv",
+          "subtitle": "",
+          "duration": "00:51:23",
+          "quality": "1080p",
+          "release": "2019"
+        }, {
+          "name": "Episode Two: Precipice",
+          "thumbnail": "",
+          "url": "media/Shows/Lost in Space/S02/E (2).mkv",
+          "subtitle": "",
+          "duration": "00:51:23",
+          "quality": "1080p",
+          "release": "2019"
+        }, {
+          "name": "Episode Three: Echoes",
+          "thumbnail": "",
+          "url": "media/Shows/Lost in Space/S02/E (3).mkv",
+          "subtitle": "",
+          "duration": "00:51:23",
+          "quality": "1080p",
+          "release": "2019"
+        }, {
+          "name": "Episode Four: Scarecrow",
+          "thumbnail": "",
+          "url": "media/Shows/Lost in Space/S02/E (4).mkv",
+          "subtitle": "",
+          "duration": "00:51:23",
+          "quality": "1080p",
+          "release": "2019"
+        }, {
+          "name": "Episode Five: Run",
+          "thumbnail": "",
+          "url": "media/Shows/Lost in Space/S02/E (5).mkv",
+          "subtitle": "",
+          "duration": "00:51:23",
+          "quality": "1080p",
+          "release": "2019"
+        }, {
+          "name": "Episode Six: Severed",
+          "thumbnail": "",
+          "url": "media/Shows/Lost in Space/S02/E (6).mkv",
+          "subtitle": "",
+          "duration": "00:51:23",
+          "quality": "1080p",
+          "release": "2019"
+        }, {
+          "name": "Episode Seven: Evolution",
+          "thumbnail": "",
+          "url": "media/Shows/Lost in Space/S02/E (7).mkv",
+          "subtitle": "",
+          "duration": "00:51:23",
+          "quality": "1080p",
+          "release": "2019"
+        }, {
+          "name": "Episode Eight: Unknown",
+          "thumbnail": "",
+          "url": "media/Shows/Lost in Space/S02/E (8).mkv",
+          "subtitle": "",
+          "duration": "00:51:23",
+          "quality": "1080p",
+          "release": "2019"
+        }, {
+          "name": "Episode Nine: Shell Game",
+          "thumbnail": "",
+          "url": "media/Shows/Lost in Space/S02/E (9).mkv",
+          "subtitle": "",
+          "duration": "00:51:23",
+          "quality": "1080p",
+          "release": "2019"
+        }, {
+          "name": "Episode Ten: Ninety-Seven",
+          "thumbnail": "",
+          "url": "media/Shows/Lost in Space/S02/E (10).mkv",
+          "subtitle": "",
+          "duration": "00:51:23",
+          "quality": "1080p",
+          "release": "2019"
+        }]
+      }]
+    }, {
+      "name": "The Witcher",
+      "poster": "https://m.media-amazon.com/images/M/MV5BOGE4MmVjMDgtMzIzYy00NjEwLWJlODMtMDI1MGY2ZDlhMzE2XkEyXkFqcGdeQXVyMzY0MTE3NzU@._V1_.jpg",
+      "banner": "https://occ-0-33-37.1.nflxso.net/dnm/api/v6/X194eJsgWBDE2aQbaNdmCXGUP-Y/AAAABQYHuuRO8hPojbcDF-eNuU_PppZawwQPwA5e2GX9cNq6Cwa4B51pt1ynmeQmThZHZy6oieGg-jRbP0VdfSLO1O1N00eAY_tiez_lpEghlVr0ytaakKICyi7bZOGcfQ.jpg?r=382",
+      "type": "Show",
+      "seasons": [{
+        "name": "Season 1",
+        "episodes": [{
+          "name": "Episode One: The End's Beginning",
+          "thumbnail": "",
+          "url": "media2/Shows/The Witcher/S01/E (1).mkv",
+          "subtitle": "",
+          "duration": "01:01:04",
+          "quality": "1080p",
+          "release": "2019"
+        }, {
+          "name": "Episode Two: Four Marks",
+          "thumbnail": "",
+          "url": "media2/Shows/The Witcher/S01/E (2).mkv",
+          "subtitle": "",
+          "duration": "01:00:56",
+          "quality": "1080p",
+          "release": "2019"
+        }, {
+          "name": "Episode Three: Betrayer Moon",
+          "thumbnail": "",
+          "url": "media2/Shows/The Witcher/S01/E (3).mkv",
+          "subtitle": "",
+          "duration": "01:07:02",
+          "quality": "1080p",
+          "release": "2019"
+        }, {
+          "name": "Episode Four: Of Banquets, Bastards and Burials",
+          "thumbnail": "",
+          "url": "media2/Shows/The Witcher/S01/E (4).mkv",
+          "subtitle": "",
+          "duration": "01:02:10",
+          "quality": "1080p",
+          "release": "2019"
+        }, {
+          "name": "Episode Five: Bottled Appetities",
+          "thumbnail": "",
+          "url": "media2/Shows/The Witcher/S01/E (5).mkv",
+          "subtitle": "",
+          "duration": "00:59:08",
+          "quality": "1080p",
+          "release": "2019"
+        }, {
+          "name": "Episode Six: Rare Species",
+          "thumbnail": "",
+          "url": "media2/Shows/The Witcher/S01/E (6).mkv",
+          "subtitle": "",
+          "duration": "00:59:34",
+          "quality": "1080p",
+          "release": "2019"
+        }, {
+          "name": "Episode Seven: Before a Fall",
+          "thumbnail": "",
+          "url": "media2/Shows/The Witcher/S01/E (7).mkv",
+          "subtitle": "",
+          "duration": "00:47:22",
+          "quality": "1080p",
+          "release": "2019"
+        }, {
+          "name": "Episode Eight: Much More",
+          "thumbnail": "",
+          "url": "media2/Shows/The Witcher/S01/E (8).mkv",
+          "subtitle": "",
+          "duration": "00:59:38",
+          "quality": "1080p",
+          "release": "2019"
+        }]
+      }]
+    }, {
       "name": "World War II",
       "poster": "https://wallpapershome.com/images/pages/pic_v/13475.jpg",
       "banner": "https://www.history.com/.image/t_share/MTU4MTA0NTU2NjQxNzI0MDI2/ww2.jpg",
@@ -57,280 +300,6 @@
         "duration": "00:44:45",
         "quality": "720p",
         "release": "2020"
-      }]
-    }, {
-      "name": "Money Heist",
-      "poster": "https://m.media-amazon.com/images/M/MV5BZDcxOGI0MDYtNTc5NS00NDUzLWFkOTItNDIxZjI0OTllNTljXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_.jpg",
-      "banner": "https://honknews.com/wp-content/uploads/2020/03/Money-Heist-Season-4.png",
-      "type": "Show",
-      "seasons": [{
-        "name": "Season 1",
-        "episodes": [{
-          "name": "Episode One",
-          "thumbnail": "",
-          "url": "media/Shows/Money Heist/S01/E (1).mkv",
-          "subtitle": "",
-          "duration": "00:46:28",
-          "quality": "720p",
-          "release": "2017"
-        }, {
-          "name": "Episode Two",
-          "thumbnail": "",
-          "url": "media/Shows/Money Heist/S01/E (2).mkv",
-          "subtitle": "",
-          "duration": "00:46:28",
-          "quality": "720p",
-          "release": "2017"
-        }, {
-          "name": "Episode Three",
-          "thumbnail": "",
-          "url": "media/Shows/Money Heist/S01/E (3).mkv",
-          "subtitle": "",
-          "duration": "00:46:28",
-          "quality": "720p",
-          "release": "2017"
-        }, {
-          "name": "Episode Four",
-          "thumbnail": "",
-          "url": "media/Shows/Money Heist/S01/E (4).mkv",
-          "subtitle": "",
-          "duration": "00:46:28",
-          "quality": "720p",
-          "release": "2017"
-        }, {
-          "name": "Episode Five",
-          "thumbnail": "",
-          "url": "media/Shows/Money Heist/S01/E (5).mkv",
-          "subtitle": "",
-          "duration": "00:46:28",
-          "quality": "720p",
-          "release": "2017"
-        }, {
-          "name": "Episode Six",
-          "thumbnail": "",
-          "url": "media/Shows/Money Heist/S01/E (6).mkv",
-          "subtitle": "",
-          "duration": "00:46:28",
-          "quality": "720p",
-          "release": "2017"
-        }, {
-          "name": "Episode Seven",
-          "thumbnail": "",
-          "url": "media/Shows/Money Heist/S01/E (7).mkv",
-          "subtitle": "",
-          "duration": "00:46:28",
-          "quality": "720p",
-          "release": "2017"
-        }, {
-          "name": "Episode Eight",
-          "thumbnail": "",
-          "url": "media/Shows/Money Heist/S01/E (8).mkv",
-          "subtitle": "",
-          "duration": "00:46:28",
-          "quality": "720p",
-          "release": "2017"
-        }, {
-          "name": "Episode Nine",
-          "thumbnail": "",
-          "url": "media/Shows/Money Heist/S01/E (9).mkv",
-          "subtitle": "",
-          "duration": "00:46:28",
-          "quality": "720p",
-          "release": "2017"
-        }, {
-          "name": "Episode Ten",
-          "thumbnail": "",
-          "url": "media/Shows/Money Heist/S01/E (10).mkv",
-          "subtitle": "",
-          "duration": "00:46:28",
-          "quality": "720p",
-          "release": "2017"
-        }, {
-          "name": "Episode Eleven",
-          "thumbnail": "",
-          "url": "media/Shows/Money Heist/S01/E (11).mkv",
-          "subtitle": "",
-          "duration": "00:46:28",
-          "quality": "720p",
-          "release": "2017"
-        }, {
-          "name": "Episode Twelve",
-          "thumbnail": "",
-          "url": "media/Shows/Money Heist/S01/E (12).mkv",
-          "subtitle": "",
-          "duration": "00:46:28",
-          "quality": "720p",
-          "release": "2017"
-        }, {
-          "name": "Episode Thirteen",
-          "thumbnail": "",
-          "url": "media/Shows/Money Heist/S01/E (13).mkv",
-          "subtitle": "",
-          "duration": "00:46:28",
-          "quality": "720p",
-          "release": "2017"
-        }, {
-          "name": "Episode Fourteen",
-          "thumbnail": "",
-          "url": "media/Shows/Money Heist/S01/E (14).mkv",
-          "subtitle": "",
-          "duration": "00:46:28",
-          "quality": "720p",
-          "release": "2017"
-        }, {
-          "name": "Episode Fifteen",
-          "thumbnail": "",
-          "url": "media/Shows/Money Heist/S01/E (15).mkv",
-          "subtitle": "",
-          "duration": "00:46:28",
-          "quality": "720p",
-          "release": "2017"
-        }]
-      }, {
-        "name": "Season 2",
-        "episode": [{
-          "name": "Episode One",
-          "thumbnail": "",
-          "url": "media/Shows/Money Heist/S02/E (1).mkv",
-          "subtitle": "",
-          "duration": "00:46:28",
-          "quality": "720p",
-          "release": "2019"
-        }, {
-          "name": "Episode Two",
-          "thumbnail": "",
-          "url": "media/Shows/Money Heist/S02/E (2).mkv",
-          "subtitle": "",
-          "duration": "00:46:28",
-          "quality": "720p",
-          "release": "2019"
-        }, {
-          "name": "Episode Three",
-          "thumbnail": "",
-          "url": "media/Shows/Money Heist/S02/E (3).mkv",
-          "subtitle": "",
-          "duration": "00:46:28",
-          "quality": "720p",
-          "release": "2019"
-        }, {
-          "name": "Episode Four",
-          "thumbnail": "",
-          "url": "media/Shows/Money Heist/S02/E (4).mkv",
-          "subtitle": "",
-          "duration": "00:46:28",
-          "quality": "720p",
-          "release": "2019"
-        }, {
-          "name": "Episode Five",
-          "thumbnail": "",
-          "url": "media/Shows/Money Heist/S02/E (5).mkv",
-          "subtitle": "",
-          "duration": "00:46:28",
-          "quality": "720p",
-          "release": "2019"
-        }, {
-          "name": "Episode Six",
-          "thumbnail": "",
-          "url": "media/Shows/Money Heist/S02/E (6).mkv",
-          "subtitle": "",
-          "duration": "00:46:28",
-          "quality": "720p",
-          "release": "2019"
-        }, {
-          "name": "Episode Seven",
-          "thumbnail": "",
-          "url": "media/Shows/Money Heist/S02/E (7).mkv",
-          "subtitle": "",
-          "duration": "00:46:28",
-          "quality": "720p",
-          "release": "2019"
-        }, {
-          "name": "Episode Eight",
-          "thumbnail": "",
-          "url": "media/Shows/Money Heist/S02/E (8).mkv",
-          "subtitle": "",
-          "duration": "00:46:28",
-          "quality": "720p",
-          "release": "2019"
-        }, {
-          "name": "Episode Nine",
-          "thumbnail": "",
-          "url": "media/Shows/Money Heist/S02/E (9).mkv",
-          "subtitle": "",
-          "duration": "00:46:28",
-          "quality": "720p",
-          "release": "2019"
-        }, {
-          "name": "Episode Ten",
-          "thumbnail": "",
-          "url": "media/Shows/Money Heist/S02/E (10).mkv",
-          "subtitle": "",
-          "duration": "00:46:28",
-          "quality": "720p",
-          "release": "2019"
-        }, {
-          "name": "Episode Eleven",
-          "thumbnail": "",
-          "url": "media/Shows/Money Heist/S02/E (11).mkv",
-          "subtitle": "",
-          "duration": "00:46:28",
-          "quality": "720p",
-          "release": "2019"
-        }, {
-          "name": "Episode Twelve",
-          "thumbnail": "",
-          "url": "media/Shows/Money Heist/S02/E (12).mkv",
-          "subtitle": "",
-          "duration": "00:46:28",
-          "quality": "720p",
-          "release": "2019"
-        }, {
-          "name": "Episode Thirteen",
-          "thumbnail": "",
-          "url": "media/Shows/Money Heist/S02/E (13).mkv",
-          "subtitle": "",
-          "duration": "00:46:28",
-          "quality": "720p",
-          "release": "2019"
-        }, {
-          "name": "Episode Fourteen",
-          "thumbnail": "",
-          "url": "media/Shows/Money Heist/S02/E (14).mkv",
-          "subtitle": "",
-          "duration": "00:46:28",
-          "quality": "720p",
-          "release": "2019"
-        }, {
-          "name": "Episode Fifteen",
-          "thumbnail": "",
-          "url": "media/Shows/Money Heist/S02/E (15).mkv",
-          "subtitle": "",
-          "duration": "00:46:28",
-          "quality": "720p",
-          "release": "2019"
-        }, {
-          "name": "Episode Sixteen",
-          "thumbnail": "",
-          "url": "media/Shows/Money Heist/S02/E (16).mkv",
-          "subtitle": "",
-          "duration": "00:46:28",
-          "quality": "720p",
-          "release": "2019"
-        }]
-      }]
-    }, {
-      "name": "1917",
-      "poster": "https://m.media-amazon.com/images/M/MV5BOTdmNTFjNDEtNzg0My00ZjkxLTg1ZDAtZTdkMDc2ZmFiNWQ1XkEyXkFqcGdeQXVyNTAzNzgwNTg@._V1_.jpg",
-      "banner": "https://i.ytimg.com/vi/anXAmqojFJw/maxresdefault.jpg",
-      "type": "Movie",
-      "episodes": [{
-        "name": "1917",
-        "thumbnail": "",
-        "url": "media2/Movies/1917/E.mp4",
-        "subtitle": "",
-        "duration": "1:58:58",
-        "quality": "1080p",
-        "release": "2019"
       }]
     }, {
       "name": "Kingdom",
